@@ -37,10 +37,6 @@ Eric Gilbert recommends [Hamming’s lecture on this topic](https://www.cs.virgi
 
 I am a professor of Information Science at Cornell, as well as a field member in Computer Science.
 This means I can be the main advisor for PhD students in both these programs.
-
-Having said that, especially in Information Science, the type of contributions you make and the type of methods you might use vary significantly.
-I don’t like labels, but if I had to align myself with one research paradigm, I would point at pragmatism which is “based on the proposition that researchers should use the philosophical and/or methodological approach that works best for the particular research problem that is being investigated” (Kaushik and Walsh 2019).
-
 As such, my students end up doing work that ranges from qualitative methods such as semi-structured interviews, to quantitative methods like online experiments and large-scale data collection and analysis, to computational methods such as system building and evaluation as well as developing computational techniques based on machine learning or algorithms of various types.
 Very often, it is the same student that applies more than one of these methods for their PhD work.
 
@@ -51,7 +47,7 @@ See [Eric's syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU
 This is a note about what you should _strive_ to achieve in terms of output during your PhD.
 This is not necessarily what I expect to see as your output -- but what you should expect to _try_ to produce.
 These expectations are also averaged over multiple years.
-You should expect to produce less in your first and second years (for example, it's ok to have only one project to begin with, possibly through a collaboration with a senior student), and more in your third and fourth (often dropping again in the final year while you are searching for jobs).
+You should expect to produce less in your first and second years (for example, it's okay to have only one project to begin with, possibly through a collaboration with a senior student), and more in your third and fourth (often dropping again in the final year while you are searching for jobs).
 
 1. Try to produce one very high-quality, high-risk paper per year.
 This should yield 3-4 actually published versions of these, on average, over the span of your PhD.
@@ -82,7 +78,7 @@ You will need to make sure you balance your time, and not forget to take time of
 
 I don’t like to dictate how anyone works.
 But in general it’s very useful for me to keep track of my research work in an intentional way.
-I make heavy use of cloud services for documents, code, data, etc.; I've seen many others use Git repositories to do similar things (which may work best if you want to track versions of a Jupyter notebook, let’s say).
+I make heavy use of cloud services for documents, code, data, etc.; I've seen many others use Git repositories to do similar things (which may work best if you want to track versions of a Jupyter notebook, let's say).
 I often keep a little text file in any project directory that holds the state of the project, should I need to go away from it and come back to it later.
 Pick what works best for you, but the advice I would give is to do something intentional from the outset of a project.
 
@@ -96,14 +92,14 @@ _Have ideas!_
 Seriously, I do not like supervising a student without their own ideas—nor do I think it’s good for your development as a scholar.
 As noted above, the major thing that we’re doing here is turning you into a world-class scholar.
 One key way you do that is by coming up with new ideas.
-Moreover, it’s important for being competitive in academic job applications; those evaluations are impacted by your future work ideas, not only your work to date.
+Moreover, it's important for being competitive in academic job applications; those evaluations are impacted by your future work ideas, not only your work to date.
 
 Good ideas are rare and are hard to come by.
-Most of my ideas, which you can expect to hear plenty of, are bad (memorable quote from a student to me during their Cornell A (qualifying) Exam: "this is _actually_ not a bad idea!").
-I love to hear ideas, good or bad -- some might turn out to be the opposite after a short (or long) discussion.
-Ideas are everywhere, and if you let yourself, you’ll have them all time.
+Most of my ideas, which you can expect to hear plenty of, are bad.
+I love to hear ideas, good or bad, some might turn out to be the opposite after a short (or long) discussion.
+Ideas are everywhere, and if you let yourself, you'll have them all time.
 It can be easy in graduate school to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions.
-Both are important: a good scholar can move between levels of detail (i.e., “What’s the right statistical technique for these data in this paper?” to “Which of these 5 new ideas would have the most impact?”).
+Both are important: a good scholar can move between levels of detail (i.e.g, "What's the right statistical technique for these data in this paper?" to "Which of these 5 new ideas would have the most impact?").
 
 #### Where to find ideas
 
@@ -124,14 +120,14 @@ Many of them have been thought about and studied in earlier forms.
 Try to read broadly (e.g., sociology, social psychology, communication, economics, etc.), and consider how these texts and concepts are related to your work.
 
 I recommend finding a good way to keep track of ideas.
-Eric [reports](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#) using a file called “ideas.txt” where he adds new ideas as they come to mind.
-I use Evernote, using a note for each new idea with the searchable text "research idea".
-A research notebook (note: use a Moleskine for the "I know what I'm doing" look) is another way to keep track, although it's perhaps not as easily searchable.
+You can use a file called `ideas.txt` to keep track of new ideas as they come to mind.
+I use [todo: using a note for each new idea with the searchable text "research idea".
+A research notebook (note: use a Moleskine for the "I know what I'm doing" look) is another way to keep track, although it's perhaps not as easily searchable.]
 
 Importantly, while there is no such thing as "too many ideas", you shouldn't pursue more than a few at a time, and carefully balance new ideas with ongoing work.
-Which brings us to...
+This brings us to...
 
-#### Deciding on Ideas to Pursue
+#### Deciding what Ideas to Pursue
 
 I am often asked who decides which ideas and research direction to pursue.
 Can a PhD student choose any topic and research direction?
@@ -150,4 +146,21 @@ I have had students leave me to work with other advisors as it became clear that
 
 #### Non-research Work
 
-Beyond research activities, you should expect to spend time on various other tasks in a sustained or intermittent manner. These activities should be considered part of your academic work, and fit into your work week. Such tasks may include: reviewing papers (often referred by me); participating in review committees (later years); applying for internships and fellowships; reading papers and books; participating in conferences, workshop, retreats, and other academic events; volunteering in or help organize (later years) conference, workshops, seminars and other events; work to support the academic community goals such as broadening participation; attending seminars; doing classwork; doing TA work (when relevant); doing non-PhD-related GRA work (rare, as noted above); doing student committee work (e.g. “PhD social committee”) and department committee work (usually voluntary, e.g. member of the faculty search committee); outreach work (e.g. report or op-ed based on your research); advising others (e.g. Masters/Undergraduates/interns working on your projects); writing professional email. 
+Beyond research activities, you should expect to spend time on various other tasks in a sustained or intermittent manner.
+These activities should be considered part of your academic work, and fit into your work week.
+Such tasks may include: 
+* reviewing papers (often referred by me)
+* participating in review committees (later years)
+* applying for internships and fellowships
+* reading papers and books
+* participating in conferences, workshop, retreats, and other academic events
+* volunteering in or help organize (later years) conference, workshops, seminars and other events
+* work to support the academic community goals such as broadening participation
+* attending seminars
+* doing classwork
+* doing TA work (when relevant)
+* doing student committee work (e.g., "PhD social committee") and department committee work (usually voluntary, e.g., member of the faculty search committee)
+* outreach work (e.g., report or op-ed based on your research)
+* advising others (e.g., Masters/Undergraduates/interns working on your projects)
+* writing professional email
+
