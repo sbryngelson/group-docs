@@ -25,18 +25,16 @@ I like to think of it as having a discussion with a colleague—in front of a la
 That’s the tone I’m aiming for in my answers to questions.
 Three concrete tips:
 
-1. 
-Remember that you almost certainly know more about the details of your work more than anyone else in the room.
+1. Remember that you almost certainly know more about the details of your work more than anyone else in the room.
 
-2.
-If I'm in any way unsure what the questioner is asking, I make sure I understand it before I start answering.
+2. If I'm in any way unsure what the questioner is asking, I make sure I understand it before I start answering.
 Typically, I will restate the question in my own words and ask if that’s what they meant.
 This gives them an opportunity to correct and reword.
 An interesting side effect is that it also gives me a few more seconds to think about a possible answer.
 This is an even better trick if English is not your first language.
 
-3.
-It is okay to take a second or two to think before you start talking.
+3. It is okay to take a second or two to think before you start talking.
 After all, the asker has been sitting there for 15 minutes considering the question; you only just heard it!
 And after all that, it's completely okay to say you're not sure, and that you need to think about it harder, and get back to them later.
 I have done this many times during Q&A.
+

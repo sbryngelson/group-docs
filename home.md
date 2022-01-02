@@ -1,28 +1,28 @@
-## Computational Physics @ GT Group Documents
+# Computational Physics @ GT Group Documentation
 
-* [Intro to the group](intro-to-group.md)
+* [Welcome to the group!](intro-to-group.md)
 
 ## PhD Syllabus
 
 * [Acknowledgements](phd-syllabus/ack.md)
-* [Why PhD?](phd-syllabus/why-phd.md)
+* [Why a PhD?](phd-syllabus/why-phd.md)
 * [Funding](phd-syllabus/funding.md)
 * [Working with me](phd-syllabus/working-with-me.md)
-* [Research](phd-syllabus/research.md)
+* [Doing Research](phd-syllabus/doing-research.md)
 * [Writing Papers](phd-syllabus/writing-papers.md)
-* [Working](phd-syllabus/working.md)
-* [Talks](phd-syllabus/talks.md)
-* [Non-research Work](phd-syllabus/non-research-work.md)
-* [Post PhD](phd-syllabus/post-phd.md)
+* [When and Where of Working](phd-syllabus/when-where-working.md)
+* [Giving Talks](phd-syllabus/giving-talks.md)
+* [Challenges](phd-syllabus/challenges.md)
+* [Post-PhD](phd-syllabus/post-phd.md)
 
 ## Technical things
 
 ### Programming
 
-* [Using `git`](technical/git.md)
-* [Using `ssh`](technical/ssh.md)
+* [Using version control (`git`)](technical/git.md)
+* [Using remote clusters (`ssh`)](technical/ssh.md)
 
 ### Documenting
 
-* [Formatting](details/formatting.md)
 * [Academic writing](details/writing.md)
+* [Formatting](details/formatting.md)
