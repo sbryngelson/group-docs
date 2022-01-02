@@ -1,7 +1,6 @@
 ### The What and Why of a PhD
-Parts are borrowed from [Eric Gilbert's](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM) and [Mor Maaman](https://s.tech.cornell.edu/phd-syllabus/).
 
-Advising and working with PhD students is perhaps the *best part of my job*.
+Advising and working with PhD students is the *best part of my job*.
 In fact, it is probably the main reason I chose to be a professor.
 PhD students are my most central and essential collaborators.
 The two main goals of my work with PhD students are (1) to produce great research and advance the world's knowledge, and (2) to advise and train the student to become independent, knowledgeable, critical, and capable researchers.
