@@ -18,7 +18,7 @@ By contrast, I don't believe the PhD is:
 - A "long class"
 - A program where I hand you a list of instructions for you to carry out
 - A way for me to extract labor to grow my CV
-- A way for you to boost your CV to get a job of <type X>  (for any X, e.g. "professor")
+- A way for you to boost your CV to get a job of <type X>  (for any X, e.g., "professor")
 
 Toward these ends, I will aim to give you as much independence as I think you can handle (and maybe a little more), as early as you can and want to have it.
 I try to assess this on a case-by-case basis; if you feel like I misjudged it any time (e.g., too much or too little), please let me know.

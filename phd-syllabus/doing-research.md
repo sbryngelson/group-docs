@@ -28,8 +28,8 @@ Some guidelines on impact might include:
 **How will this change what other people (defined broadly) are doing?**
 - Will other researchers change what they’re working on after seeing your work?
 - Will practitioners do something different?
-- Will users adopt what you’ve made, found, created?
-- Will regulators use what you’ve found to draft new laws?
+- Will users adopt what you've made, found, created?
+- Will regulators use what you've found to draft new laws?
 
 Eric Gilbert recommends [Hamming’s lecture on this topic](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) which one day I will read and endorse here more directly (or not).
 
