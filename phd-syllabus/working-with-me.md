@@ -1,3 +1,8 @@
+### Useful links
+
+* [The hacker attitude](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude)
+* [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
 ### Working with Me
 
 The advisor-advisee relationship represents a significant responsibility and commitment on both our parts. I try to hold myself to high standards with students, but I also have high expectations from students who work with me. In general, we should all be responsive, respectful, honest, timely, and hard-working. When those things aren’t happening, we should talk to figure out how we can get there. Note that the failure --or perceived failure-- could be due to my actions as well. I recognize that this is one of the most important and consequential relationships you will have; while I hope it would be at least as meaningful for me, it is less likely to be as consequential. As a result, I encourage you to let me know if something is not working. 
@@ -31,8 +36,6 @@ I believe diversity of experiences, backgrounds, views, countries of origin, abi
 To use one (important) dimension, a majority of my past and present PhD students identify as women.
 While women are quite well represented in Information Science (less so in Computer Science), I recognize that the experiences that they have in academia and life are different than mine.
 I hope that our environment has been welcoming for them (you should certainly contact them to find out!) and encourage you to let me (or others) know if there is anything in our lab or campus environment that makes you in any way uncomfortable.
-
-
 
 #### Co-Advising
 
