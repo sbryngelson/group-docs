@@ -1,18 +1,21 @@
 ### Giving talks
 
-I've never liked giving talks.
-I now think academics overfit to the performative aspects of them.
-Despite that, talks are important.
-Many (most?) academics disagree with me: they like giving talks, and highly value talks given by other academics.
-For example, it's common wisdom that many professors on the faculty you join will only know about your work through your job talk.
+Talks are important.
+It shows your command of your research and your ability to stitch together a story worth listening to.
+Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
 The guidance I usually give around talks is somewhat traditional: 1) plan and 2) practice.
 First, I write down what I want the audience to learn from the talk.
 Then, I look at the time I have available to speak and subtract 5 minutes.
 From that number, I break down how much time I want to spend on the different parts of the talk.
-After those two things, I start building slides (and maybe demos).
+After those two things, I start building slides.
 
-After you have a deck, I recommend practicing the talk a few times by yourself.
+After you have a deck, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around.  
+Fortunately, the talks you're likely to give early in your academic career are also the shortest.
+This means you can practice them, in their entirety, a dozen times within an hour or two. 
+I guarantee that a talk practiced front-to-back 12 times will be delivered more cleanly than one never practiced, and everyone in the room can tell the difference.
+If I'm nervous about a talk on a new topic, I sometimes practice even more than this. 
+
 Especially early in your PhD, you should then plan on giving at least two practice talks to an audience (one of them with me).
 Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
 After you synthesize and iterate on all the feedback, you’re ready to go.
