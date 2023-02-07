@@ -1,7 +1,6 @@
 ### Giving talks
 
-Talks are important.
-It shows your command of your research and your ability to stitch together a story worth listening to.
+Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
 The guidance I usually give around talks is somewhat traditional: 1) plan and 2) practice.
@@ -20,6 +19,18 @@ Especially early in your PhD, you should then plan on giving at least two practi
 Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
 After you synthesize and iterate on all the feedback, you’re ready to go.
 This process often takes many days, even for a short talk.
+
+The most common feedback I give on talks is:
+* The talk was not structured for the audience. 
+  * Who are you talking to? It matters! In fact, it might be the thing that matters most.
+* What was your message? 
+  *  If the message is unclear to me, it will definitely be unclear to others. If your talk doesn't have a message, consider why, come up with an appropriate one, and restructure your slides.
+* You did not practice enough. 
+  *  You know your talk is well practiced when you can deliver it without looking at the slides/projector most of the time. Why? Because you already know what's on them, and what's coming next! This allows you to engage with the audience. 
+  *  You know your talk is not well-practiced when you are reading the slides: I, too, can read your slides. If that's what you were going to do, you could have just sent a PDF of the slides to the audience to peruse at their own leisure.
+*  Stop using superlatives.
+    *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? Best case: People think you have a nervous tick. Worst case: People think you are trying to make your work seem artificially interesting and challenging. We all work on hard things.
+
 
 #### Q&A
 
