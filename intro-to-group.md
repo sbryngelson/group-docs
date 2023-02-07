@@ -14,9 +14,8 @@ During this meeting you will present an update on your research.
 We have a [group Github page](https://github.com/comp-physics).
 You should keep the software projects related to your research in repositories on this page.
 We keep all of our software public (open-source), even during development.
-We use the [MIT license](https://opensource.org/licenses/MIT), which allows the re-use and modification of software without our permission.
-It is worthwhile to learn how to properly use `git`. 
-A separate page for that is here (to be filled).
+We often use the [MIT license](https://opensource.org/licenses/MIT), which is permissive and copyleft.
+It also allows us to collaborate freely with corporations, like those at NVIDIA and Google, as well as our academic and lab-based partners.
 
 ## Collaboration
 
