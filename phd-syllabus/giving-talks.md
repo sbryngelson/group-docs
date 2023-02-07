@@ -32,9 +32,9 @@ The most common feedback I give on talks is:
     *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? Best case: People think you have a nervous tick. Worst case: People think you are trying to make your work seem artificially interesting and challenging. We all work on hard things.
 *  You use many filler words.
    * Avoid using "umm" or "uhh". You will likely be guilty of this one to some degree until the day you graduate, but you will be better than when you started working on research. I am guilty myself, that's for sure. I think the best remedies are
-     * Practice.
+     * Practicing
      * __Slowing Down.__ If you have to speed through your talk, it's too long.
-     * Have someone tell you when you do this.
+     * Having someone tell you when you do this.
 * There is too much text on your slides.
    * Figure out what your message is and then remove text that does not help deliver this message. 
       * __Example:__ To five decimal places, what are the coefficients of the stiffened gas equation of state you used to model the properties of water?
