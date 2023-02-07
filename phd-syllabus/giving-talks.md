@@ -30,7 +30,16 @@ The most common feedback I give on talks is:
   *  You know your talk is not well-practiced when you are reading the slides: I, too, can read your slides. If that's what you were going to do, you could have just sent a PDF of the slides to the audience to peruse at their own leisure.
 *  Stop using superlatives.
     *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? Best case: People think you have a nervous tick. Worst case: People think you are trying to make your work seem artificially interesting and challenging. We all work on hard things.
-
+*  You use many filler words.
+   * Avoid using "umm" or "uhh". You will likely be guilty of this one to some degree until the day you graduate, but you will be better than when you started working on research. I am guilty myself, that's for sure. I think the best remedies are
+     * Practice.
+     * __Slowing Down.__ If you have to speed through your talk, it's too long.
+     * Have someone tell you when you do this.
+* There is too much text on your slides.
+   * Figure out what your message is and then remove text that does not help deliver this message. 
+      * __Example:__ To five decimal places, what are the coefficients of the stiffened gas equation of state you used to model the properties of water?
+      * __Answer:__ No one cares and they assume you are sufficiently competent to use reasonable ones. If your results are sensitive to this information then you would most certainly be giving a very different talk indeed. 
+   * The point: This is not a journal article, and not _everything_ needs to be explicitly stated or referenced. Only the things that contribute to your message.
 
 #### Q&A
 
