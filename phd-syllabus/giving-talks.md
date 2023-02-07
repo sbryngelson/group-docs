@@ -37,8 +37,8 @@ The most common feedback I give on talks is:
      * Having someone tell you when you do this.
 * There is too much text on your slides.
    * Figure out what your message is and then remove text that does not help deliver this message. 
-      * __Example:__ To five decimal places, what are the coefficients of the stiffened gas equation of state you used to model the properties of water?
-      * __Answer:__ No one cares and they assume you are sufficiently competent to use reasonable ones. If your results are sensitive to this information then you would most certainly be giving a very different talk indeed. 
+      * __Example:__ You list, to five decimal places, the coefficients of the stiffened gas equation of state you used to model the properties of water.
+      * __Problem:__ No one cares and they assume you are sufficiently competent to use reasonable ones. If your results are sensitive to this information then you would most certainly be giving a very different talk indeed. 
    * The point: This is not a journal article, and not _everything_ needs to be explicitly stated or referenced. Only the things that contribute to your story.
 
 #### Q&A
