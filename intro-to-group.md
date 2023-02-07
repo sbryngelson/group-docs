@@ -6,6 +6,7 @@ We are happy to have you (you wouldn't be reading this, otherwise).
 ## Research meetings
 
 You will usually have a meeting with Spencer every week. 
+These sometimes involve you and and another student.
 During this meeting you will present an update on your research.
 
 ## Group Github Page
@@ -27,4 +28,4 @@ It makes us all better researchers.
 ## Social activities
 
 We try to arrange a group social activity at least every few months. 
-This usually means going to a neighborhood restaurant.
+This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy!
