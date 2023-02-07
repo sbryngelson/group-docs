@@ -40,6 +40,9 @@ The most common feedback I give on talks is:
       * __Example:__ You list, to five decimal places, the coefficients of the stiffened gas equation of state you used to model the properties of water.
       * __Problem:__ No one cares and they assume you are sufficiently competent to use reasonable ones. If your results are sensitive to this information then you would most certainly be giving a very different talk indeed. 
    * The point: This is not a journal article, and not _everything_ needs to be explicitly stated or referenced. Only the things that contribute to your story.
+* I can't hear you.
+   * This isn't usually technically true, my hearing is pretty good, but I recommend you project your voice into the room and speak clearly. Not doing this is one sure way to lose the attention of the audience. 
+   * Example: Many times we acknowledge that we could barely understand what a speaker was saying. Rarely do we say "man, they were way too loud, that was obnoxious."
 
 #### Q&A
 
