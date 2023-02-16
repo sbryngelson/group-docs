@@ -35,6 +35,12 @@ The most common feedback I give on talks is:
      * Practicing
      * __Slowing Down.__ If you have to speed through your talk, it's too long.
      * Having someone tell you when you do this.
+* Don't let the first words out of your mouth be your talk title, verbatim
+	* You will almost always have someone introduce you and your talk. They will almost surely recite your talk title during this. Don't start your talk by repeated what the introducer/chair just said, it suggests you are reciting your talk from some kind of script. 
+	* An above example of what not to do looks something like:
+			* __Introducer:__ "We are pleased to have Mr. X giving a talk! He will be talking about <your talk title here>.
+			* __You:__ "Thanks for having me! Today I am going to be talking about <your talk title here>.
+
 * There is too much text on your slides.
    * Figure out what your message is and then remove text that does not help deliver this message. 
       * __Example:__ You list, to five decimal places, the coefficients of the stiffened gas equation of state you used to model the properties of water.
