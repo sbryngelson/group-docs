@@ -1,13 +1,31 @@
 
-# Welcome to the Computational Physics @ GT research group!
+# Welcome to the Computational Physics @ GT CSE research group!
 
 We are happy to have you (you wouldn't be reading this, otherwise).
 
+## Getting started 
+
+* Box, located [here](https://gatech.app.box.com/folder/142416587982)
+    * Purpose: Common location to store stuff, unlimited space, put your group and 1-1 updates here.
+    * Request access to group Box from Spencer.
+
+* GitHub organization, located [here](https://github.com/comp-physics)
+    * Purpose: Your code goes here. Keep it up-to-date via commits. I will likely bug you if you don't keep your codes updated via regular commits as you make progress.
+    * Request access from Spencer.
+
+* Zotero, located [here](https://www.zotero.org/groups/4507615/comp-physics/library)
+    * We have an unlimited shared Zotero group, where you should place papers and books relevant to your studies. I also reference many different texts at random times, and you can often find them available here. 
+    * Request access from Spencer.
+
+
+
 ## Research meetings
 
-You will usually have a meeting with Spencer every week. 
-These sometimes involve you and and another student.
+You will usually have a meeting with Spencer every week (often on Monday). 
+These sometimes involve you and another student 2-1 meetings.
 During this meeting you will present an update on your research.
+Some guidelines apply:
+* Have at least one PowerPoint slide for each grou
 
 ## Group Github Page
 
