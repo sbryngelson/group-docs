@@ -5,6 +5,16 @@ We are happy to have you (you wouldn't be reading this, otherwise).
 
 ## Getting started 
 
+### CODA
+
+You will need access to the CODA building.
+GT CSE is on floor 13, and our group is in room S1347.
+We also hold meetings either in my office (S1313) or one of the conference rooms on this floor.
+Request this from Spencer. 
+Send him your GTID number, it will likely take about a week to "start working," though times vary.
+
+### Websites and software
+
 * Box, located [here](https://gatech.app.box.com/folder/142416587982)
     * Purpose: Common location to store stuff, unlimited space, put your group and 1-1 updates here.
     * Request access to group Box from Spencer.
@@ -15,7 +25,11 @@ We are happy to have you (you wouldn't be reading this, otherwise).
 
 * Zotero, located [here](https://www.zotero.org/groups/4507615/comp-physics/library)
     * We have an unlimited shared Zotero group, where you should place papers and books relevant to your studies. I also reference many different texts at random times, and you can often find them available here. 
+    * It has an iPhone app, a MacOS/*nix app, a web interface, etc. Very convenient. I prefer over Mendeley after using both significantly.
     * Request access from Spencer.
+
+### Computers
+
 
 
 
