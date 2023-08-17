@@ -30,6 +30,8 @@ Send him your GTID number, it will likely take about a week to "start working," 
 
 ### Computers
 
+We maintain access to many (super)computers and testbeds.
+I maintain a separate page on this [here](computers.md)
 
 
 
