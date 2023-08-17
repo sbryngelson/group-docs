@@ -73,7 +73,7 @@ This is somewhat contrary to the way academics often work in our area, where the
 
 The paper doesn't have to be perfect: the bar I use is that I would submit this paper and I wouldn't be embarrassed.
 That means that everything needs to be essentially done by 7 days before the deadline: the studies have to be completed, the data analyzed, the findings solidified, the message of the paper needs to exist, etc.
-This allows me to really understand what we have, where we’re at, and where we need to go in the next 7 days.
+This allows me to really understand what we have, where we're at, and where we need to go in the next 7 days.
 
 If the paper meets the internal deadline, I will tell you to take a break, both because you probably need it, and because it gives you some much needed space from the paper.
 Students often see their draft in a different light after a day or two away from it.
