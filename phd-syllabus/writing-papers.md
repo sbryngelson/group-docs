@@ -13,35 +13,25 @@ Part of your development as a scholar is being able to plan, outline, and write 
 I will be your co-author and collaborator for most of the papers you'd write.
 As an advisor, I will train you to write academic papers during this co-authorship.
 
-Commonly, we will plan the paper together, thinking about its contributions, how to present then, the intended structure of the paper, how to present the results and arguments.
-The writing usually comes after lots of direct consultation with me about these issues over the preceding days, weeks and months.
+Commonly, we will plan the paper together, thinking about its contributions, how to present then, the intended structure of the paper, how to present the results.
 I typically ask my PhD students to write the first draft of each section in the paper independently.
-It may seem like the reason I do this is because it's less work for me; it's not.
-In fact, early in the PhD program, I think it's more.
-For example, often with first-year or second-year papers, I'll be frank: I could write a better paper in less time than I spend advising and working with the student on the paper.
-If I was solely aiming to optimize for publications, it would make sense to cut the student out of it at the point of drafting the first document.
-However, going back to my perspective on the PhD, teaching students how to be excellent writers is essential to their success as scholars.
-These experiences struggling (and ultimately succeeding!) with writing are important educational experiences.
 
-For a 1st or 2nd year student, that writing process might be the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students, ultimately followed by extensive editing and rewriting by me.
-For a 5th or 6th year student, students (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own,  followed by collaborative editing and rewriting.
+For a 1st or 2nd year student, the writing process might be the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students, ultimately followed by extensive editing and rewriting by me.
+For a 5th year student, students (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
 
 #### Conference Paper Deadlines
 
 Conference papers and abstracts will have deadlines.
-We often submit to peer-reviewed venues, perhaps a few a year.
 I will do whatever I can to help you set appropriate deadlines and meet these deadlines, in terms of planning and in terms of writing.
 I highly recommend planning submissions in a way that does not offset or suspend other life goals or practices like sleep.
 
 With advance planning, I am willing to work extra hours before a deadline, recognizing that they are important to advance your career.
 You don't have to do that.
 However, students can only expect me to work extra hours on a paper deadline if they are also committed to doing so; and should not expect me to work over time to give them feedback unless they verified in advance that I am available and willing to do so (no "hey I just finished the first draft of the paper that's due tomorrow can you read it tonight").
-I generally believe that work at night is more counter-productive than it is useful.
 
 I have an informal "-7 days" internal deadline for submissions.
 This guideline states that a paper intended for submission needs to be in submittable (but not perfect) state 7 days before the deadline.
 The paper doesn't have to be perfect: the bar I use is that all the sections, results should be there: the studies have to be completed, the data analyzed, the findings solidified, the message of the paper needs to exist, etc.
-This allows me to really understand what we have, where we’re at, and where we need to go in the next 7 days.
 The paper would often undergo significant changes in that last week, and we may end up working on it extensively as the final deadline approaches, but the -7 days practices should make the deadline more manageable, and the final product (the paper) stronger.
 
 #### Co-authorship
@@ -59,7 +49,6 @@ With many of our papers submitted to highly peer-reviewed conferences, you can e
 Later in your PhD you are also likely to have other presentations of your research work, including seminars and eventually job talks.
 I will help you prepare for these talks, taking an iterative process that follows in many ways the paper-writing process outlined above: planning/outlining, drafts, iterations.
 Expect more of this feedback and iteration earlier in your PhD; it is not uncommon for students to give 3-5 practice versions of the talk before their public presentation, at least in their early years.
-Job talks often take 10 or more iterations to “nail”.
 
 Relatedly, I am also likely to present your research in invited talks, lectures and seminars.
 I will of course give you prominent credit when I do so.
@@ -68,14 +57,8 @@ I will of course give you prominent credit when I do so.
 
 I have a "-7 days" internal deadline.
 The paper needs to be in submittable (but not perfect) state 7 days before the deadline.
-If there isn't an official deadline (i.e., we’re submitting to a journal with completely rolling submissions), then this rule would apply to whatever day we agreed upon submitting the work.
-This is somewhat contrary to the way academics often work in our area, where they're madly writing up to the second before the submission deadline; I don’t do that with my students.
+If there isn't an official deadline (i.e., we're submitting to a journal with completely rolling submissions), then this rule would apply to whatever day we agreed upon submitting the work.
+This is somewhat contrary to the way academics often work in our area, where they're madly writing up to the second before the submission deadline; I don't do that with my students.
 
-The paper doesn't have to be perfect: the bar I use is that I would submit this paper and I wouldn't be embarrassed.
 That means that everything needs to be essentially done by 7 days before the deadline: the studies have to be completed, the data analyzed, the findings solidified, the message of the paper needs to exist, etc.
 This allows me to really understand what we have, where we're at, and where we need to go in the next 7 days.
-
-If the paper meets the internal deadline, I will tell you to take a break, both because you probably need it, and because it gives you some much needed space from the paper.
-Students often see their draft in a different light after a day or two away from it.
-If the paper isn't ready, we won't submit it to that conference or journal deadline; we'll submit it somewhere later.
-

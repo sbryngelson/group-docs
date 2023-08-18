@@ -13,7 +13,6 @@
 * [When and Where of Working](phd-syllabus/when-where-working.md)
 * [Giving Talks](phd-syllabus/giving-talks.md)
 * [Challenges](phd-syllabus/challenges.md)
-* [Post-PhD](phd-syllabus/post-phd.md)
 
 ## Technical things
 

@@ -1,7 +1,7 @@
 ### Doing Research
 
 The most important thing you do in graduate school is your own research.
-It may seem obvious, but it’s easy to lose track of the importance of your own research amid all the other competing things you’ll be asked to do in grad school: take classes, review papers, help teach a class, run a working committee, organize various activities, etc.
+It may seem obvious, but it's easy to lose track of the importance of your own research amid all the other competing things you’ll be asked to do in grad school: take classes, help teach a class, run a working committee, organize various activities, etc.
 Some of these will be fun; many of them will feel more important at the time than making (what may seem like limited) progress on your research.
 
 #### Selecting problems
@@ -31,21 +31,10 @@ Some guidelines on impact might include:
 - Will users adopt what you've made, found, created?
 - Will regulators use what you've found to draft new laws?
 
-Eric Gilbert recommends [Hamming’s lecture on this topic](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) which one day I will read and endorse here more directly (or not).
-
-#### Discipline, Methods, and Contributions
-
-I am a professor of Information Science at Cornell, as well as a field member in Computer Science.
-This means I can be the main advisor for PhD students in both these programs.
-As such, my students end up doing work that ranges from qualitative methods such as semi-structured interviews, to quantitative methods like online experiments and large-scale data collection and analysis, to computational methods such as system building and evaluation as well as developing computational techniques based on machine learning or algorithms of various types.
-Very often, it is the same student that applies more than one of these methods for their PhD work.
-
 ### Expected Output
 
-See [Eric's syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#) for an important discussion of quality versus quantity.
-
 This is a note about what you should _strive_ to achieve in terms of output during your PhD.
-This is not necessarily what I expect to see as your output -- but what you should expect to _try_ to produce.
+This is not necessarily what I expect to see as your output, but what you should expect to _try_ to produce.
 These expectations are also averaged over multiple years.
 You should expect to produce less in your first and second years (for example, it's okay to have only one project to begin with, possibly through a collaboration with a senior student), and more in your third and fourth (often dropping again in the final year while you are searching for jobs).
 

@@ -56,25 +56,13 @@ You may also see me in project-specific meetings (frequency depends on the proje
 
 #### How to get a hold of me
 
-If I'm not there in person at work, you can try to find me in multiple ways. First, Slack. In particular, our lab's Slack team is the best way to find me. I have alerts setup for this Slack (and only this Slack) on my phone, too, in case you need a quick response for a question or request (with the caveats above).  I am also of course available by email. However, email is not a synchronous medium, and I often turn it off in order to get stuff done, and stuff tends to get lost there due to volume. Always expect that I may not respond for 24-48 hours to any email you send during normal times; it will take longer when I’m traveling.
+If I'm not there in person at work, you can try to find me in multiple ways.
+First, Slack.
+In particular, our lab's Slack team is the best way to find me.
+I am also of course available by email.
+However, email is not a synchronous medium, and I often turn it off in order to get stuff done, and stuff tends to get lost there due to volume.
 
-If you need me to meet with you at a certain time, it's best to contact me about it first, then when I’ve agreed to the time, send me a calendar invitation (this is true for everyone else you'd like to have a meeting with in professional settings!)
+If you need me to meet with you at a certain time, it's best to contact me about it first, then when I've agreed to the time, send me a calendar invitation (this is true for everyone else you'd like to have a meeting with in professional settings).
 
-If you want me to be responsive to you, you should be responsive to me. However, I will not expect you to be responsive during non-working hours (unless we agreed to be  working on a deadline). The sections above have other "time off" considerations.
-
-#### When to Expect Being Able to Get My Attention
-
-Typically, I am in the office most weekdays during standard hours (9ish-5ish). This is my rough schedule:
-
-11:30pm: sleep
-7:30am: wake up
-7:30am-8:45am: help get kids ready for day
-9am-5pm: in office for meetings, working, writing, etc.
-5:30pm-9pm: family, dinner, home-related activities (i.e. little attention to any incoming requests)
-9pm-11pm: Netflix, guitar, non-academic reading and watching activities, might pay attention to requests or do deadline/urgent work
-
-### On Ending the Advisor Relationship
-
-It is not uncommon for the PhD to run into problems. When things don’t work, one option already mentioned above is switching advisors. Our relationship is “at will”, for both of us, and changes could happen when interests diverge but also for other reasons, for example when there are workstyle or expectation mismatches, or personal issues, or other issues and constraints (e.g. physical location). If anything like that happens, we can try to address the issues, or just let it go. Note that you can decide to switch advisors without requiring my approval, and that you will commonly need to find a new advisor who will be willing to take you on. 
-
-Another option is leaving the PhD altogether. I know some very, very smart and capable individuals, including my own former advisees, who had left the PhD program. This happens, and is also an acceptable and not entirely uncommon outcome. If anything, students who are truly unhappy, or discover that they don’t enjoy their PhD work, or are struggling to make progress, are sometimes better off deciding to leave the program. As I note below (see “challenges” section), the PhD process often brings periods of uncertainty and anxiety, as well as relentless feedback, some of it negative like paper rejections. While many people are able to overcome these challenges, others may not -- again, this is perfectly understandable. Based on your program requirements, you can often leave with a Masters degree, making your time investment worthwhile, at least to some degree (no pun intended).
+If you want me to be responsive to you, you should be responsive to me.
+However, I do not expect you to be responsive during non-working hours (unless we agreed to be  working on a deadline).

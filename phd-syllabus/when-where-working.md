@@ -13,7 +13,7 @@ For time and task management, use whatever tool works for you: notebooks, task m
 
 #### Work location
 
-Work work in CODA, which has an open space layout where my students sit near each other.
+We work in CODA, which has an open space layout where my students sit near each other.
 You will have an assigned desk in that space.
 I spend most of my time at my office, which is near that space.
 I expect most students to be working from that space regularly, which is not to say "most of the time", but perhaps a substantial portion of the working hours each week in that space.
@@ -24,46 +24,3 @@ This is in addition to providing an environment that helps you focus on work.
 It's often the case that students vary their physical presence, e.g.,
 when they have a writing task that requires focus not offered in a more busy environment.
 That's totally acceptable, but you are expected to let the team (me, your collaborators) know when they should expect you.
-
-Oh and if you find it hard to concentrate in the open space, I will consider sponsoring noise-cancelling headphones.
-
-#### The When of _Not_ Working
-
-You do not need to work all the time to be a successful researcher.
-In fact, I think the current evidence suggests (and I strongly believe) that working all the time is counterproductive.
-Nevertheless, you may encounter a culture in academia of always-working; I recommend that you resist this.
-
-The hardest thing about academic time off is ownership.
-When you are off, it is your research that does not advance.
-This is hard to contend with.
-But what is often left out is (a) that you are more productive and motivated in your working time when you have a good balance with your time off (b) that time off is critical for new insights, ideas, and reflections that are not otherwise available.
-
-I recommend thinking about your PhD as work, with a work schedule (hopefully a "normal" one, i.e., weekdays) and time off work, even if you have to force yourself to do so.
-Please take care of yourself, in whatever way you need to that is meaningful to you, on a daily basis.
-For example, I will often take long multiple-weeks (or more) vacations, especially over the semester breaks.
-
-#### Vacations
-
-There are specific guidelines provided by Georgia Tech, but Ph.D students in my group should feel free to spend up to 6 weeks every year on various breaks and vacations.
-I strongly encourage that you take at least 4 weeks off.
-(If I could insist that you take at least 4 weeks, I would; if you need more than 6 weeks, well, frankly nobody is really counting but you still need to make progress).
-Vacation means _vacation_: no work email (or just monitoring for urgent needs), no working on papers, no analyzing data.
-Note that conference travel does not (and should not) count as vacation.
-You can also take leave, for example during summer if you are not funded.
-
-What works best for vacation is scheduling time off well in advance.
-"Taking off next week" is never easy -- you will have obligations, meetings, tasks.
-Planning a vacation six months away is easier, and you can plan around it as the time approaches (to make sure you have no meetings or pressing deadlines, for example).
-
-Any ad-hoc days off you want to take are usually not a problem.
-Especially after big deadlines, I highly recommend taking a few days off to rest, reflect, and re-energize.
-When you want to take a longer break like a vacation, it can be helpful to give me a few weeks notice, but I'm usually flexible.
-The most important thing is to communicate your availability in advance.
-Things outside of work also come up related to health, family, emergencies, etc.
-Those often require work breaks, and at the very least, different work arrangements.
-You can let me know if that comes up for you.
-
-Your breaks are not necessarily tied to the academic calendar, nor does "academic break" automatically mean you should treat this time as time off your work and research.
-It is useful to take time off during academic breaks and official university holidays.
-Of course, if you are taking courses or serving as a TA you will need to be available during the semester.
-
