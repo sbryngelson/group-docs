@@ -31,21 +31,22 @@ Send him your GTID number, it will likely take about a week to "start working," 
 ### Computers
 
 We maintain access to many (super)computers and testbeds.
-I maintain a separate page on this [here](computers.md)
-
-
+We maintain a separate page on this [here](computers.md)
 
 ## Research meetings
 
 You will usually have a meeting with Spencer every week (often on Monday). 
-These sometimes involve you and another student 2-1 meetings.
+These sometimes involve you and another student (2-1 meetings).
 During this meeting you will present an update on your research.
+We also have an in-person group meeting every week.
 Some guidelines apply:
-* Have at least one PowerPoint slide for each grou
+* Have at least one PowerPoint slide for each update, stating the work you did and plan to do in the next week (see examples in the Box `updates/` directory).
+* If you have little progress, that's OK! In fact, the weeks you have the least progress are the most important for updates, since my job (in part) is to help you.
+* Even if you have little progress because you were busy with coursework or on a vacation, please put this on a slide so I can keep track of things.
 
-## Group Github Page
+## Group GitHub Page
 
-We have a [group Github page](https://github.com/comp-physics).
+We have a [group GitHub page](https://github.com/comp-physics).
 You should keep the software projects related to your research in repositories on this page.
 We keep all of our software public (open-source), even during development.
 We often use the [MIT license](https://opensource.org/licenses/MIT), which is permissive and copyleft.
@@ -54,11 +55,11 @@ It also allows us to collaborate freely with corporations, like those at NVIDIA 
 ## Collaboration
 
 You are expected to collaborate with your colleagues when appropriate. 
-Your colleages are students within the group and the school more broadly.
+Your colleagues are students within the group and the school more broadly.
 Part of this is willingly and openly sharing your [code](https://opensource.google/docs/why/) and [ideas](https://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=en).
 It makes us all better researchers.
 
 ## Social activities
 
 We try to arrange a group social activity at least every few months. 
-This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy!
+This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy.
