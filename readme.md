@@ -1,6 +1,6 @@
 # Computational Physics @ GT Group Documentation
 
-* [Welcome to the group!](intro-to-group.md)
+* [Welcome to the group!](phd-syllabus/intro-to-group.md)
 
 ## PhD Syllabus
 
@@ -21,6 +21,7 @@
 
 * [Using version control (`git`)](technical/git.md)
 * [Using remote clusters (`ssh`)](technical/ssh.md)
+* [Available computers](phd-syllabus/computers.md)
 
 ### Documenting
 

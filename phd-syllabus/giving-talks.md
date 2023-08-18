@@ -29,17 +29,17 @@ The most common feedback I give on talks is:
   *  You know your talk is well practiced when you can deliver it without looking at the slides/projector most of the time. Why? Because you already know what's on them, and what's coming next! This allows you to engage with the audience. 
   *  You know your talk is not well-practiced when you are reading the slides: I, too, can read your slides. If that's what you were going to do, you could have just sent a PDF of the slides to the audience to peruse at their own leisure.
 *  Stop using superlatives.
-    *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? Best case: People think you have a nervous tick. Worst case: People think you are trying to make your work seem artificially interesting and challenging. We all work on hard things. In either case, they do not imbue any meaning, so ditch them, which brings me to...
+    *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? 
 *  You use many filler words.
-   * Avoid using "umm" or "uhh". You will likely be guilty of this one to some degree until the day you graduate, but you will be better than when you started working on research. I am guilty myself, that's for sure. I think the best remedies are
+   * Avoid using "umm" or "uhh". You will likely be guilty of this to some degree until the day you graduate, but you will be better than when you started working on research. I am guilty myself, that's for sure. I think the best remedies are
      * Practicing
-     * __Slowing Down.__ If you have to speed through your talk, it's too long.
+     * __Slowing Down.__ If you have to speed through your talk, it's too long anyway.
      * Having someone tell you when you do this.
 * Don't let the first words out of your mouth be your talk title, verbatim
-	* You will almost always have someone introduce you and your talk. They will almost surely recite your talk title during this. Don't start your talk by repeated what the introducer/chair just said, it suggests you are reciting your talk from some kind of script. 
+	* You will almost always have someone introduce you and your talk. They will almost surely recite your talk title during this. Don't start your talk by repeating what the introducer/session chair just said, it suggests you are reciting your talk from some kind of script. 
 	* An above example of what not to do looks something like:
-			* __Introducer:__ "We are pleased to have Mr. X giving a talk! He will be talking about <your talk title here>.
-			* __You:__ "Thanks for having me! Today I am going to be talking about <your talk title here>.
+        * __Introducer:__ "We are pleased to have Mr/s. X giving a talk! They will be talking about <your talk title here>.
+        * __You:__ "Thanks for having me! Today I am going to be talking about <your talk title here>.
 
 * There is too much text on your slides.
    * Figure out what your message is and then remove text that does not help deliver this message. 
