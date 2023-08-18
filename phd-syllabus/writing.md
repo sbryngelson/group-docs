@@ -1,26 +1,27 @@
-﻿# Improving your academic writing
-by Spencer Bryngelson
+﻿
+# Improving your academic writing
 
 ## Why should I read this?
 
-Many students have trouble producing scientifically-acceptable writing without significant training. (I use “scientifically-acceptable” as a suitcase word for whatever seasoned academics find to be appropriate in journal papers.) Perhaps this isn’t surprising, graduate students do not formally learn how to do this. 
+Many students have trouble producing scientifically-acceptable writing without significant training.
+(I use "scientifically-acceptable" as a suitcase word for whatever seasoned academics find to be appropriate in journal papers.) 
+Perhaps this isn't surprising, students do not formally learn how to do this.
 
 This is juxtaposed by just how important your writing is.
-You likely won’t remember many details associated with your past research projects.
+You likely won't remember many details associated with your past research projects.
 Instead, you will use your papers for reference.
-Other scientists won’t see your research notes (nor would you want them to) or know the details of your academic past.
+Other scientists won't see your research notes (nor would you want them to) or know the details of your academic past.
 Instead, they will first judge you based on your archived writing (conference proceedings and journal articles).
 Only few opportunities exist to side-step this.
 Giving conference and invited talks communicates your research without paper-in-hand.
 However, this format is ephemeral.
 Anyone sufficiently interested in your talks will locate your papers to understand your contributions without time constraints.
-It is also two-way coupled: you likely won’t find yourself invited to give talks without the presumption of good papers behind them.
-
+It is also two-way coupled: you likely won't find yourself invited to give talks without the presumption of good papers behind them.
 
 Careful writing also begets careful thinking (and vice-versa).
 That is, forcing yourself to clarify and organize your work will bring problems in your thinking to light.
 For this reason, it can be useful to work on improving your writing as soon as possible.
-New graduate students and senior undergraduates may well be 2+ years from starting a manuscript for a journal.
+New students may well be over a year from starting a manuscript for a journal.
 However, they too will benefit from carefully writing up their notes, ideas, and plans.
 
 For the above reasons, high-quality scientific writing is often expected from students ready to graduate with their PhD.
@@ -40,7 +41,6 @@ I recommend using one of these before submitting any paper or abstract.
 Often even seemingly obvious mistakes can go unnoticed after so many revisions.
 Such mistakes are a quick way for an editor or reviewer to perceive your work as not careful (e.g., does he conduct his simulations like he writes his abstracts?!), even if only subconsciously.
 
-
 ## Consistency
 
 One should keep styles consistent within a manuscript.
@@ -49,7 +49,7 @@ You might be forgiven for even obviously poor style choices if you are consisten
 ## Nomenclature
 
 Changing technical terms mid-way through a paper in the name of style will confuse people.
-If your domain is a cylinder, don’t switch to “tube” at any point.
+If your domain is a cylinder, don't switch to "tube" at any point.
 If you call your model a "physical model", do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
 

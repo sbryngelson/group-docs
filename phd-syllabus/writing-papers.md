@@ -1,5 +1,7 @@
 ### Writing papers
 
+**Companion document: [Formatting your papers](formatting.md)**
+
 There are many forms of scholarly impact.
 Writing papers is one of them—and among the most important for graduate students.
 Though other forms of impact are very important, such as making important systems or helping to inform policy, the importance of such forms often relies on a base of academic writing.
