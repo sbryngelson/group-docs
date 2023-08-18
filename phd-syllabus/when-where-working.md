@@ -14,13 +14,16 @@ For time and task management, use whatever tool works for you: notebooks, task m
 #### Work location
 
 We work in CODA, which has an open space layout where my students sit near each other.
-You will have an assigned desk in that space.
-I spend most of my time at my office, which is near that space.
-I expect most students to be working from that space regularly, which is not to say "most of the time", but perhaps a substantial portion of the working hours each week in that space.
+You will have an assigned desk in or near room S1347.
+Our CODA space also has a large amount of open room, couches, and desks, many food and coffee options, etc., hopefully this makes it a desirable place to work.
+If you are an undergraduate student without a permanent desk in CODA, I may request one for you if you are spending a significant amount of time working on group research. 
+Even if you don't have a desk there, feel free to use our CODA space regularly.
+
+I spend most of my time in my office, S1313, which is near the group desks.
+I expect most students to be working from their desk regularly, which is not to say "most of the time," but perhaps a substantial portion of the working hours each week in that space.
 Most of the students come in at least 3 days a week.
-Frankly, if work and progress gets done I don't mind where you are.
-**But I find that progress and problem solving are more likely when you are surrounded by others (including me) who can help solve problems, answer questions, and point you in a helpful direction.**
+
+**I find that progress and problem solving are more likely when you are surrounded by others (including me) who can help solve problems, answer questions, and point you in a helpful direction.**
 This is in addition to providing an environment that helps you focus on work.
-It's often the case that students vary their physical presence, e.g.,
-when they have a writing task that requires focus not offered in a more busy environment.
-That's totally acceptable, but you are expected to let the team (me, your collaborators) know when they should expect you.
+It's often the case that students will vary their physical presence, e.g., when they have a writing task that requires focus not offered in a more busy environment.
+This is, of course, acceptable.
