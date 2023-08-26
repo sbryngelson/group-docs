@@ -76,6 +76,40 @@ Other tips of this type are available at these links:
 * [Writing Clearly & Concisely](https://writingcenter.ashford.edu/writing-clearly-concisely)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
+## More tips
+
+From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
+
+* Use the "show don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
+
+* Don't bury the lede. When journalists write articles, they usually put the crucial information in the 'lede' opening paragraph. Hiding big news later in the piece is known as "burying the lede". This idiom forms part of the inverted pyramid approach to writing: put the most important information first in an article or section, then fill out the details.
+
+* Read widely, reflecting as you go. Why was that sentence hard to follow? Why did you like that section of text? Why was that turn of phrase annoying? What gave that paragraph its nice balance and rhythm? As Toni Morrison once put it: "Writing is really a way of thinking – not just feeling but thinking about things that are disparate, unresolved, mysterious, problematic or just sweet."
+
+* Make your reader care about what they're reading. Like a good story, that typically means outlining a clear problem, with the promise of a later resolution.
+
+* The analysis wasn't done by some anonymous entity. You did the analysis. So avoid the passive voice if possible. (See also: "a decision was made" rather than "we made the decision" when it comes to responsibility-dodging in leadership messages.)
+
+* If you promise something in the introduction, make sure you've delivered by the end of the results. For example, if you open by mentioning A and B, readers will be expecting a conclusion about A and B by the end of the paper. "Remove everything that has no relevance to the story,' as Chekhov put it. "If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off."
+
+* Follow Orwell's rules of writing
+    * Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+    * Never use a long word where a short one will do.
+    If it is possible to cut a word out, always cut it out.
+    * Never use the passive where you can use the active.
+    * Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+    * Break any of these rules sooner than say anything outright barbarous.
+
+* Kill your darlings. Sometimes you'll write a phrase that is so elegant and so well crafted, it jars with the rest of your writing and pulls the reader out of the flow. So cut it. As Stephen King once put it: _'Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.'_
+
+* If you want to describe a figure/table in the results text, it can help to imagine you're giving a seminar. What features would you draw your audience's attention to? What would you tell people about in the coffee break?
+
+* Help the reader interpret your figures and tables. Don't give them a sixteen panel graph and expect them to spot the main takeaway; if the author can't be bothered to find a key message, the reader almost certaintly won't either.
+
+* You can probably cut about half your word count if you really need to do, without losing your meaning. (I've managed to cut down a bunch of paper submissions into much shorter report formats when really pressed.)
+
+* A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
+
 ## Other links
 
 Over the years I found the documents below helpful for improving my writing:
