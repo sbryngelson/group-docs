@@ -19,7 +19,7 @@
     * Get access by: Emailing [Will Powell](will.powell@cc.gatech.edu), cc me.
 
 * ACCESS-CI computers
-    * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta and PSC Bridges2 at time of writing, but can change to others as needed.
+    * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), and Texas A&M ACES (H100 GPUs) at time of writing, but can change to others as needed.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
     * "Rules": Be mindful of node hours available. Queue times might be long.
     * Get access by
