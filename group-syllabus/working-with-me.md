@@ -28,22 +28,22 @@ I _will_ help you get all these skills, though, by pointing you to the right res
 
 #### Power Structures
 
-Of course, the university (like most of society) has strong hierarchical structures.
-Professors are in positions of power over students and students are unfortunately not always able to speak up when something isn't right.
+The university has strong hierarchical structures.
+Professors are in positions of power over students and students unfortunately are not always able to speak up when something isn't right.
 I welcome student input, especially if I or one of my colleagues has said or done something that makes a student feel uncomfortable.
 I do realize that it is a difficult proposition in many cases, especially if you feel I am the culprit.
-If you feel you suffered harassment, intolerance, or other injustices I encourage you to speak to me or other trusted individuals.
+If you feel you suffered an injustice I encourage you to speak to me or other trusted individuals.
 
 #### Co-Advising
 
-I am a big fan of co-advising PhD students, and some of my students have been co-advised.
-As long as the "trio" dynamics are healthy, including the relationship between the two advisors, this is a good idea: gives you another smart person to advise you and be invested in your future; broadens the set of ideas and knowledge you are exposed to.
-There are potential drawbacks, some overhead for you (scheduling, more weekly and lab meetings), potential friction when advisors disagree.
+I am a fan of co-advising Ph.D. students, and many of my students are, or have been, co-advised.
+As long as the "trio" dynamics are healthy, including the relationship between the two advisors, this is a good idea: it gives you another person to advise you and be invested in your future; broadens the set of ideas and knowledge you are exposed to.
+There are potential drawbacks, some overhead for you (scheduling, more weekly and lab meetings), and potential friction when advisors disagree.
 But overall, if there are two faculty members whose work, vision, and interests align with yours, you should definitely explore co-advising.
 
 #### Time with Me and Others
 
-I try to make myself available to my PhD students as my first priority in terms of both calendar and attention.
+I try to make myself available to my Ph.D. students as my first priority in terms of both calendar and attention.
 Having said that, there are sometimes other requirements on my time, often immutable and sometimes urgent.
 You should expect to be able to see me often or get fairly rapid responses, but do not expect to see me or be able to get my time and attention "on demand."
 You are always welcome to try though!
@@ -51,7 +51,7 @@ You are always welcome to try though!
 Most importantly, we will have a 45-60 minutes long weekly one-on-one meeting slot in which we will talk about your work and progress, brainstorm ideas, and generally touch on any matter you want to discuss.
 You can also ask for my time at any other point, e.g., for a quick ad-hoc meeting, which I will be happy to do whenever possible.
 
-Beyond the 1-1 meeting, you will be asked to attend the weekly lab meeting where students share progress as well as other updates.
+Beyond the 1-1 meeting, you will be asked to attend the weekly group meeting where students share progress as well as other updates.
 You may also see me in project-specific meetings (frequency depends on the project) where we are working with other collaborators.
 
 #### How to get a hold of me
@@ -62,7 +62,7 @@ In particular, our lab's Slack team is the best way to find me.
 I am also of course available by email.
 However, email is not a synchronous medium, and I often turn it off in order to get stuff done, and stuff tends to get lost there due to volume.
 
-If you need me to meet with you at a certain time, it's best to contact me about it first, then when I've agreed to the time, send me a calendar invitation (this is true for everyone else you'd like to have a meeting with in professional settings).
+If you need me to meet with you at a certain time, it's best to contact me about it first, then when I've agreed to the time, send me a calendar invitation (this is true for everyone else you'd like to have a meeting with in a professional setting).
 
 If you want me to be responsive to you, you should be responsive to me.
-However, I do not expect you to be responsive during non-working hours (unless we agreed to be  working on a deadline).
+However, I do not expect you to be responsive during non-standard working hours (unless we agreed to be working on a deadline).

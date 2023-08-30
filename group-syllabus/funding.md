@@ -1,11 +1,11 @@
 ### Funding
 
-Your PhD comes with guaranteed funding (i.e., stipend, tuition, health insurance) as long as you are in "good standing" according to the departments' annual review, which generally tends to mean "while you are in the program".
+Your Ph.D. comes with guaranteed funding (i.e., stipend, tuition, health insurance) as long as you are in "good standing" according to the department's annual review, which generally tends to mean "while you are in the program."
 This means you are guaranteed to have a fellowship, Graduate Research Assistantship (RA), or Teaching Assistantship (TA) to support you throughout your time at Georgia Tech. 
 
 #### Research and Teaching Assistantship 
 
-It is my role to make sure that you are supported by an RA, TA, or fellowship for as much as your PhD as possible.
+It is my role to make sure that you are supported by an RA, TA, or fellowship for as much of your Ph.D. as possible.
 Your PhD program will require some (typically two) semesters of TA during your PhD, though you could be asked to do more of them.
 
 RAs generally means some sort of grant or research award supports your work.
@@ -29,6 +29,6 @@ Not a bad situation to be in.
 #### Stipend
 
 Your stipend is determined by the Graduate School at Georgia Tech.
-The PhD stipend is by no means a lot of money, but I believe people have found that it supports a comfortable life that allows you to focus on your studies.
-On a related note, there is an expectation that your PhD will be your full-time work, though internships, particularly during the summer, are possible and sometimes even recommended.
+The Ph.D. stipend is by no means a lot of money, but I believe people have found that it supports a comfortable life that allows you to focus on your studies.
+On a related note, there is an expectation that your Ph.D. will be your full-time work, though internships, particularly during the summer, are possible and sometimes even recommended.
 

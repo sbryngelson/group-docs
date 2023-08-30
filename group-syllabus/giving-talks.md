@@ -9,43 +9,49 @@ Then, I look at the time I have available to speak and subtract 5 minutes.
 From that number, I break down how much time I want to spend on the different parts of the talk.
 After those two things, I start building slides.
 
-After you have a deck, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
+After you have your slides, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
 Fortunately, the talks you're likely to give early in your academic career are also the shortest.
 This means you can practice them, in their entirety, a dozen times within an hour or two.
 I guarantee that a talk practiced front-to-back 12 times will be delivered more cleanly than one never practiced, and everyone in the room can tell the difference.
-If I'm nervous about a talk on a new topic, I sometimes practice even more than this. 
+If I'm nervous about a talk or am giving one on a new topic, I will practice even more than this. 
 
-Especially early in your PhD, you should then plan on giving at least two practice talks to an audience (one of them with me).
+Especially early in your Ph.D., you should then plan on giving at least two practice talks to an audience (one of them with me).
 Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
-After you synthesize and iterate on all the feedback, you’re ready to go.
+After you synthesize and iterate on all the feedback, you're ready to go.
 This process often takes many days, even for a short talk.
+__This means that you should be ready to start practicing at least one week before you give your talk.__
 
-The most common feedback I give on talks is:
+The most common feedback I give for talks is:
 * The talk was not structured for the audience. 
   * Who are you talking to? It matters! In fact, it might be the thing that matters most.
+
 * What was your message? 
   *  If the message is unclear to me, it will definitely be unclear to others. If your talk doesn't have a message, consider why, come up with an appropriate one, and restructure your slides.
+
 * You did not practice enough. 
   *  You know your talk is well practiced when you can deliver it without looking at the slides/projector most of the time. Why? Because you already know what's on them, and what's coming next! This allows you to engage with the audience. 
   *  You know your talk is not well-practiced when you are reading the slides: I, too, can read your slides. If that's what you were going to do, you could have just sent a PDF of the slides to the audience to peruse at their own leisure.
+
 *  Stop using superlatives.
     *  Words like _very_ can pollute an otherwise excellent talk. "The relationship is _very_ complicated." "This equation is _very_ nonlinear." What does one intend with such words? 
+
 *  You use many filler words.
    * Avoid using "umm" or "uhh". You will likely be guilty of this to some degree until the day you graduate, but you will be better than when you started working on research. I am guilty myself, that's for sure. I think the best remedies are
-     * Practicing
-     * __Slowing Down.__ If you have to speed through your talk, it's too long anyway.
-     * Having someone tell you when you do this.
+     1. __Slowing Down.__ If you have to speed through your talk, it's far too long anyway.
+     2. Practicing
+     3. Having someone tell you when you do this.
 * Don't let the first words out of your mouth be your talk title, verbatim
 	* You will almost always have someone introduce you and your talk. They will almost surely recite your talk title during this. Don't start your talk by repeating what the introducer/session chair just said, it suggests you are reciting your talk from some kind of script. 
 	* An above example of what not to do looks something like:
-        * __Introducer:__ "We are pleased to have Mr/s. X giving a talk! They will be talking about <your talk title here>.
-        * __You:__ "Thanks for having me! Today I am going to be talking about <your talk title here>.
+        * __Introducer:__ "We are pleased to have Mr/s. X giving a talk! They will be talking about _"your talk title here"_.
+        * __You:__ "Thanks for having me! Today I am going to be talking about _"your talk title here"_.
 
 * There is too much text on your slides.
-   * Figure out what your message is and then remove text that does not help deliver this message. 
+   * Figure out what your message is and then remove text and speech that does not help deliver this message. Here is a simple example.
       * __Example:__ You list, to five decimal places, the coefficients of the stiffened gas equation of state you used to model the properties of water.
       * __Problem:__ No one cares and they assume you are sufficiently competent to use reasonable ones. If your results are sensitive to this information then you would most certainly be giving a very different talk indeed. 
    * The point: This is not a journal article, and not _everything_ needs to be explicitly stated or referenced. Only the things that contribute to your story.
+
 * I can't hear you.
    * This isn't usually technically true, my hearing is pretty good, but I recommend you project your voice into the room and speak clearly. Not doing this is one sure way to lose the attention of the audience. 
    * Example: Many times we acknowledge that we could barely understand what a speaker was saying. Rarely do we say "man, they were way too loud, that was obnoxious."
@@ -55,8 +61,9 @@ The most common feedback I give on talks is:
 #### Q&A
 
 After you give a talk, there will usually be Q&A.
-I like to think of it as having a discussion with a colleague—in front of a large audience.
+I like to think of it as having a discussion with a colleague, just in front of a large audience.
 That’s the tone I’m aiming for in my answers to questions.
+The main exception to this is to repeat the question to 1. be sure you understand it and 2. so that everyone else can hear it, if it was rather quiet.
 Three concrete tips:
 
 1. Remember that you almost certainly know more about the details of your work more than anyone else in the room.
