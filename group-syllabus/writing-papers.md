@@ -1,6 +1,6 @@
 ### Writing papers
 
-**Companion documents: [Formatting your work](formatting.md) and [Improving your writing](group-syllabus/writing.md)**
+**Companion documents: [Formatting your work](formatting.md) and [Improving your writing](improving-your-writing.md)**
 
 There are many forms of scholarly impact.
 Writing papers is one of them—and among the most important for graduate students.
