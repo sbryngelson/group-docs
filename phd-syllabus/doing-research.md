@@ -13,23 +13,21 @@ Some guidelines on impact might include:
 
 **What difference will this work make if you succeed?** 
 - Whose lives will be made better by this research?
-- How will this improve upon what’s currently being done?
+- How will this non-trivially improve upon current state-of-the-art?
 - Why is this one of the most important questions in the field?
-- Will it create a big policy change at some level (company, government)?
-- Will it inspire a new class of systems?
+- Will it inspire a new class of methods, systems, tools, or computers?
 
 **Who will care about it when you’re done?**
 - Will government agencies care?
-- Will platforms and industry care?
+- Will the industry/companpanies care?
 - Will other academics care enough to cite it?
 - Will other academics care enough to teach it to their students?
 - Will anyone care about it 10, 20, 50 years in the future?
 
 **How will this change what other people (defined broadly) are doing?**
-- Will other researchers change what they’re working on after seeing your work?
+- Will other researchers change what they're working on after seeing your work?
 - Will practitioners do something different?
-- Will users adopt what you've made, found, created?
-- Will regulators use what you've found to draft new laws?
+- Will users adopt what you made/found/created?
 
 ### Expected Output
 
@@ -122,7 +120,7 @@ I am often asked who decides which ideas and research direction to pursue.
 Can a PhD student choose any topic and research direction?
 Do I dictate research agendas and projects to the student?
 The reality is that we decide together on which ideas and directions to work on.
-It's an iterative, long term process that results in the alignment.
+It's an iterative, long-term process that results in the alignment.
 It starts when students pick to work with me -- and I with them -- because we have a shared interest.
 I am likely to steer new students towards directions and questions that I think are interesting (sometimes new, sometimes existing), especially projects which I have funding to work on.
 But I never "assign" projects -- if the student is not excited and motivated about a research direction, the outcome is not likely to be good.
