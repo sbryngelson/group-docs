@@ -9,14 +9,14 @@ We are happy to have you (you wouldn't be reading this, otherwise).
 
 You will need access to the CODA building.
 GT CSE is on floor 13, and our group is in room S1347.
-We also hold meetings either in my office (S1313) or one of the conference rooms on this floor.
+We also hold meetings either in my office (S1313) or one of the conference rooms on the 13th floor.
 Request this from Spencer. 
 Send him your GTID number, it will likely take about a week to "start working," though times vary.
 
 ### Websites and software
 
 * Box, located [here](https://gatech.app.box.com/folder/142416587982)
-    * Purpose: Common location to store stuff, unlimited space, put your group and 1-1 updates here.
+    * Purpose: Common location to store things, unlimited space. Put your group and 1-1 updates here.
     * Request access to group Box from Spencer.
 
 * GitHub organization, located [here](https://github.com/comp-physics)
