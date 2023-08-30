@@ -2,6 +2,7 @@
 # Welcome to the Computational Physics @ GT CSE research group!
 
 We are happy to have you (you wouldn't be reading this, otherwise).
+This document has some parts that are Ph.D. specific, but much of it applies to undergraduate researchers in the group as well.
 
 ## Getting started 
 
