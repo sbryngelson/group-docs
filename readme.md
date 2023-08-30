@@ -15,7 +15,7 @@
 
 ## Details
 
-* [Improving your academic writing](group-syllabus/writing.md)
+* [Improving your academic writing](group-syllabus/improving-your-writing.md)
 * [Formatting your work](group-syllabus/formatting.md)
 * [Available computers](group-syllabus/computers.md)
 
