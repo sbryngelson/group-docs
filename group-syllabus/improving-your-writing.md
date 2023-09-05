@@ -45,6 +45,7 @@ Such mistakes are a quick way for an editor or reviewer to perceive your work as
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for even obviously poor style choices if you are consistent with them throughout.
+Please see the [these](formatting.md) documents for more on this.
 
 ## Nomenclature
 
