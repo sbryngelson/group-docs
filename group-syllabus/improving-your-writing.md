@@ -110,6 +110,12 @@ From [some tips for scientific writing](https://kucharski.substack.com/p/some-ti
 
 * A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
 
+## Required watching
+
+Before writing a paper, watch these two lectures from the University of Chicago:
+* [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+* [Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM)
+
 ## Other links
 
 Over the years I found the documents below helpful for improving my writing:
