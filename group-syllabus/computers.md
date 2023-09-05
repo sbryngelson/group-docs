@@ -38,9 +38,9 @@
         * The account/allocation number is CFD154.
 
 * Department of Energy (e.g., Sandia National Lab, "Tri-labs")
-    * Purpose: Resources for DOE sponsored/funded research projects, only available to those students working on these projects.
+    * Purpose: Resources for DOE sponsored/funded research projects, only available to those students working on these projects. You will only have access to non-restricted resources.
     * "Rules": Usually not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
-    * Login process (Sandia)
+    * Login process (Sandia National Lab-specific)
         * Onto the DaaS
             * VMware Horizon ([download online](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_horizon_clients/horizon_8))
             * URL: daas.sandia.gov
@@ -61,3 +61,11 @@
                 * Default user name (shbryng)
                 * Password is (usually) the kerberos one
                 * If it asks for token OTP (e.g. on weaver) then this is your PIN + your yubikey1timepassword
+
+* Department of Defense
+    * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
+    * The process of getting permissions to the non-restricted systems is a bit tedious, but usually worth it
+    * See [here](https://centers.hpc.mil/) for information on the available supercomputers
+        * In particular, it's useful to keep an eye on [upcoming systems](https://centers.hpc.mil/systems/hardware.html#upcoming)
+        * Current unclassified systems are [here](https://centers.hpc.mil/systems/unclassified.html)
+    * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
