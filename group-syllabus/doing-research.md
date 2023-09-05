@@ -19,7 +19,7 @@ Some guidelines on impact might include:
 
 **Who will care about it when you’re done?**
 - Will government agencies care?
-- Will the industry/companpanies care?
+- Will the industry/companies care?
 - Will other academics care enough to cite it?
 - Will other academics care enough to teach it to their students?
 - Will anyone care about it 10, 20, 50 years in the future?
