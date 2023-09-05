@@ -21,6 +21,8 @@ I typically ask my PhD students to write the first draft of each section in the 
 For a 1st or 2nd year student, the writing process might be the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students, ultimately followed by extensive editing and rewriting by me.
 For a 5th year student, students (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
 
+__Important note:__ Use Overleaf for writing your journal and conference papers, so that we can synchronously collaborate on them. Overleaf has a feature that you can use to hook a local copy to the Overleaf one via `git` or GitHub. I personally use the raw `git` interface so I can use `vim` for my typing and compiling locally, then pushing changes to the document, but sometimes I'll edit the document directly in Overleaf. You get a free Overleaf pro account with your `gatech.edu` email address.
+
 #### Conference Paper Deadlines
 
 Conference papers and abstracts will have deadlines.
