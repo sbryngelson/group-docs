@@ -95,7 +95,7 @@ Both are important: a good scholar can move between levels of detail (i.e.g, "Wh
 Some concrete ways in which one might find good ideas:
 
 * More commonly, remember that we stand on the shoulders of giants.
-When you read a good paper--really, any paper--think about how components of that paper could apply to your own research.
+When you read a good paper (really, any paper) think about how components of that paper could apply to your own research.
 For example, the methods the authors used; the way they asked their research questions; the type of analysis they performed; or even how they presented their results can all provide key insights.
 
 * When you read a good paper in your own research area, ask yourself what should come next.
@@ -109,7 +109,7 @@ Many of them have been thought about and studied in earlier forms.
 Try to read broadly (e.g., from computational mathematics to physics to mechanical and aerospace engineering), and consider how these texts and concepts are related to your work.
 
 I recommend finding a good way to keep track of ideas.
-You can use a file called `ideas.txt` to keep track of new ideas as they come to mind.
+You can use a file called `ideas.txt` to keep track of new ideas as they come to mind, or whatever other mechanism you like, but do _something_.
 
 Importantly, while there is no such thing as "too many ideas", you shouldn't pursue more than a few at a time, and carefully balance new ideas with ongoing work.
 This brings us to...
@@ -117,11 +117,11 @@ This brings us to...
 #### Deciding what Ideas to Pursue
 
 I am often asked who decides which ideas and research direction to pursue.
-Can a PhD student choose any topic and research direction?
+Can a Ph.D. student choose any topic and research direction?
 Do I dictate research agendas and projects to the student?
 The reality is that we decide together on which ideas and directions to work on.
 It's an iterative, long-term process that results in the alignment.
-It starts when students pick to work with me -- and I with them -- because we have a shared interest.
+It starts when students pick to work with me, and I with them, because we have a shared interest.
 I am likely to steer new students towards directions and questions that I think are interesting (sometimes new, sometimes existing), especially projects which I have funding to work on.
 But I never "assign" projects -- if the student is not excited and motivated about a research direction, the outcome is not likely to be good.
 Similarly, students can pursue a project that I am less interested in, but that results in me being less engaged and less helpful as an advisor.
@@ -129,5 +129,5 @@ The process of coming up with ideas, research questions, and project decisions t
 
 At the same time, "interest splits" happen, and students often pursue questions and directions.
 If there's no overlap, one option is to switch advisors.
-I have had students leave me to work with other advisors as it became clear that their pursuit and intellectual passion does not overlap with mine (two come to mind in recent years; both have done well after the switch, and our personal relationship was never jeopardized, although you should ask them if they feel the same way -- I think they do).
-
+I have had students leave me to work with other advisors as it became clear that their pursuit and intellectual passion do not overlap with mine.
+This is normal and healthy, what is _unhealthy_ is staying in an advising relationship even though passions do not overlap meaningfully.
