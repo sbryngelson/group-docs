@@ -22,7 +22,7 @@
 
 ## Templates
 
-* [For making your papers](templates/main.tex)
+* [For making your papers](templates/paper/main.tex)
 
 ## Acknowledgements
 
