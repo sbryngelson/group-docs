@@ -20,6 +20,10 @@
 * [Making figures](group-syllabus/figures.md)
 * [Available computers](group-syllabus/computers.md)
 
+## Templates
+
+* [For making your papers](templates/main.tex)
+
 ## Acknowledgements
 
 Parts of this are borrowed from [Eric Gilbert's](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM) and Mor Maaman's Ph.D. syllabus.
