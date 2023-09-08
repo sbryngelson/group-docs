@@ -22,7 +22,9 @@
 
 ## Templates
 
-* [For making your papers](templates/paper/main.tex)
+* [For papers](templates/paper)
+* [For figures](templates/paper/figures)
+* [For talks](templates/talks)
 
 ## Acknowledgements
 
