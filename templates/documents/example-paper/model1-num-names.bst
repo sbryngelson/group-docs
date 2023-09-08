@@ -167,7 +167,7 @@ FUNCTION {field.or.null}
 FUNCTION {emphasize}
 { duplicate$ empty$
     { pop$ "" }
-    { "\textit{" swap$ * "}" * }
+    { "\textbf{" swap$ * "}" * }
   if$
 }
 FUNCTION {tie.or.space.prefix}
@@ -727,12 +727,7 @@ FUNCTION {format.journal.pages}
   if$
 }
 FUNCTION {format.vol.num.pages}
-{ volume field.or.null
-  duplicate$ empty$ 'skip$
-    {
-      "volume" bibinfo.check
-    }
-  if$
+{ "{\bfseries" volume field.or.null * "}" * % make volume bold face   volume field.or.null
   format.year *
 }
 
