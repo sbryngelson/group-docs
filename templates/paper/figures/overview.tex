@@ -37,11 +37,8 @@
             xmin=-0.3,xmax=1,
             ymin=0,
             ymax=1.1,
-            % ymax=1,
-            % xtick=\empty,
-            % ytick=\empty,
             enlargelimits=false,
-        ]
+            ]
             \addplot[domain=-0.3:1,very thick,seagreen,samples=100,smooth]{
                 0.1 + 0.06*gauss(0.12,0.025) 
             };
@@ -138,11 +135,11 @@
 
     % Arrow from Lbar matrix back to s 
     \draw[ultra thick, -latex, black,looseness=0.5,in=-30,out=270-60] ($ (c.south) + (0,-1.1) $) to node [midway,above,inner sep=5pt] {Repeat with new $s = \bar{s}$ \begin{tikzpicture}[scale=0.1,baseline=0.5mm]\def\normaltwo{\x,{4*1/exp(((\x-3)^2)/1)}}
-% input y parameter
-\def\y{4.4}
-% this line calculates f(y)
-\def\fy{4*1/exp(((\y-3)^2)/4)}
-\draw[color=seagreen,very thick,domain=0:6,-] plot (\normaltwo);
+        % input y parameter
+        \def\y{4.4}
+        % this line calculates f(y)
+        \def\fy{4*1/exp(((\y-3)^2)/4)}
+        \draw[color=seagreen,very thick,domain=0:6,-] plot (\normaltwo);
     \end{tikzpicture}} ($ (x.south) + (1,0.1) $);
 
 \end{tikzpicture}

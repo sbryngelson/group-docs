@@ -10,7 +10,6 @@
 \definecolor{RYB4}{RGB}{251,220,127}
 
 \pgfplotscreateplotcyclelist{newcolors}{
-% {RYB1!70,every mark/.append style={fill=RYB1!70,mark size={1}},mark=*},
 {RYB3!30,every mark/.append style={fill=RYB3!30,mark size={1}},mark=*},
 {RYB3,every mark/.append style={fill=RYB3,mark size={2}},mark=*},
 {RYB2,every mark/.append style={fill=RYB2,mark size={3}},mark=triangle*},
@@ -47,16 +46,9 @@
         every axis title/.style={below left,at={(0,0)},inner sep=0.1in},
         xlabel=Number of Matvecs (DNSs),
         ylabel=Relative Error,
-        % xmax=49,
-        % ymax=49,
         width=0.3\textwidth,
         height=0.25\textwidth,
-        % ymode=log,
         enlarge x limits=0,
-        % enlarge y limits=0,
-        % ymin=1e-16,
-        % ymax=8e2,
-        % xmin=-3.08,
         legend style={/tikz/every even column/.append style={column sep=0.25cm}},
         xmax=3.08,
         legend style={
@@ -69,12 +61,10 @@
             fill=none,
             transpose legend,
         },
-        % xmode=log,
         ymode=log,
         xmin=1,xmax = 144,
         ymax=1,
         ymin=1e-3,
-        % ymin=1e-5,
         axis on top,
         clip mode=individual,
         extra x ticks={1,144},
@@ -83,8 +73,6 @@
         \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/turbulent_channel/D2121_opt_l_for_rho_n_test_5_m_test_5.csv};
         \addplot+[very thick,smooth,no marks] table[x index={2},y index={1},col sep = comma,x expr={\thisrow{c}*2}] {../data/turbulent_channel/D2121_rand_lr.csv};
         \addplot+[very thick,smooth,no marks,dashed] table[x index={1},y index={0},col sep = comma,x expr={\thisrow{b}*2}] {../data/turbulent_channel/D2121_svd.csv};
-
-        % \node[anchor=west] at (axis cs:0,1.3e-3) {(a) $\mathcal{D}_{21}$};
         \legend{Fast MFM (Sweep),Fast MFM (Automatic),Randomized low-rank approx.,SVD (Inaccessible)};
 
     \nextgroupplot[
@@ -92,19 +80,9 @@
         title=(b),
         every axis title/.style={below left,at={(0,0)},inner sep=0.1in},
         xlabel=Number of Matvecs (DNSs),
-        % ylabel=Relative Error,
         width=0.3\textwidth,
         height=0.25\textwidth,
         enlarge x limits=0,
-        % legend style={
-        %     at={(0.5,1)},
-        %     inner sep=1pt,
-        %     anchor=south,
-        %     legend columns=5,
-        %     legend cell align={left},
-        %     draw=none,
-        %     fill=none,
-        % },
         ymode=log,
         xmin=1,xmax = 144,
         ymax=1,
@@ -119,7 +97,6 @@
         \addplot+[very thick,smooth,no marks] table[x index={2},y index={1},col sep = comma,x expr={\thisrow{c}*2}] {../data/turbulent_channel/D1121_rand_lr.csv};
         \addplot+[very thick,smooth,no marks,dashed] table[x index={1},y index={0},col sep = comma,x expr={\thisrow{b}*2}] {../data/turbulent_channel/D1121_svd.csv};
 
-        % \node[anchor=west] at (axis cs:0,1.3e-3) {(b) $\mathcal{D}_{11}$};
     \end{groupplot}
 
 \end{tikzpicture}
