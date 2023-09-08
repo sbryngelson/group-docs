@@ -1,0 +1,47 @@
+% !TEX root = ./slices.tex
+\input{tikz_preamble}
+
+\definecolor{RYB1}{rgb}{0.63, 0.74, 0.78}
+\definecolor{RYB2}{rgb}{0.18, 0.42, 0.41}
+\definecolor{RYB6}{rgb}{0.85, 0.55, 0.13}
+\definecolor{RYB5}{rgb}{0.69, 0.67, 0.66}
+\definecolor{RYB3}{rgb}{0.72, 0.26, 0.06}
+\definecolor{RYB4}{RGB}{251,220,127}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}
+    \begin{axis}[
+        standard, 
+        xlabel=$x_{1,i}$,
+        ylabel=$\mathcal{M}_{N/2,i}$,
+        width=0.35\textwidth,
+        height=0.25\textwidth,
+        ymode=log,
+        enlarge x limits=0,
+        enlarge y limits=0,
+        ymin=1e-16,
+        ymax=8e2,
+        xmin=-3.08,
+        xmax=3.08,
+        legend style={
+            at={(axis cs:0,3e-16)},
+            inner sep=3pt,
+            anchor=south,
+            legend columns=4,
+            legend cell align={left},
+            draw=none,
+            fill=none,
+        },
+        ]
+        \addlegendimage{empty legend};
+        \addplot[RYB5,very thick,smooth] table {../data/D-slice.txt};
+        \addplot[RYB2,very thick,smooth,dashed] table {../data/Lbar-slice.txt};
+        \addplot[RYB3,very thick,smooth,dotted] table {../data/LbarInv-slice.txt};
+        \legend{$\mathcal{M} =$,$\mathcal{D}$,$\bar{\mathcal{L}}$,$\bar{\mathcal{L}}^{-1}$};
+    \end{axis}
+
+\end{tikzpicture}
+
+\end{document}

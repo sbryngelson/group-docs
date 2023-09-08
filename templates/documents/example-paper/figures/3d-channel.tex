@@ -1,0 +1,163 @@
+%!TEX root = 3d-channel.tex
+\input{tikz_preamble}
+\newcounter{randarcs}
+
+\definecolor{RYB1}{RGB}{207, 37, 37}
+\definecolor{RYB2}{RGB}{37, 91, 207}
+\definecolor{RYB3}{RGB}{37, 207, 91}
+\definecolor{RYB4}{RGB}{163,26,145}
+\definecolor{RYB5}{RGB}{253, 180, 98}
+\definecolor{RYB6}{RGB}{179, 222, 105}
+\definecolor{RYB7}{RGB}{128, 177, 211}
+
+\usepgfplotslibrary{colormaps}%
+
+\begin{document}
+\pagestyle{empty}
+
+% Streamwise -> 2pi
+% Spanwise -> Pi
+% Wallnormal -> 2
+
+% dir 1: depth, -> x = streamwise = len 6
+% dir 2: width  -> y = wallnormal = len 2
+% dir 2: height -> z = spanwise   = len 3
+
+\begin{tikzpicture}[randarc/.style={out=\angA+90+\angB/6,in=\angA+90-\angB/6,looseness=\lsns}]
+
+    \newcommand{\Depth}{4.5}
+    \newcommand{\Height}{3}
+    \newcommand{\Width}{2}
+
+    \newcommand{\myHeight}{3}
+    \newcommand{\myWidth}{2}
+
+    \newcommand{\off}{4}
+
+    %main box
+    \coordinate (O) at (0,0,0);
+    \coordinate (A) at (0,\Width,0);
+    \coordinate (B) at (0,\Width,\Height);
+    \coordinate (C) at (0,0,\Height);
+    \coordinate (D) at (\Depth,0,0);
+    \coordinate (E) at (\Depth,\Width,0);
+    \coordinate (F) at (\Depth,\Width,\Height);
+    \coordinate (G) at (\Depth,0,\Height);
+    \draw[thick,black] (O) -- (A) -- (E) -- (D) -- cycle;% Back Face
+    \draw[thick,black] (O) -- (A) -- (B) -- (C) -- cycle;% Left Face
+    \draw[thick,black] (D) -- (E) -- (F) -- (G) -- cycle;% Right Face
+    \draw[thick,black] (C) -- (B) -- (F) -- (G) -- cycle;% Front Face
+    \draw[thick,black] (A) -- (B) -- (F) -- (E) -- cycle;% Top Face
+
+    % Parabola vert
+    \draw[rust, -latex] (0,0.33,0.5*\Height) -- (0.55,0.33,0.5*\Height);
+    \draw[rust, -latex] (0,0.66,0.5*\Height) -- (0.67,0.66,0.5*\Height);
+    \draw[rust, -latex] (0,1+0.33,0.5*\Height) -- (0.67,1+0.33,0.5*\Height);
+    \draw[rust, -latex] (0,1+0.66,0.5*\Height) -- (0.55,1+0.66,0.5*\Height);
+    \draw[rust, -latex] (0,0.5*\Width,1.5) -- (0.73,0.5*\Width,1.5);
+    \draw[rust, thick, fill=black, fill opacity=0.1] (0,0,0.5*\Height) to[in=0,out=0,looseness=1.22] (0,\Width,0.5*\Height) to (0,0,0.5*\Height) -- cycle;
+
+    \node[anchor=east] at (0,0.5*\Width,\Height) {$x_2$};
+    \node[anchor=north] at (0.5*\Depth,0,\Height) {$x_1$};
+    \node[anchor=north west] at (\Depth,0,0.5*\Height) {$x_3$};
+
+    \node[anchor=north,inner sep=5pt] at (0.5*\Depth,\Width,0) {\small Turbulent Channel Flow};
+
+    % Averaging Plane
+    \coordinate (O) at (0     ,0.2*\Width,0);
+    \coordinate (A) at (\Depth,0.2*\Width,0);
+    \coordinate (B) at (\Depth,0.2*\Width,\myHeight);
+    \coordinate (C) at (0     ,0.2*\Width,\myHeight);
+    \draw[black,very thick,fill=silver,fill opacity=0.3] (O) -- (A) -- (B) -- (C) -- cycle;
+
+    \pgfmathsetseed{221}
+    \foreach \X in {1,...,60}
+    {
+    \pgfmathsetmacro{\myx}{2.25+4*(rnd-0.5)}
+    \pgfmathsetmacro{\myy}{1.5+1.9*(rnd-0.5)}
+    \pgfmathsetmacro{\angA}{360*rnd}
+    \pgfmathsetmacro{\radA}{0.15+0.15*rnd}
+    \pgfmathsetmacro{\myxp}{\myx+\radA*cos(\angA)}
+    \pgfmathsetmacro{\myyp}{\myy+\radA*sin(\angA)}
+    \pgfmathsetmacro{\angB}{360*sin(90*rnd)}
+    \pgfmathsetmacro{\lsns}{3+0.1*\radA}
+    \pgfmathsetmacro{\spencerand}{0.2+0.8*rnd}
+    \draw[-, seagreen, very thick, opacity=\spencerand] 
+        (\myx,0.2*\Width,\myy) to[randarc] (\myxp,0.2*\Width,\myyp);
+    }
+
+    \begin{scope}[xshift=6.25cm,yshift=-1cm]
+
+        \newcommand{\boxlenx}{3.3}
+        \newcommand{\boxleny}{2.2}
+
+        \node (b) at (0,0.65*\boxleny,0) {};
+        \node (d) at (\boxlenx*1.3,0.65*\boxleny,0) {};
+
+        % Draw some slices
+        \foreach \Y in {4,3,...,0}
+        {
+        \newcommand{\shift}{\Y*0.2}
+        \draw[fill=silver!30,very thick]  (0+\shift,0+\shift,0) -- (\boxlenx+\shift,0+\shift,0) -- (\boxlenx+\shift,\boxleny+\shift,0) -- (0+\shift,\boxleny+\shift,0) -- cycle;
+        }
+        \draw[very thick,-latex] (\boxlenx+0.6,0,0) -- node[midway,anchor=north west,inner sep=1pt,align=center] {\small Time \\ \small (Avg.)} (\boxlenx+1.3,0.8,0);
+        \node[anchor=north] at (0.5*\boxlenx,0,0) {$x_1$};
+        \node[anchor=east] at (0,0.5*\boxleny,0) {$x_3$};
+
+        % Draw swirls
+        \pgfmathsetseed{200}
+        \foreach \X in {1,...,100}
+        {
+        \pgfmathsetmacro{\myx}{1.65+2.5*(rnd-0.5)}
+        \pgfmathsetmacro{\myy}{1.10+1.5*(rnd-0.5)}
+        \pgfmathsetmacro{\angA}{360*rnd}
+        \pgfmathsetmacro{\radA}{0.15+0.15*rnd}
+        \pgfmathsetmacro{\myxp}{\myx+\radA*cos(\angA)}
+        \pgfmathsetmacro{\myyp}{\myy+\radA*sin(\angA)}
+        \pgfmathsetmacro{\angB}{360*sin(90*rnd)}
+        \pgfmathsetmacro{\lsns}{3+0.1*\radA}
+        \pgfmathsetmacro{\spencerand}{0.2+0.8*rnd}
+        \path[-{Latex},name path=test-arc] 
+        (\myx,\myy) to[randarc] (\myxp,\myyp) ;
+        \def\HasIntersection{0}
+        \ifnum\X>1
+         \foreach \Y in {1,...,\number\value{randarcs}}
+         {\path[name intersections={of=\Y-arc and test-arc,total=\t},
+         /utils/exec=\ifnum\t>0
+          \xdef\HasIntersection{1}%\typeout{intersects}
+         \fi];
+         }
+        \fi
+        \ifnum\HasIntersection=0
+            \stepcounter{randarcs}
+            \draw[-, seagreen, very thick, opacity=\spencerand] 
+                (\myx,\myy,0) to[randarc] (\myxp,\myyp,0);
+            \path[name path global=\number\value{randarcs}-arc]
+               (\myx,\myy,0) to[randarc] (\myxp,\myyp,0)-- cycle;
+        \fi
+        }
+    \end{scope}
+
+    \draw[very thick,->,looseness=0.9] (1.03*\Depth,0.24*\Width,0*\Height) to[in=180-45,out=45] node[midway,anchor=south,align=center]{\small Plane \\ \small (Avg.)} (b);
+
+    \begin{scope}[xshift=12.25cm,yshift=-0.75cm]
+        \node (c) at (-0.1,1.2,0) {};
+        \begin{axis}[
+            width=4cm,
+            height=4cm,
+            xticklabels=\empty,
+            yticklabels=\empty,
+            xlabel=$x_2$,
+            xlabel near ticks,
+            ]
+            \addplot+[very thick,no marks,rust,smooth] table[col sep=comma] {../data/turbulent_channel/reconstructions/D1121_dns.csv};
+            \node[align=center] at (axis cs:0,6) {
+                \footnotesize Reynolds \\ \footnotesize Stress};
+        \end{axis} 
+    \end{scope}
+
+    \draw[very thick,->,looseness=0.9] (d) to[in=180-45,out=45] node[midway,anchor=south,align=center]{\small Recover \\ \small Operator} (c);
+
+\end{tikzpicture}
+
+\end{document}

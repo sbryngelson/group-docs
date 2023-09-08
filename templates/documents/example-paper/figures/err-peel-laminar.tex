@@ -1,0 +1,137 @@
+% !TEX root = err-peel-laminar.tex
+
+\input{tikz_preamble}
+
+\definecolor{RYB1}{rgb}{0.63, 0.74, 0.78}
+\definecolor{RYB2}{rgb}{0.18, 0.42, 0.41}
+\definecolor{RYB6}{rgb}{0.85, 0.55, 0.13}
+\definecolor{RYB5}{rgb}{0.69, 0.67, 0.66}
+\definecolor{RYB3}{rgb}{0.72, 0.26, 0.06}
+\definecolor{RYB4}{RGB}{251,220,127}
+
+\pgfplotscreateplotcyclelist{newcolors}{
+{RYB3!30,every mark/.append style={fill=RYB3!30,mark size={1}},mark=*},
+{RYB3,every mark/.append style={fill=RYB3,mark size={2}},mark=*},
+{RYB2,every mark/.append style={fill=RYB2,mark size={3}},mark=triangle*},
+{RYB5,every mark/.append style={fill=RYB5,mark size={3}},mark=diamond*},
+{RYB4,every mark/.append style={fill=RYB4,mark size={3}},mark=pentagon*},
+{RYB6,every mark/.append style={fill=RYB6,mark size={4}},mark=10-pointed star},
+{RYB7,every mark/.append style={fill=RYB7},mark=*},
+}
+
+\pgfplotsset{
+    standard/.style={
+    scale only axis,
+    width=0.5\textwidth,
+    enlarge x limits=0.05,
+    enlarge y limits=0.05,
+    max space between ticks=30,
+	cycle list name=newcolors,
+    every axis/.append style={font=\small},
+	every legend/.append style={font=\small},
+	every node/.append style={font=\small},	
+	}
+}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}
+
+\begin{groupplot}[group style={group size=2 by 1,horizontal sep=2.7cm}]
+    \nextgroupplot[
+        standard, 
+        title=(a),
+        every axis title/.style={below left,at={(0,0)},inner sep=0.15in},
+        xlabel=Number of Matvecs (DNSs),
+        ylabel=Relative Error,
+        % xmax=49,
+        % ymax=49,
+        width=0.35\textwidth,
+        height=0.25\textwidth,
+        % ymode=log,
+        enlarge x limits=0,
+        % enlarge y limits=0,
+        % ymin=1e-16,
+        % ymax=8e2,
+        % xmin=-3.08,
+        % xmax=3.08,
+        legend style={
+            at={(0.6,1)},
+            inner sep=1pt,
+            anchor=south,
+            legend columns=2,
+            legend cell align={left},
+            draw=none,
+            fill=none,
+            transpose legend,
+        },
+        xmode=log,
+        ymode=log,
+        xmin=10,xmax = 1000,
+        ymax=1,
+        ymin=3e-5,
+        axis on top,
+        clip mode=individual,
+        legend style={/tikz/every even column/.append style={column sep=0.25cm}},
+        ]
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={\thisrow{d}*2}] {../data/laminar_channel/2000N-3Nvx-2Nvy-D_sweeping.csv};
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/2000N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot+[very thick,smooth,no marks] table[x index={2},y index={1},col sep = comma,x expr={\thisrow{c}*2}] {../data/laminar_channel/2000N-3Nvx-2Nvy-D_rand_lr.csv};
+        \addplot+[very thick,smooth,no marks,dashed] table[x index={1},y index={0},col sep = comma,x expr={\thisrow{b}*2}] {../data/laminar_channel/2000N-3Nvx-2Nvy-D_svd.csv};
+
+        \legend{Fast MFM (Sweep),Fast MFM (Automatic),Randomized low-rank approx.,SVD (Inaccessible)};
+
+    \nextgroupplot[
+        standard, 
+        title=(b),
+        every axis title/.style={below left,at={(0,0)},inner sep=0.15in},
+        xlabel=Number of Matvecs (DNSs),
+        ylabel=Relative Error,
+        % xmax=49,
+        % ymax=49,
+        width=0.35\textwidth,
+        height=0.25\textwidth,
+        % ymode=log,
+        enlarge x limits=0,
+        % enlarge y limits=0,
+        % ymin=1e-16,
+        % ymax=8e2,
+        % xmin=-3.08,
+        % xmax=3.08,
+        legend style={
+            at={(0,0)},
+            inner sep=1pt,
+            anchor=south west,
+            inner sep=5pt,
+            legend columns=1,
+            legend cell align={left},
+            draw=none,
+            fill=none,
+            transpose legend,
+        },
+        xmode=log,
+        ymode=log,
+        xmin=10,xmax = 1000,
+        ymax=1,
+        ymin=3e-5,
+        axis on top,
+        clip mode=individual,
+        legend style={/tikz/every even column/.append style={column sep=0.25cm}},
+        ]
+        \addlegendimage{empty legend};
+        \addplot+[RYB1,very thick,only marks,mark=square*,mark options={scale=1.03}] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/100N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/200N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/500N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/1000N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot+[very thick,only marks] table[x index={3},y index={2},col sep = comma,x expr={4+\thisrow{d}*2}] {../data/laminar_channel/Nsweep/2000N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_2_m_test_2.csv};
+        \addplot[very thick,domain=10:1000] {0.5*exp(-0.02*x)};
+        \draw[very thick] (axis cs:200,0.5) -- (axis cs:120,0.5);
+        \node[anchor=west] at (axis cs:200,0.5) {$\propto\exp(- \gamma\, n)$};
+        \legend{{\hspace{-0.25cm}$N_1=$},100,200,500,1000,2000};
+
+\end{groupplot}
+
+\end{tikzpicture}
+
+\end{document}

@@ -1,0 +1,68 @@
+\documentclass{standalone}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{bbm}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{rotating}
+
+\usepgfplotslibrary{groupplots}
+
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes}
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{quantikz}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{quotes}
+\usetikzlibrary{calc}
+\usetikzlibrary{fadings}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{patterns}
+\usetikzlibrary{3d}
+\usetikzlibrary{intersections}
+\usetikzlibrary{bending}
+\usetikzlibrary{cd}
+\usetikzlibrary{fit}
+\usetikzlibrary{decorations.markings}
+
+\usepackage{siunitx}
+
+\textwidth = 6.5 in
+\textheight = 8 in
+
+\input{../mathsymbols.tex}
+\input{../colors.tex}
+
+\definecolor{RYB1}{RGB}{207, 37, 37}
+\definecolor{RYB2}{RGB}{37, 91, 207}
+\definecolor{RYB3}{RGB}{37, 207, 91}
+\definecolor{RYB4}{RGB}{163,26,145}
+\definecolor{RYB5}{RGB}{253, 180, 98}
+\definecolor{RYB6}{RGB}{179, 222, 105}
+\definecolor{RYB7}{RGB}{128, 177, 211}
+
+\pgfplotscreateplotcyclelist{newcolors}{
+    {RYB1,every mark/.append style={fill=RYB1,mark size={1.5}},mark=*},
+    {RYB2,every mark/.append style={fill=RYB2},mark=square*},
+    {RYB3,every mark/.append style={fill=RYB3,mark size={3}},mark=triangle*},
+    {RYB4,every mark/.append style={fill=RYB4,mark size={3}},mark=diamond*},
+    {RYB5,every mark/.append style={fill=RYB5,mark size={3}},mark=pentagon*},
+    {RYB6,every mark/.append style={fill=RYB6,mark size={4}},mark=10-pointed star},
+    {RYB7,every mark/.append style={fill=RYB7},mark=*},
+}
+
+\pgfplotsset{
+    standard/.style={
+    compat=1.18,
+    scale only axis,
+    width=0.5\textwidth,
+    enlarge x limits=0.05,
+    enlarge y limits=0.05,
+    max space between ticks=30,
+	cycle list name=newcolors,
+	}
+}

@@ -1,0 +1,4 @@
+2000N-3Nvx-2Nvy-D_opt_l_for_rho_n_test_10
+# Optimal cut-off level determined based on 10 additional matrix-vector products 
+    # rho_list, norm_list, opnorm_list, n_meas_list, best_level_list
+

@@ -1,0 +1,150 @@
+% !TEX root = ./overview.tex
+\input{tikz_preamble}
+
+\pgfmathdeclarefunction{gauss}{2}{%
+  \pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
+}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}[every node/.append style={}]
+
+    % Stuff with s
+    \begin{scope}[xshift=-3cm]
+
+        % Bounding box
+        \node (abottom) at (-0.3,-0.3) [fill=white,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+        \node at (-0.15,-0.15) [fill=white,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+        \node (a) at (0,0) [fill=white,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+        
+        % Shadowed area
+        \node at (-0.725,0) [fill=black,opacity=0.3,minimum width=0.35cm,minimum height=4cm,draw=none,very thick] {};
+        \node[anchor=north west] at (a.north west) {$s$};
+        \node[anchor=north,opacity=0.6] (x) at (abottom.south) {$x_1$};
+        \node[anchor=east, opacity=0.6] at (abottom.west) {$x_2$};
+
+        % Draw vert lines
+        \foreach \x in {0,...,11}
+            \draw[thick,opacity=0.5] (4*\x/11-2,-2) -- (4*\x/11-2,2);
+
+        \begin{axis}[
+            axis lines=none,
+            xshift=-2cm,
+            yshift= 2.1cm,
+            width = 5.6cm,
+            height= 2.4cm, 
+            xmin=-0.3,xmax=1,
+            ymin=0,
+            ymax=1.1,
+            % ymax=1,
+            % xtick=\empty,
+            % ytick=\empty,
+            enlargelimits=false,
+        ]
+            \addplot[domain=-0.3:1,very thick,seagreen,samples=100,smooth]{
+                0.1 + 0.06*gauss(0.12,0.025) 
+            };
+        \end{axis} 
+    \end{scope}
+
+    % Stuff with c
+    \begin{scope}[xshift=3.25cm]
+        % Solution c image
+        \node at (0,0) {\includegraphics[width=4cm]{sol.png}};
+
+        % Bounding box
+        \node (bbottom) at (-0.3,-0.3) [fill=rust!10,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+        \node at (-0.15,-0.15) [fill=rust!10,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+        \node (b) at (0,0) [fill=white,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+
+        \node at (0,0) {\includegraphics[width=4cm]{sol.png}};
+        \node at (0,0) [fill=none,minimum width=4cm,minimum height=4cm,draw=black,very thick] {};
+
+        % Draw vert lines
+        \foreach \x in {0,...,11}
+            \draw[thick,opacity=0.5] (4*\x/11-2,-2) -- (4*\x/11-2,2);
+
+        % Plot labels
+        \node[anchor=north west] at (b.north west) {$c$};
+        \node[anchor=north,opacity=0.6] at (bbottom.south) {$x_1$};
+        \node[anchor=east,opacity=0.6] at (bbottom.west) {$x_2$};
+
+        % cbar line
+        \begin{axis}[
+            axis lines=none,
+            xshift=-2cm,
+            yshift= 2.1cm,
+            width = 5.6cm,
+            height= 2.4cm, 
+            xmin=-0.3,xmax=1,
+            ymin=0,
+            ymax=1.1,
+            % ymax=1,
+            % xtick=\empty,
+            % ytick=\empty,
+            enlargelimits=false,
+        ]
+            \addplot[domain=-0.3:1,line width=0.2cm,rust!10,samples=100,smooth]{
+                0.1 
+                + 0.06*gauss(0.15,0.05) 
+                + 0.06*gauss(0.55,0.05) 
+                + 0.02*sin(deg( 8*2*3.1415*x))*gauss(0.15,0.2) 
+                + 0.01*sin(deg(26*2*3.1415*x))*gauss(0.15,0.2)
+                + 0.02*sin(deg( 8*2*3.1415*x))*gauss(0.55,0.2) 
+                + 0.01*sin(deg(26*2*3.1415*x))*gauss(0.55,0.2)
+                + 0.25*gauss(0.3,0.2)
+            };
+            \addplot[domain=-0.3:1,very thick,rust,samples=150,smooth]{
+                0.1 
+                + 0.06*gauss(0.15,0.05) 
+                + 0.06*gauss(0.55,0.05) 
+                + 0.02*sin(deg( 8*2*3.1415*x))*gauss(0.15,0.2) 
+                + 0.01*sin(deg(26*2*3.1415*x))*gauss(0.15,0.2)
+                + 0.02*sin(deg( 8*2*3.1415*x))*gauss(0.55,0.2) 
+                + 0.01*sin(deg(26*2*3.1415*x))*gauss(0.55,0.2)
+                + 0.25*gauss(0.3,0.2)
+            };
+        \end{axis} 
+    \end{scope}
+
+    % L_inv + arrow from s to c
+    \draw[ultra thick,seagreen!80,dashed,-latex,in=210,out=-30] ($ (a.east) + (0,-0.8) $) to node[midway,above]{\color{black}$\cL^{-1}$} node[midway,below]{\color{black}\small(DNS)} ($ (bbottom.west) + (0,-0.5) $);
+
+    % Arrow c to cbar
+    \draw[darkrust,dashed,ultra thick,-latex,in=200,out=140] ($ (b.north west) + (-0.2,-0.2) $) to node[midway,left,inner sep=6pt,align=center]{\small $\overline{\text{Average}}$ \\ \small (in $x_2$)} ($ (b.north west) + (0,0.5) $);
+    
+    % Lbar matrix
+    \begin{scope}[xshift=8.5cm]
+        \node (c) at (0,0) [fill=none,minimum width=3cm,minimum height=3cm,draw=none] {};
+
+        \node (brak) at (-1.6,0) {\huge ${\left(\vphantom{\rule{4.0cm}{1.8cm}}\right.}$};
+        \node at (1.6,0) {\huge ${\left.\vphantom{\rule{4.0cm}{1.8cm}}\right)}$};
+
+        \node (d) at (-0.375,0) [shading=axis,top color=white, middle color=red, bottom color=white, minimum width=0.225cm, minimum height=3cm, draw=black, very thick,/tikz/middle color=rust] {};
+        \node at (-0.375+0.225+0.1,0) [minimum width=0.225cm, minimum height=3cm, draw=black, thick,densely dashed] {};
+        \node at (-0.375+0.225+0.2+0.225,0) [minimum width=0.225cm, minimum height=3cm, draw=black, thick,densely dashed] {};
+
+        \node[anchor=north west] at ($ (brak.north west) + (-0.2,0.2) $) {${\overline{\cL}}^{-1}$};
+    \end{scope}
+
+    % Arrow from cbar to Lbar matrix
+    \draw[ultra thick, -latex, rust!50, dashed, in=90, out=30] 
+        ($ (b.north east) + (0.0,0.4) $) to
+        node[midway,above,inner sep=7pt] {\color{rust}Recover a column} (d);
+
+    \node[anchor=west] at ($ (b.north west) + (1.3,1.1) $) {$\bar{c}$};
+    \node[anchor=west] at ($ (a.north west) + (1.3,1.0) $) {$\bar{s}$};
+
+    % Arrow from Lbar matrix back to s 
+    \draw[ultra thick, -latex, black,looseness=0.5,in=-30,out=270-60] ($ (c.south) + (0,-1.1) $) to node [midway,above,inner sep=5pt] {Repeat with new $s = \bar{s}$ \begin{tikzpicture}[scale=0.1,baseline=0.5mm]\def\normaltwo{\x,{4*1/exp(((\x-3)^2)/1)}}
+% input y parameter
+\def\y{4.4}
+% this line calculates f(y)
+\def\fy{4*1/exp(((\y-3)^2)/4)}
+\draw[color=seagreen,very thick,domain=0:6,-] plot (\normaltwo);
+    \end{tikzpicture}} ($ (x.south) + (1,0.1) $);
+
+\end{tikzpicture}
+
+\end{document}

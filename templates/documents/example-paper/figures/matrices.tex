@@ -1,0 +1,105 @@
+% !TEX root = ./matrices.tex
+
+\input{tikz_preamble}
+\usepgfplotslibrary{colormaps}
+
+\pgfplotsset{
+    colormap={shb}{
+        rgb255=(255,255,255); 
+        rgb255=(255,255,255); 
+        rgb255=(255,207,160);
+        rgb255=(254,148,76);
+        rgb255=(183,66,16)
+    },
+    colormap name=shb,
+}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}
+    \begin{groupplot}[group style={group size=3 by 1,horizontal sep=0.5cm}]
+        \nextgroupplot[view={0}{90},
+            xlabel=$i$,
+            ylabel=$j$,
+            title=(a),
+            every axis title/.style={below left,at={(0.05,0)},inner sep=0.03in},
+            colorbar,
+            colormap name=shb,
+            colorbar horizontal,
+            colorbar style={
+                at={(0,1.13)},
+                anchor=north west,
+                title=$\log_{10} \mathcal{D}_{ij}$,
+                title style={
+                    at={(0.5,1.5)},
+                },
+                % xmin=-14,
+                height=0.3cm, 
+                xticklabel pos=upper,
+            },
+            xmax=49,ymax=49,
+            width=0.35\textwidth,
+            height=0.35\textwidth,
+            y dir=reverse, axis on top,
+            xticklabels=\empty,
+            yticklabels=\empty,
+            ]
+            \addplot3[surf] file {../data/Dmat.txt};
+
+        \nextgroupplot[view={0}{90},
+            title=(b),
+            every axis title/.style={below left,at={(0.05,0)},inner sep=0.03in},
+            xlabel=$i$,
+            colorbar,
+            colormap name=shb,
+            colorbar horizontal,
+            colorbar style={
+                at={(0,1.13)},
+                anchor=north west,
+                title=$\log_{10} \bar{\mathcal{L}}_{ij}$,
+                title style={
+                    at={(0.5,1.5)},
+                },
+                % xmin=-14,
+                height=0.3cm, 
+                xticklabel pos=upper,
+            },
+            width=0.35\textwidth,
+            height=0.35\textwidth,
+            y dir=reverse, axis on top,
+            xticklabels=\empty,
+            yticklabels=\empty,
+            ]
+            \addplot3[surf] file {../data/Lbarmat.txt};
+
+        \nextgroupplot[view={0}{90},
+            title=(c),
+            every axis title/.style={below left,at={(0.05,0)},inner sep=0.03in},
+            xlabel=$i$,
+            colorbar,
+            colormap name=shb,
+            colorbar horizontal,
+            colorbar style={
+                at={(0,1.13)},
+                anchor=north west,
+                title=$\log_{10} \bar{\mathcal{L}}_{ij}^{-1}$,
+                title style={
+                    at={(0.5,1.5)},
+                },
+                % xmin=-14,
+                height=0.3cm, 
+                xticklabel pos=upper,
+            },
+            width=0.35\textwidth,
+            height=0.35\textwidth,
+            y dir=reverse, axis on top,
+            xticklabels=\empty,
+            yticklabels=\empty,
+            ]
+            \addplot3[surf] file {../data/LbarInvmat.txt};
+    \end{groupplot}
+
+\end{tikzpicture}
+
+\end{document}
