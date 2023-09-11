@@ -1,6 +1,6 @@
 # How to make figures
 
-See [here](../templates/figures) for examples.
+See [here](../templates/paper/figures) for examples.
 
 ## What tool to use to make figures?
 
