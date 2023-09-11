@@ -1,5 +1,7 @@
 # How to make figures
 
+See [here](../templates/figures) for examples.
+
 ## What tool to use to make figures?
 
 TikZ and PGFplots are TeX packages that provide a natural way to achieve this consistency.
