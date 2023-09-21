@@ -14,7 +14,7 @@ We also hold meetings either in my office (S1313) or one of the conference rooms
 Request this from Spencer. 
 Send him your GTID number, it will likely take about a week to "start working," though times vary.
 
-### Websites and software
+### Websites, software, and such
 
 * Box, located [here](https://gatech.app.box.com/folder/142416587982)
     * Purpose: Common location to store things, unlimited space. Put your group and 1-1 updates here.
@@ -22,12 +22,18 @@ Send him your GTID number, it will likely take about a week to "start working," 
 
 * GitHub organization, located [here](https://github.com/comp-physics)
     * Purpose: Your code goes here. Keep it up-to-date via commits. I will likely bug you if you don't keep your codes updated via regular commits as you make progress.
-    * Request access from Spencer.
+    * If you're reading this, you already have access.
 
 * Zotero, located [here](https://www.zotero.org/groups/4507615/comp-physics/library)
     * We have an unlimited shared Zotero group, where you should place papers and books relevant to your studies. I also reference many different texts at random times, and you can often find them available here. 
     * It has an iPhone app, a MacOS/*nix app, a web interface, etc. Very convenient. I prefer over Mendeley after using both significantly.
     * Request access from Spencer.
+ 
+* Group email list
+   * Upon joining, remind Spencer to add you to the `comp-physics@office365.gatech.edu` email list
+ 
+* Group website
+   * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website
 
 ### Computers
 
