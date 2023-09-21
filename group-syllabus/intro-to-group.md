@@ -32,7 +32,7 @@ Send him your GTID number, it will likely take about a week to "start working," 
 * Group email list
    * Upon joining, remind Spencer to add you to the `comp-physics@office365.gatech.edu` email list
  
-* Group website
+* Group website, located [here](https://comp-physics.group/team/)
    * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website
 
 ### Computers
