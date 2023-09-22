@@ -138,4 +138,4 @@ Over the years I found the documents below helpful for improving my writing:
 ## Books
 
 * [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars. 
-* [Move over Strunk and White: My all-time favorite books on writing](https://serialmentor.com/blog/2017/11/12/move-over-Strunk-White)
+* [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)
