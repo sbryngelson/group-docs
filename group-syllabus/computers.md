@@ -4,7 +4,7 @@
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware. 
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.
-    * Get access by: emailing pace-support@oit.gatech.edu requesting access under project p-sbryngelson3 with PI Spencer Bryngelson. They will send me an email to confirm your membership.
+    * Get access by: emailing [pace-support@oit.gatech.edu](mailto:pace-support@oit.gatech.edu) requesting access under project p-sbryngelson3 with PI Spencer Bryngelson. They will send me an email to confirm your membership.
 
 * Rogues Gallery 
     * User guide [here](https://gt-crnch-rg.readthedocs.io/en/main/)
@@ -16,7 +16,7 @@
     * User guide [here](https://github.gatech.edu/cse-computing/compute-resources/blob/main/docs/systems/wingtip-gpu.md)
     * Purpose: Small (but possibly very long) GPU jobs, hosts 5x NV A100-80GB at the moment
     * "Rules": No scheduler on this machine so be mindful of others use of it.
-    * Get access by: Emailing [Will Powell](will.powell@cc.gatech.edu), cc me.
+    * Get access by: Emailing [Will Powell](mailto:will.powell@cc.gatech.edu), cc me.
 
 * ACCESS-CI computers
     * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), and Texas A&M ACES (H100 GPUs) at time of writing, but can change to others as needed.
