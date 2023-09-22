@@ -29,7 +29,7 @@ The tick labels and axis labels should also be smaller than the nominal font siz
 \includegraphics[width=0.3\textwidth]{figure.pdf}
 ```
 
-**Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md]).
+**Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md)]).
 
 ## Vector graphics
 
