@@ -1,5 +1,4 @@
 # Computational Physics @ GT Group Documentation
- [![LinkCheck Action Status](https://github.com/comp-physics/group-docs/workflows/LinkChecker/badge.svg)](https://github.com/comp-physics/group-docs/actions)
 
 * [Welcome to the group!](group-syllabus/intro-to-group.md) 
 
