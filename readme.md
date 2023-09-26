@@ -11,6 +11,7 @@
 * [Writing papers](group-syllabus/writing-papers.md)
 * [When and where of working](group-syllabus/when-where-working.md)
 * [Giving talks](group-syllabus/giving-talks.md)
+* [Undergraduate specifics](group-syllabus/undergraduate-specifics.md)
 * [Challenges](group-syllabus/challenges.md)
 
 ## Details
