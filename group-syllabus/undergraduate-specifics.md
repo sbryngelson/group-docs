@@ -39,11 +39,22 @@ Some commitment topics to consider; if you
 The goal of research, in part following the above, is to produce scientifically impactful work.
 As such, one should aim to produce work that one "owns": that was not primarily conducted by someone else.
 One can argue that this alone is an intrinsic good.
+
 Still, that work should be worthy of a top conference or journal venue (the latter is more typical of our work). 
 Such papers are tangible outputs and, in part, serve as a stamp from a research community saying "you conducted and communicated scientifically meaningful and important research."
 Without such a "stamp," it is harder to convince others (future employers, for example) that your work is important to the community.
 Strong letters of recommendation are great, first author journal papers are often much better (if you are an undergraduate).
 The above two things are often strongly correlated.
+
+__It takes about two years of research to do the research and write a journal paper, plus additional months for review and publication.__
+
+## Ph.D.?
+
+If you are interested in continuing onto a Ph.D., at GT or elsewhere, there are a few extra things worth noting.
+* Having a journal or conference paper(s) in top venues will strongly improve your chances of admission.
+* Having _extremely_ strong references, even just one(!) (in this case, likely me), can get you into a top Ph.D. program. I will write a letter faithful to your work with me and the group broadly.
+
+Should you get a Ph.D.? This can be a tough question and is quite individualized. You should discuss it with me if you are thinking about it.
 
 ## Internships
 
