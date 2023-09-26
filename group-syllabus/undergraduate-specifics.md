@@ -1,5 +1,9 @@
 # Somewhat specific to undergraduates
 
+Much of this 'syllabus' applies to undergraduates just as well as graduate students.
+But, there are a few things specific to undergraduate researchers.
+Below is my attempt to explain them.
+
 ## Money
 
 As an undergraduate researcher, you can be paid a somewhat modest sum for conducting university research.
