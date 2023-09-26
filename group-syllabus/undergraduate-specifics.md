@@ -9,11 +9,14 @@ This comes in the form of funding routed through either
 
 I generally expect you to apply for PURA Salary before requesting funds from a sponsored grant.
 Some example proposals for the salary award are located [on the Box](https://gatech.app.box.com/folder/227839379429).
+Deadlines are often _early_. For example:
+> SPRING 2024 APPLICATION DEADLINE  
+> FRIDAY, September 29, 2023
 
 I do not fund undergraduate researchers during their first semester or year working with the group.
 This is primarily due to the start-up time required to get familiar with any project and start contributing more directly.
 The same reasoning applies to why I don't accept undergraduate researchers who are graduating within two years.
-Conducting research that is scientifically impactful takes time.
+Conducting research that is scientifically impactful takes time (see below).
 
 ## Time and commitment 
 
@@ -41,10 +44,17 @@ Without such a "stamp," it is harder to convince others (future employers, for e
 Strong letters of recommendation are great, first author journal papers are often much better (if you are an undergraduate).
 The above two things are often strongly correlated.
 
+## Internships
+
+If you want to participate in an internship, I will gladly support you and your effort to find one.
+If you want your internship to correlate with your research, then I can guide you more closely.
+Whether you should or should not take on an internship will depend on several factors, depending on your goals upon graduation and your research area.
+I recommend discussing this with me so I can give more personalized guidance.
+
 ## Office space
 
 I cannot guarantee you a desk in CODA S1347 (or elsewhere), especially as space seems to be becoming tight (according to the school, at least).
-However, I try to keep at least one "Bryngelson Group" desk that floats and you can use if no one else is (in CODA S1347).
+However, I try to keep at least one "Bryngelson Group" desk that floats and you can use it if no one else is (in CODA S1347).
 You are always welcome to use the CODA spaces, on the 13th floor or otherwise.
 These areas seem quite pleasant to me, but you may disagree.
 If you would like somewhere to work but are having trouble finding a comfortable place, please let me know.
@@ -61,6 +71,7 @@ If you are not making consistent contact with your colleagues, I will notice and
 If you have made significant research progress, then you may be able to present it at a conference!
 I have sent several undergraduates to conferences in the past; nearly all UGs that worked with the group for > 1 year.
 For this, you should apply for [PURA Travel](https://urop.gatech.edu/pura-travel).
+> Applications are to be submitted no earlier than three months prior to the anticipated conference date and no later than one month prior to the anticipated conference date.
 It is a rather short proposal that is easy to put together.
 Some example successful proposals are [here](https://gatech.app.box.com/folder/227839379429).
 Undergraduates __do not__ need to complete a Georgia Tech Spend Authorization (but graduate students do). 
