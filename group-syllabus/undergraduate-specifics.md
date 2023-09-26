@@ -30,6 +30,17 @@ Some commitment topics to consider; if you
 * hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early will not help with admission, but completing high-quality research _definitely_ will.
 * know that you do not want to go to graduate school, research can be attractive and expand opportunities. This mostly depends on the job you hope to obtain.
 
+## Outcomes
+
+The goal of research, in part following the above, is to produce scientifically impactful work.
+As such, one should aim to produce work that one "owns": that was not primarily conducted by someone else.
+One can argue that this alone is an intrinsic good.
+Still, that work should be worthy of a top conference or journal venue (the latter is more typical of our work). 
+Such papers are tangible outputs and, in part, serve as a stamp from a research community saying "you conducted and communicated scientifically meaningful and important research."
+Without such a "stamp," it is harder to convince others (future employers, for example) that your work is important to the community.
+Strong letters of recommendation are great, first author journal papers are often much better (if you are an undergraduate).
+The above two things are often strongly correlated.
+
 ## Office space
 
 I cannot guarantee you a desk in CODA S1347 (or elsewhere), especially as space seems to be becoming tight (according to the school, at least).
