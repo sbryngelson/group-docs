@@ -9,7 +9,8 @@ This comes in the form of funding routed through either
 
 I generally expect you to apply for PURA Salary before requesting funds from a sponsored grant.
 Some example proposals for the salary award are located [on the Box](https://gatech.app.box.com/folder/227839379429).
-Deadlines are often _early_. For example:
+Deadlines are often _early_, about 3.5 months before the semester of the award.
+For example:
 > SPRING 2024 APPLICATION DEADLINE  
 > FRIDAY, September 29, 2023
 
