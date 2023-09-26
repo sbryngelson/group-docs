@@ -46,7 +46,7 @@ Without such a "stamp," it is harder to convince others (future employers, for e
 Strong letters of recommendation are great, first author journal papers are often much better (if you are an undergraduate).
 The above two things are often strongly correlated.
 
-__It takes about two years of research to do the research and write a journal paper, plus additional months for review and publication.__
+__It takes about two years to do the research and write a journal paper, plus additional months for review and publication.__
 
 ## Ph.D.?
 
