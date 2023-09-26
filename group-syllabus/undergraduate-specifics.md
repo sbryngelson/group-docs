@@ -84,6 +84,7 @@ If you have made significant research progress, then you may be able to present 
 I have sent several undergraduates to conferences in the past; nearly all UGs that worked with the group for > 1 year.
 For this, you should apply for [PURA Travel](https://urop.gatech.edu/pura-travel).
 > Applications are to be submitted no earlier than three months prior to the anticipated conference date and no later than one month prior to the anticipated conference date.
+
 It is a rather short proposal that is easy to put together.
 Some example successful proposals are [here](https://gatech.app.box.com/folder/227839379429).
 Undergraduates __do not__ need to complete a Georgia Tech Spend Authorization (but graduate students do). 
