@@ -18,6 +18,8 @@ For example:
 > SPRING 2024 APPLICATION DEADLINE  
 > FRIDAY, September 29, 2023
 
+Details on the review rubric for PURA Salary are found [here](../misc/pura-salary-review-rubric.pdf)
+
 I do not fund undergraduate researchers during their first semester or year working with the group.
 This is primarily due to the start-up time required to get familiar with any project and start contributing more directly.
 The same reasoning applies to why I don't accept undergraduate researchers who are graduating within two years.
