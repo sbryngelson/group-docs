@@ -27,6 +27,13 @@ However, they too will benefit from carefully writing up their notes, ideas, and
 For the above reasons, high-quality scientific writing is often expected from students ready to graduate with their PhD.
 I invite you to use this document to bootstrap your way to scientifically-acceptable technical writing.
 
+From [this post](https://academia.stackexchange.com/questions/202685/what-are-some-of-your-pet-peeves-with-academic-writing):
+> Ernest Hemingway wrote that "the only kind of writing is rewriting." E. B. White wrote essentially the same thing: "The best writing is rewriting."
+> 
+> I have plenty of pet peeves about academic writing, but they all seem to have the same cause: that the author apparently didn't care about writing well.
+> 
+> Your first version of anything is likely to be mediocre. (That's certainly true for me!) Care about your own writing, enough to notice and be annoyed by shortcomings in your first draft, and then figure out how to improve it. Do this, and you will be well on your way to excellent writing.
+
 ## Automatic grammar, spelling, and syntax checkers
 
 Several of these exist.
