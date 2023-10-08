@@ -34,6 +34,8 @@ From [this post](https://academia.stackexchange.com/questions/202685/what-are-so
 > 
 > Your first version of anything is likely to be mediocre. (That's certainly true for me!) Care about your own writing, enough to notice and be annoyed by shortcomings in your first draft, and then figure out how to improve it. Do this, and you will be well on your way to excellent writing.
 
+Also see: [Does writing matter a lot in research?](https://academia.stackexchange.com/questions/107919/does-writing-matter-a-lot-in-research)
+
 ## Automatic grammar, spelling, and syntax checkers
 
 Several of these exist.
