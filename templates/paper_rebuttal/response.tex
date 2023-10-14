@@ -1,0 +1,151 @@
+\documentclass[11pt]{article}
+\usepackage{enumerate,amsmath,amssymb}
+
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{subfig}
+\usepackage{amsmath}
+
+\usepackage{graphicx,psfrag,rotating}% Include figure files
+
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\footskip}{0.30in}
+\setlength{\textheight}{9.0in}
+\setlength{\headheight}{0.2in}
+\setlength{\headsep}{0.3in}
+
+\baselineskip 0.3in 
+\parindent 0.0in 
+\parskip 0.1in
+
+\definecolor{green}{RGB}{0,170,0}
+\definecolor{red}{RGB}{170,0,0}
+\definecolor{blue}{RGB}{0,0,170}
+\definecolor{bluerev}{RGB}{0,0,170}
+\definecolor{cyan}{RGB}{0,85,170}
+\definecolor{magenta}{RGB}{170,0,170}
+\definecolor{olive}{RGB}{170,170,0}
+\definecolor{cyan2}{RGB}{0,170,255}
+\definecolor{cyan3}{RGB}{0,170,170}
+
+\newcommand{\cP}{\mathcal{P}}
+\def\Dpartial#1#2{ \frac{\partial #1}{\partial #2} }
+
+\def\drawline#1#2{\raise 2.5pt\vbox{\hrule width #1pt height #2pt}}
+\def\spacce#1{\hskip #1pt}
+\def\solid{\drawline{24}{.5}\nobreak\ }
+\def\dashed{\bdash\bdash\bdash\bdash\nobreak\ }
+\def\dotted{\hbox{\leaders\bdot\hskip 24pt}\nobreak\ }
+\def\bdash{\hbox{\drawline{4}{.5}\spacce{2}}}
+\def\bdot{\hbox{\drawline{1}{.5}\spacce{2}}}
+\def\chndash{\hbox {\drawline{8.5}{.5}\spacce{2}\drawline{3}{.5}\spacce{2}\drawline{8.5}{.5}}\nobreak\ }
+\def\chndot{\hbox {\drawline{9.5}{.5}\spacce{2}\drawline{1}{.5}\spacce{2}\drawline{9.5}{.5}}\nobreak\ }
+\def\chndotdot{\hbox
+{\drawline{8}{.5}\spacce{2}\drawline{1}{.5}\spacce{2}\drawline{1}{.5}\spacce{2}\drawline{8}{.5}}\nobreak\
+}
+\def\trian{\raise 1.25pt\hbox{$\scriptscriptstyle\triangle$}\nobreak\ }
+\def\solidtrian{\raise 1.25pt
+\hbox to 3bp{\special{" newpath  0 0 moveto 3 0 lineto 1.5 2.598 lineto closepath fill}\hfill}\nobreak\ }
+\def\dsolidtrian{\raise 1.25pt
+\hbox to 3bp{\special{" newpath  1.5  0 moveto 3 2.598 lineto 0 2.598 lineto closepath fill}\hfill}\nobreak\ }
+\def\soliddiamond{\raise 1.25pt
+\hbox to 4bp{\special{" newpath  2.0  0 moveto 3.5 2.0 lineto 2.0 4 lineto 0.5 2.0 
+lineto closepath fill}\hfill}\nobreak\ }
+\def\circle{$\circ$\nobreak\ }
+\def\scircle{$\bullet$\nobreak\ }
+\def\diam{$\diamond$\nobreak\ }
+\def\solidcircle{$\bullet$\nobreak\ }
+\def\smalltriangle{$\scriptstyle\triangle\textstyle$\nobreak\ }
+\def\smallplus{$\scriptstyle + \textstyle$\nobreak\ }
+\def\smalltimes{$\scriptstyle\times\textstyle$\nobreak\ }
+\def\smallnabla{$\scriptstyle\nabla\textstyle$\nobreak\ }
+\def\square{${\vcenter{\hrule height .4pt 
+              \hbox{\vrule width .4pt height 3pt \kern 3pt \vrule width .4pt}
+          \hrule height .4pt}}$\nobreak\ }
+\def\solidsquare{${\vcenter{\hrule height 3pt width 3pt}}$\nobreak\ }
+\def\plus{\raise 1.25pt \hbox{$\scriptscriptstyle +$}\nobreak\ }
+\def\x{\raise 1.25pt \hbox{$\scriptscriptstyle \times$}\nobreak\ }
+
+% referee response commands
+\newcommand{\reply}[1]{\vspace{-0.35cm}\begin{center}\begin{minipage}{0.9\textwidth}\sf\color{Brown}
+#1\end{minipage}\end{center}}
+\newcommand{\replyS}[1]{\begin{center}\begin{minipage}{0.9\textwidth}\sf\color{blue}
+#1\end{minipage}\end{center}}
+
+\newenvironment{replyenv}{\begin{center}\begin{minipage}{0.9\textwidth}\sf}{\rm\end{minipage}\end{center}}
+\newcommand\figr[1]{\ref{fig:#1}}
+\newcommand{\myquote}[3]{\begin{center}\begin{minipage}{0.7
+\textwidth}{\it ``#3''} [Page #1, Line #2]\end{minipage}\end{center}}
+
+
+\newif\ifbigeps
+%\bigepsfalse
+\bigepstrue
+
+\renewcommand{\title}{Title here}
+\newcommand{\authors}{Authors here}
+
+\pagestyle{empty}
+\begin{document}
+
+
+\begin{center}
+{\sc Response to Referee \# 1}\\
+{\bf \title}\\
+{\em \authors}
+\end{center}
+
+\noindent
+\textsf{\color{Brown}
+    We are grateful for the referee's efforts in improving the quality of this paper.  
+    We quote the comments of the referee and discuss changes made to the paper in response to these comments in the following.
+}
+\medskip
+
+
+\noindent
+\textit{Referee \#1} 
+
+Comments here.
+
+\begin{enumerate}
+    \item Question here.
+
+        \reply{
+            Reply here.
+        }
+
+\end{enumerate}
+
+\newpage
+\begin{center}
+{\sc Response to Referee \# 2}\\
+{\bf \title}\\
+{\em \authors}
+\end{center}
+
+\noindent
+\textsf{\color{Brown}
+    We are grateful for the referee's efforts in improving the quality of this paper.
+    We quote the comments of the referee and discuss changes made to the paper in response to these comments in the following.
+}
+\medskip
+
+
+\noindent
+\textit{Referee \#2} 
+
+Comments here.
+
+\begin{enumerate}
+    \item Question here.
+
+        \reply{
+            Reply here.
+        }
+
+\end{enumerate}
+
+
+\end{document}
