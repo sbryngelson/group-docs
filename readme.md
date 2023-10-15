@@ -24,6 +24,7 @@
 ## Templates
 
 * [For papers](templates/paper)
+* [For responses to paper reviews](templates/paper_rebuttal)
 * [For figures](templates/paper/figures)
 * [For talks](templates/talks)
 
