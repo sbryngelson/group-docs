@@ -1,11 +1,11 @@
 ### Challenges and Mental Health
 
-The Ph.D. experience can be very challenging—and in unexpected ways.
-It is common to experience mental health challenges during graduate school, or working on research+courses as an undergraduate.
-While I'm not personally trained to help directly, I hope to be supportive in whatever ways my advisees feel will be helpful, including of course helping them avoid such issues wherever I can.
-I have met very few individuals who have not struggled with anxiety and other such issues during their Ph.D.
+The research or Ph.D. experience can be very challenging, sometimes in unexpected ways.
+It is common to experience mental health challenges during graduate school, or working on research and courses as an undergraduate.
+While I'm not personally trained to help directly, I hope to be supportive in whatever ways you feel will be helpful, including of course helping avoid such issues wherever I can.
+I have met very few individuals who have not struggled with anxiety, depression, or other mental health issues.
 There are many reasons for that.
-In my opinion, they can be mostly attributed to the combination of uncertainty, self-responsibility, and relentless feedback one receives as a research student.
+In my opinion, they can be mostly attributed to the combination of uncertainty, self-responsibility, and relentless feedback one receives as a young researcher.
 It is possible that you will experience some form of chronic anxiety at some point.
 This feeling is common, and many students will experience it at some point or another.
 Don't be alarmed; if you are comfortable with it, come to talk to me (or others) if you feel this way.
