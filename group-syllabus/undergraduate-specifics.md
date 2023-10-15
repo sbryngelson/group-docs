@@ -37,8 +37,8 @@ This is a trade-off you have to consider on your own terms, though I'm glad to d
 Do be aware that GT CS offers an undergraduate thesis option, which fulfills several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
 Some commitment topics to consider; if you
-* hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early will not help with admission, but completing high-quality research _definitely_ will.
-* know that you do not want to go to graduate school, research can be attractive and expand opportunities. This mostly depends on the job you hope to obtain.
+* hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
+* don't think you do not want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
 
 ## Outcomes
 
