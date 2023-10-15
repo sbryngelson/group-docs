@@ -1,14 +1,15 @@
 ### Doing Research
 
 The most important thing you do in graduate school is your own research.
-It may seem obvious, but it's easy to lose track of the importance of your own research amid all the other competing things you’ll be asked to do in grad school: take classes, TA a class, run a committee, organize various activities, etc.
-Some of these will be fun; many of them will feel more important at the time than making (what may seem like limited) progress on your research.
+It may seem obvious, but it's easy to lose track of the importance of your own research amid all the other competing things you’ll be asked to do as a student researcher: take classes, TA a class, submit and review papers, respond to paper reviews, organize/support various activities, etc.
+Some of these will be fun; many of them will feel more important at the time than making progress on your research.
+However, I encourage you to prioritize your research and triage everything else after this.
 
 #### Selecting problems
 
 I advise students to aspire for impact in their work.
 Not by accident, this is also what I hope for in my work (which of course intersects and overlaps with your work).
-It's important to have impact in mind when you approach problems (that is, before you select and commit your time to them).
+It's important to have _impact_ in mind when you approach problems (that is, before you select and commit your time to them).
 Some guidelines on impact might include:
 
 **What difference will this work make if you succeed?** 
@@ -19,7 +20,7 @@ Some guidelines on impact might include:
 
 **Who will care about it when you’re done?**
 - Will government agencies care?
-- Will the industry/companies care?
+- Will industry/companies care?
 - Will other academics care enough to cite it?
 - Will other academics care enough to teach it to their students?
 - Will anyone care about it 10, 20, 50 years in the future?
@@ -34,13 +35,13 @@ Some guidelines on impact might include:
 This is a note about what you should _strive_ to achieve in terms of output during your Ph.D.
 This is not necessarily what I expect to see as your output, but what you should expect to _try_ to produce.
 These expectations are also averaged over multiple years.
-You should expect to produce less in your first and second years (for example, it's okay to have only one project to begin with, possibly through a collaboration with a senior student), and more in your third and fourth (often dropping again in the final year while you are searching for jobs).
+You should expect to produce less in your first and second years (for example, it's okay to have only one project to begin with, possibly through a collaboration with a senior student), and more as you get closer to graduation.
 
-1. Try to produce one very high-quality, high-risk paper per year.
-This should yield 3-4 actually published versions of these, on average, over the span of your PhD.
-Some of these papers won’t get in somewhere competitive, or may simply not work out well into the research process (e.g., approach didn’t work, context of the problem changed, etc.).
+1. Try to produce one very high-quality paper per year.
+This should yield 3-4 actually published versions of these, on average, over the span of your Ph.D.
+Some of these papers won't be accepted somewhere exceptionally competitive, or may simply not work out well in the research process (e.g., the approach didn’t work, the context of the problem changed, etc.).
 That's the nature of research.
-This is the most important type of output you might produce in your Ph.D.
+This is the most important type of output you might produce as a student researcher.
 
 2. Concurrently, try to have a straightforward project underway.
 This is the lower-risk, lower-reward paper.
@@ -63,22 +64,23 @@ You will need to make sure you balance your time, and not forget to take time of
 
 ### Staying organized
 
-I don’t like to dictate how anyone works.
-But, in general, it’s very useful for me to keep track of my research work in an intentional way.
+I don’t like to dictate how anyone works, so I try to minimize 'rules' and keep them flexible when possible.
+But, in general, it's very useful for me to keep track of my research work in an intentional way.
 I make use of cloud services and GitHub for documents, code, data, etc. and you should make use of the group GitHub organization [here](https://github.com/comp-physics/) for your work.
 Outside of this, pick what works best for you, but the advice I would give is to do something _intentional_ from the outset of a project.
-Don't just go from meeting-to-meeting waiting and receiving the next piece of advice.
+Don't just go from meeting to meeting waiting and receiving the next piece of advice.
 
-Also, **BACKUP.** Your research work should never live solely on any single hard drive.
-I provide every student with a backup hard drive.
+**Rule:**
+Backup your work daily.
+Your research work should never live solely on any single hard drive.
+I provide every student with a high-capacity backup hard drive.
 If you don't have one, ask me for one.
-
 
 ### Research Ideas and Directions
 
 _Have ideas!_
 
-Seriously, I do not like supervising a student without their own ideas—nor do I think it’s good for your development as a scholar.
+Seriously, I do not like advising students without their own ideas-nor do I think it’s good for your development as a scholar.
 As noted above, the major thing that we’re doing here is turning you into a world-class scholar.
 One key way you do that is by coming up with new ideas.
 Moreover, it's important to be competitive in academic job applications; those evaluations are impacted by your future work ideas, not only your work to date.
@@ -87,8 +89,8 @@ Good ideas are rare and are hard to come by.
 Most of my ideas, which you can expect to hear plenty of, are bad.
 I love to hear ideas, good or bad, some might turn out to be the opposite after a short (or long) discussion.
 Ideas are everywhere, and if you let yourself, you'll have them all the time.
-It can be easy in graduate school to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions.
-Both are important: a good scholar can move between levels of detail (i.e.g, "What's the right statistical technique for these data in this paper?" to "Which of these 5 new ideas would have the most impact?").
+It can be easy to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions.
+Both are important: a good scholar can move between levels of detail (i.e., "What's the right statistical technique for these data in this paper?" to "Which of these 5 new ideas would have the most impact?").
 
 #### Where to find ideas
 
@@ -116,14 +118,14 @@ This brings us to...
 
 #### Deciding what Ideas to Pursue
 
-I am often asked who decides which ideas and research direction to pursue.
-Can a Ph.D. student choose any topic and research direction?
+What ideas and research direction should you pursue?
+Can a student choose any topic and research direction?
 Do I dictate research agendas and projects to the student?
 The reality is that we decide together on which ideas and directions to work on.
-It's an iterative, long-term process that results in the alignment.
-It starts when students pick to work with me, and I with them, because we have a shared interest.
-I am likely to steer new students towards directions and questions that I think are interesting (sometimes new, sometimes existing), especially projects which I have funding to work on.
-But I never "assign" projects -- if the student is not excited and motivated about a research direction, the outcome is not likely to be good.
+It's an iterative, long-term process that results in alignment.
+This process starts when students pick to work with me, and I with them, because we have a shared interest.
+I am likely to steer new students towards directions and questions that I think are interesting (sometimes new, sometimes existing), especially projects that I have funding to work on.
+But I try to entirely avoid "assigning" projects -- if the student is not excited and motivated about a research direction, the outcome is not likely to be good (if you think I put you in this situation, please let me know so we can align).
 Similarly, students can pursue a project that I am less interested in, but that results in me being less engaged and less helpful as an advisor.
 The process of coming up with ideas, research questions, and project decisions thus naturally gravitates towards mutually interesting directions that overlap with existing or potential funding.
 
