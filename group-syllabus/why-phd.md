@@ -22,7 +22,7 @@ By contrast, I don't believe the PhD is:
 
 Toward these ends, I will aim to give you as much independence as I think you can handle (and maybe a little more), as early as you can and want to have it.
 I try to assess this on a case-by-case basis; if you feel like I misjudged it any time (e.g., too much or too little), please let me know.
-The general path is increasing independence over the PhD.
+The general path is increasing independence with increasing time.
 
 ### How long is a PhD?
 
@@ -32,5 +32,5 @@ I believe that your PhD is over when you:
 2. Have made significant academic contributions
 3. Can get the job you want.
 
-The PhD tends to take between 5 and 6 years, with students headed to the academic job market leaning toward the longer end. 
-However, your work ethic can shorten or lengthen this.
+The Ph.D. tends to take about _very roughly_ 4-7 years; typical is 5, and students headed to the academic job market leaning towards 5-6. 
+However, your work ethic, project(s), and more can shorten or lengthen this.
