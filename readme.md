@@ -18,6 +18,7 @@
 
 * [Improving your academic writing](group-syllabus/improving-your-writing.md)
 * [Formatting your work](group-syllabus/formatting.md)
+* [Responding to reviewers](responding-to-reviewers.md)
 * [Making figures](group-syllabus/figures.md)
 * [Available computers](group-syllabus/computers.md)
 
