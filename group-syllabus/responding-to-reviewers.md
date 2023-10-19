@@ -36,5 +36,5 @@ Regardless, you should be very grateful for the reviewer's contributions in help
 
 ### Examples
 
-There is an example revision template [../templates/paper_rebuttal](in this directory), along with a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted and revised manuscript.
-I am also including example revisions [../examples/paper_revisions](in this directory]).
+There is an example revision template [in this directory](../templates/paper_rebuttal), along with a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted and revised manuscript.
+I also include example revisions [in this directory](../examples/paper_revisions).
