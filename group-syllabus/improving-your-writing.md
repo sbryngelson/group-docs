@@ -3,31 +3,31 @@
 
 ## Why should I read this?
 
-Many students have trouble producing scientifically-acceptable writing without significant training.
-(I use "scientifically-acceptable" as a suitcase word for whatever seasoned academics find to be appropriate in journal papers.) 
+Many students have trouble producing scientifically acceptable writing without significant training.
+(I use "scientifically acceptable" as a suitcase word for whatever seasoned academics find appropriate in journal papers.) 
 Perhaps this isn't surprising, students do not formally learn how to do this.
 
-This is juxtaposed by just how important your writing is.
+This is juxtaposed with just how important your writing is.
 You likely won't remember many details associated with your past research projects.
-Instead, you will use your papers for reference.
+Instead, you'll be able to use your papers as references.
 Other scientists won't see your research notes (nor would you want them to) or know the details of your academic past.
-Instead, they will first judge you based on your archived writing (conference proceedings and journal articles).
-Only few opportunities exist to side-step this.
+Instead, they will judge you based on your archived writing (conference proceedings and journal articles).
+Only a few opportunities exist to side-step this.
 Giving conference and invited talks communicates your research without paper-in-hand.
 However, this format is ephemeral.
-Anyone sufficiently interested in your talks will locate your papers to understand your contributions without time constraints.
+Anyone interested in your talks can find your papers to understand your contributions without time constraints.
 It is also two-way coupled: you likely won't find yourself invited to give talks without the presumption of good papers behind them.
 
 Careful writing also begets careful thinking (and vice-versa).
 That is, forcing yourself to clarify and organize your work will bring problems in your thinking to light.
-For this reason, it can be useful to work on improving your writing as soon as possible.
+Because of this, improving your writing as soon as possible can be useful.
 New students may well be over a year from starting a manuscript for a journal.
-However, they too will benefit from carefully writing up their notes, ideas, and plans.
+However, they, too, will benefit from carefully writing up their notes, ideas, and plans.
 
-For the above reasons, high-quality scientific writing is often expected from students ready to graduate with their PhD.
+For the above reasons, high-quality scientific writing is often expected from students ready to graduate with their Ph.D.
 I invite you to use this document to bootstrap your way to scientifically-acceptable technical writing.
 
-From [this post](https://academia.stackexchange.com/questions/202685/what-are-some-of-your-pet-peeves-with-academic-writing):
+From a now-deleted StackExchange post on "pet peeves in academic writing":
 > Ernest Hemingway wrote that "the only kind of writing is rewriting." E. B. White wrote essentially the same thing: "The best writing is rewriting."
 > 
 > I have plenty of pet peeves about academic writing, but they all seem to have the same cause: that the author apparently didn't care about writing well.
@@ -53,8 +53,8 @@ Such mistakes are a quick way for an editor or reviewer to perceive your work as
 ## Consistency
 
 One should keep styles consistent within a manuscript.
-You might be forgiven for even obviously poor style choices if you are consistent with them throughout.
-Please see the [these](formatting.md) documents for more on this.
+You might be forgiven for even poor style choices if you are consistent.
+Please look at the [these](formatting.md) documents for more.
 
 ## Nomenclature
 
@@ -73,9 +73,9 @@ You can consult replacement lists for common mistakes:
 * [Wordiness, Wordiness, Wordiness List](https://web.uvic.ca/~gkblank/wordiness.html)
 * [50 Plain-Language Substitutions for Wordy Phrases](https://www.dailywritingtips.com/50-plain-language-substitutions-for-wordy-phrases/)
 
-These lists are a way of realizing, "hey, I write wordy phrases like this all the time!".
-Use the lists to learn the general ways that one ends up with low information density writing.
-You can then identify similar phrases in your own writing.
+These lists are a way of realizing, "Hey, I write wordy phrases like this all the time!".
+Use the lists to learn the general ways one ends up with low information-density writing.
+You can then identify similar phrases in your writing.
 Often, eliminating them isn't very challenging, but noticing them is (at first).
 
 Conciseness can be viewed in a broader sense.
@@ -128,7 +128,7 @@ Before writing a paper, watch these two lectures from the University of Chicago:
 
 ## Other links
 
-Over the years I found the documents below helpful for improving my writing:
+Over the years, I found the documents below helpful for improving my writing:
 
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
