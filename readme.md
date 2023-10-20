@@ -10,6 +10,7 @@
 * [Doing research](group-syllabus/doing-research.md)
 * [Writing papers](group-syllabus/writing-papers.md)
 * [When and where of working](group-syllabus/when-where-working.md)
+* [Going to conferences](group-syllabus/going-to-conferences.md)
 * [Giving talks](group-syllabus/giving-talks.md)
 * [Undergraduate specifics](group-syllabus/undergraduate-specifics.md)
 * [Challenges](group-syllabus/challenges.md)
