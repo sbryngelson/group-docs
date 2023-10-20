@@ -1,4 +1,4 @@
-# Computers
+## Computers
 
 * PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
