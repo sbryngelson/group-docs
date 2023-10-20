@@ -1,11 +1,11 @@
-### Doing Research
+## Doing Research
 
 The most important thing you do in graduate school is your own research.
 It may seem obvious, but it's easy to lose track of the importance of your own research amid all the other competing things you’ll be asked to do as a student researcher: take classes, TA a class, submit and review papers, respond to paper reviews, organize/support various activities, etc.
 Some of these will be fun; many of them will feel more important at the time than making progress on your research.
 However, I encourage you to prioritize your research and triage everything else after this.
 
-#### Selecting problems
+### Selecting problems
 
 I advise students to aspire for impact in their work.
 Not by accident, this is also what I hope for in my work (which of course intersects and overlaps with your work).
@@ -92,7 +92,7 @@ Ideas are everywhere, and if you let yourself, you'll have them all the time.
 It can be easy to find yourself submerged in the details of ongoing projects constantly, without popping up to think about and consider new projects, ideas, and directions.
 Both are important: a good scholar can move between levels of detail (i.e., "What's the right statistical technique for these data in this paper?" to "Which of these 5 new ideas would have the most impact?").
 
-#### Where to find ideas
+### Where to find ideas
 
 Some concrete ways in which one might find good ideas:
 
@@ -116,7 +116,7 @@ You can use a file called `ideas.txt` to keep track of new ideas as they come to
 Importantly, while there is no such thing as "too many ideas", you shouldn't pursue more than a few at a time, and carefully balance new ideas with ongoing work.
 This brings us to...
 
-#### Deciding what Ideas to Pursue
+### Deciding what Ideas to Pursue
 
 What ideas and research direction should you pursue?
 Can a student choose any topic and research direction?
