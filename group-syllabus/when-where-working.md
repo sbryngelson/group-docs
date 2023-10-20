@@ -1,4 +1,4 @@
-### The Where and When of Working
+## The Where and When of Working
 
 One of the biggest challenges in your PhD is time management.
 I will help you set long-term and short-term goals, but will never directly manage your time or your tasks.
@@ -11,7 +11,7 @@ At a high level, you should have a set of daily tasks, but also some higher leve
 I will help you set those, typically going to larger and larger time frames as your PhD advances.
 For time and task management, use whatever tool works for you: notebooks, task manager apps, text files, etc., but make sure to use _something_.
 
-#### Work location
+### Work location
 
 We work in CODA, which has an open space layout and the group's students sit near each other.
 You will have an assigned desk in or near room S1347.
