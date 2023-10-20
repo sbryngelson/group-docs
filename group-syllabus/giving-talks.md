@@ -1,4 +1,4 @@
-### Giving talks
+## Giving talks
 
 Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
@@ -58,7 +58,7 @@ The most common feedback I give for talks is:
    * It can sometimes be hard to judge if you are speaking too quietly. One way to know for sure is having someone tell you, which I will do. Another reason students speak quietly or are simply unclear is because they are nervous, bringing me to...
    * Nervous about public speaking? You are in good company, [77% of the US population feels the same.](https://orai.com/blog/fear-of-public-speaking-statistics/) This isn't to undermine the issue, but support it. The best therapy is likely [exposure therapy](https://www.apa.org/ptsd-guideline/patients-and-families/exposure-therapy). This is, in part, why you will stand up to give your group updates each week, give practice talks, and give low-stakes talks at various departmental/student seminars. If you struggle with anxiety, [consider](https://www.apa.org/ptsd-guideline/patients-and-families/seeking-therapy) seeking a mental health specialist.
 
-#### Q&A
+### Q&A
 
 After you give a talk, there will usually be Q&A.
 I like to think of it as having a discussion with a colleague, just in front of a large audience.
