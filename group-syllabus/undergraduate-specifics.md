@@ -1,10 +1,10 @@
-# Somewhat specific to undergraduates
+## Somewhat specific to undergraduates
 
 Much of this 'syllabus' applies to undergraduates just as well as graduate students.
 But, there are a few things specific to undergraduate researchers.
 Below is my attempt to explain them.
 
-## Money
+### Money
 
 As an undergraduate researcher, you can be paid a somewhat modest sum for conducting university research.
 This comes in the form of funding routed through either
@@ -21,24 +21,24 @@ For example:
 Details on the review rubric for PURA Salary are found [here](../misc/pura-salary-review-rubric.pdf)
 
 I do not fund undergraduate researchers during their first semester or year working with the group.
-This is primarily due to the start-up time required to get familiar with any project and start contributing more directly.
-The same reasoning applies to why I don't accept undergraduate researchers who are graduating within two years.
-Conducting research that is scientifically impactful takes time (see below).
+This is primarily due to the start-up time required to get familiar with any project and contribute more directly.
+The same reasoning applies to why I don't accept undergraduate researchers graduating within two years.
+Conducting scientifically impactful research takes time (see below).
 
-## Time and commitment 
+### Time and commitment 
 
 Following the above:
 > Conducting research that is scientifically impactful takes time.
 
 I expect undergraduate researchers in the group to take fewer classes than they would otherwise.
-This amounts to no more than 4 serious classes per term you are conducting research.
+This amounts to no more than 4 serious classes you are conducting research per term.
 Taking fewer classes might mean graduating in 4 years instead of 3 (or something akin to this).
-This is a trade-off you have to consider on your own terms, though I'm glad to discuss it with you.
-Do be aware that GT CS offers an undergraduate thesis option, which fulfills several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
+You must consider this trade-off on your terms, though I'm glad to discuss it with you.
+Just to let you know, GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
-Some commitment topics to consider; if you
+Some commitment topics to consider: if you
 * hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
-* don't think you do not want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
+* don't think you do not want to go to graduate school. Research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
 
 ## Outcomes
 
@@ -47,9 +47,9 @@ As such, one should aim to produce work that one "owns": that was not primarily 
 One can argue that this alone is an intrinsic good.
 
 Still, that work should be worthy of a top conference or journal venue (the latter is more typical of our work). 
-Such papers are tangible outputs and, in part, serve as a stamp from a research community saying "you conducted and communicated scientifically meaningful and important research."
+Such papers are tangible outputs and, in part, serve as a stamp from a research community saying, "you conducted and communicated scientifically meaningful and important research."
 Without such a "stamp," it is harder to convince others (future employers, for example) that your work is important to the community.
-Strong letters of recommendation are great, first author journal papers are often much better (if you are an undergraduate).
+Strong letters of recommendation are great. First author journal papers are often much better (if you are an undergraduate).
 The above two things are often strongly correlated.
 
 __It takes about two years to do the research and write a journal paper, plus additional months for review and publication.__
