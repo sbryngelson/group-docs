@@ -192,7 +192,6 @@ Deviating from this basic structure often leads to a skewed story arcs, which ei
 
 - [ ] Figure components are legible in print and on screen
 - [ ] All axis are named
-- [ ] Figures are colourblind friendly (for colour schemes see: [ColorBrewer](http://colorbrewer2.org/)) 
 - [ ] The use of symbols and line types is preferred over colour
 - [ ] The caption explains the purpose and content of the figure
 - [ ] All figures have the same axis orientation
