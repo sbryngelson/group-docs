@@ -231,8 +231,7 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Writing a science paper some dos and don'ts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
 * [Experimental Biosciences writing science](http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html)
 * [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
-
-Writing lab (ENV385w) notes by [Katharyn Duffy](https://github.com/katharynduffy)
+* Writing lab (ENV385w) notes by [Katharyn Duffy](https://github.com/katharynduffy)
 
 ## Books
 
