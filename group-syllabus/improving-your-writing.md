@@ -1,7 +1,7 @@
 ﻿
-# Improving your academic writing
+## Improving your academic writing
 
-## Why should I read this?
+### Why should I read this?
 
 Many students have trouble producing scientifically acceptable writing without significant training.
 (I use "scientifically acceptable" as a suitcase word for whatever seasoned academics find appropriate in journal papers.) 
@@ -36,7 +36,7 @@ From a now-deleted StackExchange post on "pet peeves in academic writing":
 
 Also see: [Does writing matter a lot in research?](https://academia.stackexchange.com/questions/107919/does-writing-matter-a-lot-in-research)
 
-## Automatic grammar, spelling, and syntax checkers
+### Automatic grammar, spelling, and syntax checkers
 
 Several of these exist.
 To my knowledge, the main competitors are [Grammarly](https://www.grammarly.com/) and [ProWritingAid](https://prowritingaid.com/).
@@ -50,20 +50,20 @@ I recommend using one of these before submitting any paper or abstract.
 Often even seemingly obvious mistakes can go unnoticed after so many revisions.
 Such mistakes are a quick way for an editor or reviewer to perceive your work as not careful (e.g., does he conduct his simulations like he writes his abstracts?!), even if only subconsciously.
 
-## Consistency
+### Consistency
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for even poor style choices if you are consistent.
 Please look at the [these](formatting.md) documents for more.
 
-## Nomenclature
+### Nomenclature
 
 Changing technical terms mid-way through a paper in the name of style will confuse people.
 If your domain is a cylinder, don't switch to "tube" at any point.
 If you call your model a "physical model", do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
 
-## Concise writing
+### Concise writing
 
 One should prefer using as few words as required when describing something technical.
 You can consult replacement lists for common mistakes:
@@ -86,7 +86,7 @@ Other tips of this type are available at these links:
 * [Writing Clearly & Concisely](https://writingcenter.ashford.edu/writing-clearly-concisely)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
-## More tips
+### More tips
 
 From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
 
@@ -120,7 +120,7 @@ From [some tips for scientific writing](https://kucharski.substack.com/p/some-ti
 
 * A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
 
-## Paper writing checklist and advice
+### Paper writing checklist and advice
 
 From [here](https://github.com/khufkens/paper_writing_checklist).
 
@@ -128,9 +128,9 @@ This is a checklist for academic paper writing (or peer review).
 The document covers text flow, style, and figure and table formatting. 
 This checklist is not exhaustive but should cover the most important components of a well-structured manuscript. 
 
-### Text
+#### Text
 
-#### Flow
+##### Flow
 
 The flow or story arc of your manuscript can take on various forms, but most commonly has an hourglass shape. 
 Here, the width of the hourglass refers to the scope of the material discussed, where the storyline itself will fit the Opening, Challenge, Action, Resolution (OCAR) structure, which mostly reflects the standard layout of a paper (see below).
@@ -167,7 +167,7 @@ To guide you to the process you can ask yourself a number of questions:
 
 Deviating from this basic structure often leads to skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel).
 
-#### Language
+##### Language
 
 - [ ] Use active language
 - [ ] Avoid long sentences (12 to 17 words max)
@@ -183,12 +183,12 @@ Deviating from this basic structure often leads to skewed story arcs, which eith
 - [ ] Don't use spoken abbreviations (e.g., it's)
 - [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals
 
-#### Citation
+##### Citation
 
 - [ ] Check citations (present in both the manuscript and the reference list)
 - [ ] Are all data and software sources cited
 
-### Figures
+#### Figures
 
 - [ ] Figure components are legible in print and on screen
 - [ ] All axis are named
@@ -199,19 +199,19 @@ Deviating from this basic structure often leads to skewed story arcs, which eith
 - [ ] Limit the number of pictures in the main manuscript
 	- Additional figures can go in the Appendix
 
-### Tables
+#### Tables
 
 - [ ] The caption explains the purpose and content of the table
 - [ ] Limit the number of tables in the main manuscript
 	- Additional tables can go in the Appendix
 
-## Required watching
+### Required watching
 
 Before writing a paper, watch these two lectures from the University of Chicago:
 * [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 * [Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM)
 
-## Other links
+### Other links
 
 Over the years, I found the documents below helpful for improving my writing:
 
@@ -233,7 +233,7 @@ Over the years, I found the documents below helpful for improving my writing:
 * [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 * Writing lab (ENV385w) notes by [Katharyn Duffy](https://github.com/katharynduffy)
 
-## Books
+### Books
 
 * [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars. 
 * [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)
