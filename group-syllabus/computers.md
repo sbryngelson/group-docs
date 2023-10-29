@@ -19,9 +19,10 @@
     * Get access by: Emailing [Will Powell](mailto:will.powell@cc.gatech.edu), cc me.
 
 * ACCESS-CI computers
-    * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), and Texas A&M ACES (H100 GPUs) at time of writing, but can change to others as needed.
+    * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs) at time of writing, but can change to others as needed.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
     * "Rules": Be mindful of node hours available. Queue times might be long.
+    * Our account number: PHY210084
     * Get access by
         * Creating an account [here](https://identity.access-ci.org/new-user.html)
         * Then, message Spencer on Slack with your username
@@ -32,6 +33,7 @@
         * Frontier: Very large-scale GPU simulation on AMD MI250X GPUs.
         * Crusher: Testbed for AMD GPU use, has latest Cray compilers and ROCm.
         * Wombat: Testbed for next-gen HPC platforms, including ARM nodes and soon next-generation NVIDIA nodes (GraceHopper).
+    * Our account number: CFD154
     * "Rules": Ask Spencer before running any jobs that use a very large number of node hours
     * Get access by
         * Creating an account by following [these instructions](https://docs.olcf.ornl.gov/accounts/accounts_and_projects.html#applying-for-a-user-account)
