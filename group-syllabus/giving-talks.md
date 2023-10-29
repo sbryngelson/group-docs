@@ -77,7 +77,7 @@ This is an even better trick if English is not your first language.
 
 3. It is okay to take a second or two to think before you start talking.
 After all, the asker has been sitting there for 15 minutes considering the question; you only just heard it!
-And after all that, it's entirely okay to say you're not sure, and that you need to think about it harder and get back to them later.
+And after all that, **it's entirely okay to say you're not sure**, and that you need to think about it harder and get back to them later.
 I have done this many times during Q&A, and nothing is embarrassing about it.
 
 4. If someone asks _what about X?_, and you didn't perform a study involving _X_ and aren't entirely sure what would happen if you did, then you should:
