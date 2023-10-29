@@ -165,7 +165,7 @@ To guide you to the process you can ask yourself a number of questions:
 	- [ ] Big take away messages, what did you learn from your work?
 	- [ ] How should we all move forward?
 
-Deviating from this basic structure often leads to a skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel). For an in depth discussion I refer to "[Writing Science](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)" by Joshua Schimel.
+Deviating from this basic structure often leads to skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel).
 
 #### Language
 
