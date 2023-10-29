@@ -86,6 +86,23 @@ Other tips of this type are available at these links:
 * [Writing Clearly & Concisely](https://writingcenter.ashford.edu/writing-clearly-concisely)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
+### Things to avoid
+
+There are many, some are listed above or below this section.
+Some additional, important ones are from [here](https://www.angryreviewer.com/rules):
+
+* Don't hype. Avoid words like novel, highly, clearly, greatly. Better still, avoid all adverbs.
+* Don't use clichés. In a nutshell, by and large, they are clear as mud.
+* Don't use "very" very often. Usually, there is a better word for it.
+* Be concise. Avoid phrases like "by means of, despite the fact that, in order to".
+* Avoid negatives. For example, use "unable" instead of "not able".
+* Avoid redundancy. For example, use "investigate" instead of "conduct an investigation of".
+* Use active voice. Although not always possible, most of the text should be in active voice.
+* Avoid inappropriate language. Keep words like "really, actually, pretty much" for social networks.
+* Avoid rare words and latinisms. Non credo all readers know the meaning.
+* Keep abbreviations to minimum. Abbreviations are hard to read, consider just spelling it out.
+* Beware of zombie nouns. Utilization of nominalization is causation of distraction.
+
 ### More tips
 
 From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
