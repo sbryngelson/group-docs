@@ -228,7 +228,6 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Adam Wierman: Advising](http://users.cms.caltech.edu/~adamw/advising.html)
 * [How to Write a Good Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
-* [Schimel J., 2011, Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, Oxford University Press, 240p.](https://global.oup.com/academic/product/writing-science-9780199760237?cc=us&lang=en&)
 * [Writing a science paper some dos and don'ts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
 * [Experimental Biosciences writing science](http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html)
 * [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
