@@ -63,23 +63,27 @@ The most common feedback I give for talks is:
 After you give a talk, there will usually be Q&A.
 I like to think of it as having a discussion with a colleague, just in front of a large audience.
 That’s the tone I’m aiming for in my answers to questions.
-The main exception to this is to repeat the question to 1. be sure you understand it and 2. so that everyone else can hear it, if it was rather quiet.
-Three concrete tips:
+The main exception to this is to repeat the question to 1. be sure you understand it and 2. so that everyone else can hear it if it was rather quiet.
+Some tips:
 
-1. Remember that you almost certainly know more about the details of your work more than anyone else in the room.
+1. Remember that you almost certainly know more about the details of your work, especially the very specific work you conducted, than anyone else in the room.
 
 2. If I'm unsure what the questioner is asking, I make sure I understand it before I start answering.
-Typically, I will restate the question in my own words and ask if that’s what they meant.
+Typically, I will restate the question in my own words and ask if that’s what was meant.
 This allows them to correct and reword.
+Note that _many_ questions are misunderstood on first listen, even if both the questioner and answerer are well-versed in the topic.
 An interesting side effect is that it also gives me a few more seconds to think about a possible answer.
 This is an even better trick if English is not your first language.
 
 3. It is okay to take a second or two to think before you start talking.
 After all, the asker has been sitting there for 15 minutes considering the question; you only just heard it!
 And after all that, it's entirely okay to say you're not sure, and that you need to think about it harder and get back to them later.
-I have done this many times during Q&A.
+I have done this many times during Q&A, and nothing is embarrassing about it.
 
 4. If someone asks _what about X?_, and you didn't perform a study involving _X_ and aren't entirely sure what would happen if you did, then you should:
 	1. Say "we did not study _X_ directly" (you want it to be crystal clear what you did and did not do), and then
 	2. Follow up with a hedged hypothesis, if one comes to mind. For example, "I would expect that if we looked at _X_, we would see an outcome something like (outcome here), because (reason here), but it cannot say for sure."
+    		* If you don't have a plausible hypothesis, say so, as in 3. above.
+
+5. If **you are the person asking the question** (you are in the audience, you're not actually giving a talk), do not ask "questions" that do not end in question marks. Use Q&A to learn or clarify something. If you have a _comment_, bring it up with the speaker one-on-one. If you listen carefully, you'll notice that many "questions" during Q&A periods are not questions. This is generally frowned upon. 
 
