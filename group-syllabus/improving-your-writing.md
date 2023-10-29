@@ -39,16 +39,16 @@ Also see: [Does writing matter a lot in research?](https://academia.stackexchang
 ### Automatic grammar, spelling, and syntax checkers
 
 Several of these exist.
-To my knowledge, the main competitors are [Grammarly](https://www.grammarly.com/) and [ProWritingAid](https://prowritingaid.com/).
-Both of these services offer free trials that you can use to see how you like their full services.
-I use Grammarly and do not regret the purchase.
+I use [Grammarly](https://www.grammarly.com/).
+It offers are free tier and a trial of the "pro" service at the time of writing.
+I purchased the full Grammarly and do not regret the purchase.
 
 These tools can check for simple things, like improper spelling and grammar. 
-They can also identify more complicated style-related things, such active and passive voices, repeated words and sentence-starters, "sticky sentences" (run-on sentences held together by many articles), and so on. 
+They can also identify more complicated style-related things, such as active and passive voices, repeated words and sentence-starters, "sticky sentences" (run-on sentences held together by many articles), and so on. 
 
 I recommend using one of these before submitting any paper or abstract.
-Often even seemingly obvious mistakes can go unnoticed after so many revisions.
-Such mistakes are a quick way for an editor or reviewer to perceive your work as not careful (e.g., does he conduct his simulations like he writes his abstracts?!), even if only subconsciously.
+Often, even seemingly obvious mistakes can go unnoticed after so many revisions.
+Such mistakes are a quick way for an editor or reviewer to perceive your work as careless (e.g., does he conduct his simulations like he writes his abstracts?!), even if only subconsciously.
 
 ### Consistency
 
@@ -60,7 +60,7 @@ Please look at the [these](formatting.md) documents for more.
 
 Changing technical terms mid-way through a paper in the name of style will confuse people.
 If your domain is a cylinder, don't switch to "tube" at any point.
-If you call your model a "physical model", do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
+If you call your model a "physical model," do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
 
 ### Concise writing
@@ -88,7 +88,7 @@ Other tips of this type are available at these links:
 
 ### Things to avoid
 
-There are many, some are listed above or below this section.
+There are many; some are listed above or below this section.
 Some additional, important ones are from [here](https://www.angryreviewer.com/rules):
 
 * Don't hype. Avoid words like novel, highly, clearly, greatly. Better still, avoid all adverbs.
