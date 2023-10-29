@@ -61,9 +61,9 @@ The most common feedback I give for talks is:
 ### Q&A
 
 After you give a talk, there will usually be Q&A.
-I like to think of it as having a discussion with a colleague, just in front of a large audience.
+I like to think of it as discussing with a colleague, just in front of a large audience.
 That’s the tone I’m aiming for in my answers to questions.
-The main exception to this is to repeat the question to 1. be sure you understand it and 2. so that everyone else can hear it if it was rather quiet.
+
 Some tips:
 
 1. Remember that you almost certainly know more about the details of your work, especially the very specific work you conducted, than anyone else in the room.
