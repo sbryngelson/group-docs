@@ -21,7 +21,7 @@ By contrast, I don't believe the Ph.D. is:
 - A way for you to boost your CV to get a job of <type X>  (for any X, e.g., "professor")
 
 Toward these ends, I will aim to give you as much independence as I think you can handle (and maybe a little more), as early as you can and want to have it.
-I try to assess this on a case-by-case basis; if you feel like I misjudged it any time (e.g., too much or too little), please let me know.
+I try to assess this case-by-case; if you feel like I misjudged it any time (e.g., too much or too little), please let me know.
 The general path is increasing independence with increasing time.
 
 ### How long is a Ph.D.?
@@ -32,5 +32,26 @@ I believe that your Ph.D. is over when you:
 2. Have made significant academic contributions
 3. Can get the job you want.
 
-The Ph.D. tends to take about _very roughly_ 4-7 years; typical is 5, and students headed to the academic job market leaning towards 5-6. 
+While 1. is clear, 2. and 3. need more explaining.
+
+* For 2.: What counts as significant academic contributions?
+Usually, one determines this via your publication and conference paper history.
+One paper with only minor community impact, published in a tier-two journal, does not meet the mark of _significant academic contributions_, to put a lower bound on things.
+At the same time, a single, very high-quality, impactful paper can be sufficient for a Ph.D.
+There are historic cases (often in math), where a single paper is copy-pasted into the Ph.D. thesis, and completing that paper constitutes everything one needs for a Ph.D. in the way of _academic contributions_.
+These are not the norm and often happen more by accident than anything else, so you cannot _count_ on this happening.
+In [doing research](doing-research.md), I describe ways to balance major and minor expected contributions.
+
+* For 3.: What job do you want?
+I cannot answer this for you, but graduating with a Ph.D. in Computer Science, Engineering, or Physics from a top university opens many doors.
+The usual "triangle" argument goes as
+  * Industry: Most pay, least independence
+  * National laboratories: Medium pay, medium independence
+  * Academia: Least pay, most independence
+On a personal note, I heavily value the latter, and its often easier to hop from Academia -> Industry than vice-versa.
+So, here I am.
+
+The Ph.D. takes _very roughly_ 4-7 years, with students headed to the academic job market lean on the longer end, say 5-6. 
 However, your work ethic, project(s), and more can shorten or lengthen this.
+
+
