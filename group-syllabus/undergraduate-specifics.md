@@ -27,6 +27,8 @@ Conducting scientifically impactful research takes time (see below).
 
 ### Time and commitment 
 
+__Note:__ Please read [The When and Where of Working](when-where-working.md)
+
 Following the above:
 > Conducting research that is scientifically impactful takes time.
 
