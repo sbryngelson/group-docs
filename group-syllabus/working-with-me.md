@@ -56,13 +56,7 @@ You may also see me in project-specific meetings (frequency depends on the proje
 
 #### How to get a hold of me
 
-If I'm not there in person at work, you can try to find me in multiple ways.
-First, Slack.
-In particular, our lab's Slack team is the best way to find me.
-I am also of course available by email.
-However, email is not a synchronous medium, and I often turn it off in order to get stuff done, and stuff tends to get lost there due to volume.
+If I'm not in my office, our group Slack workspace is the best way to find me.
 
-If you need me to meet with you at a certain time, it's best to contact me about it first, then when I've agreed to the time, send me a calendar invitation (this is true for everyone else you'd like to have a meeting with in a professional setting).
-
-If you want me to be responsive to you, you should be responsive to me.
+__Note:__ If you want me to be responsive to you, you should be responsive to me.
 However, I do not expect you to be responsive during non-standard working hours (unless we agreed to be working on a deadline).
