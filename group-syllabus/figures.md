@@ -1,8 +1,8 @@
-# How to make figures
+## How to make figures
 
 See [here](../templates/paper/figures) for examples.
 
-## What tool to use to make figures?
+### What tool to use to make figures?
 
 TikZ and PGFplots are TeX packages that provide a natural way to achieve this consistency.
 There is a somewhat steep learning curve, though compared to their competitors I think the trade-off is worth well worth it. 
@@ -14,7 +14,7 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 **Rule 2:** Use a tool that allows you to use LaTeX fonts for text and equations.
 
-## Consistency 
+### Consistency 
 
 Figures should also be consistent, both between each other and with the surrounding text. 
 If you use a solid black line to denote the "exact solution" in one figure, do not switch to a dashed red line for a different exact solution in a later figure. 
@@ -31,7 +31,7 @@ The tick labels and axis labels should also be smaller than the nominal font siz
 
 **Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md)]).
 
-## Vector graphics
+### Vector graphics
 
 An exception to the above is if the figure does not contain any text or equations.
 Doing so leads to inconsistent font sizes between the document and the software that generated the figure. 
