@@ -1,4 +1,4 @@
-### The What and Why of a Ph.D.
+## The What and Why of a Ph.D.
 
 Advising and working with Ph.D. students is the *best part of my job*.
 In fact, it is probably the main reason I chose to be a professor.
