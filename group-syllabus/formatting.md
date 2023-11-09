@@ -3,17 +3,17 @@
 ### Why should I read this?
 
 For better or worse, the quality of your figures correlates with the perceived quality of your work.
-Just like the grammatical correctness of your writing, one might wonder if someone is sufficiently careful with their scientific work if they aren't very careful with their figures and their presentation.
+Just like the grammatical correctness of your writing, one might wonder if someone is sufficiently careful with their scientific work if they aren't very careful with their figures and presentation.
 I am putting some "rules" below for how to format your documents and figures.
 
 ### Consistency
 
 One should keep styles consistent within a manuscript.
-You might be forgiven for even obviously poor style choices if you are consistent with them throughout.
+You might be forgiven for esoteric style choices if they are employed consistently.
 
-#### Colors
+### Colors
 
-I like to use the following color palette, in your TeX preamble as:
+I like to use the following color palette in your TeX preamble:
 ```tex
 \usepackage{xcolor}
 \definecolor{lightblue}{rgb}{0.63, 0.74, 0.78}
@@ -33,7 +33,7 @@ I like to use the following color palette, in your TeX preamble as:
 ```
 In particular, I use `darkrust` and `seagreen` quite a bit, as I find them complementary and easy on the eyes.
 
-Setup your hyperrefs this way, so that have attractive notation of your crossrefs in your document:
+Setup your hyperrefs this way so that you have an attractive notation of your crossrefs in your document:
 ```tex
 \usepackage[colorlinks=true,linkcolor=darkrust,citecolor=darklightblue,urlcolor=darksilver]{hyperref}
 ```
