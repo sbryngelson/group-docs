@@ -1,14 +1,13 @@
-﻿
-## Improving your academic writing
+﻿## Improving your academic writing
 
 ### Why should I read this?
 
 Many students have trouble producing scientifically acceptable writing without significant training.
 (I use "scientifically acceptable" as a suitcase word for whatever seasoned academics find appropriate in journal papers.) 
-Perhaps this isn't surprising, students do not formally learn how to do this.
+Perhaps this isn't surprising; students do not formally learn how to do this.
 
 This is juxtaposed with just how important your writing is.
-You likely won't remember many details associated with your past research projects.
+You likely will only remember some details of your past research projects.
 Instead, you'll be able to use your papers as references.
 Other scientists won't see your research notes (nor would you want them to) or know the details of your academic past.
 Instead, they will judge you based on your archived writing (conference proceedings and journal articles).
@@ -16,7 +15,7 @@ Only a few opportunities exist to side-step this.
 Giving conference and invited talks communicates your research without paper-in-hand.
 However, this format is ephemeral.
 Anyone interested in your talks can find your papers to understand your contributions without time constraints.
-It is also two-way coupled: you likely won't find yourself invited to give talks without the presumption of good papers behind them.
+It is also two-way coupled: you likely will only find yourself invited to give talks with the presumption of good papers behind them.
 
 Careful writing also begets careful thinking (and vice-versa).
 That is, forcing yourself to clarify and organize your work will bring problems in your thinking to light.
@@ -76,7 +75,7 @@ You can consult replacement lists for common mistakes:
 These lists are a way of realizing, "Hey, I write wordy phrases like this all the time!".
 Use the lists to learn the general ways one ends up with low information-density writing.
 You can then identify similar phrases in your writing.
-Often, eliminating them isn't very challenging, but noticing them is (at first).
+Often, eliminating them is relatively easy, but noticing them is (at first).
 
 Conciseness can be viewed in a broader sense.
 For example, you should structure your paragraphs such that you aren't repeating information.
@@ -153,13 +152,13 @@ The flow or story arc of your manuscript can take on various forms, but most com
 Here, the width of the hourglass refers to the scope of the material discussed, where the storyline itself will fit the Opening, Challenge, Action, Resolution (OCAR) structure, which mostly reflects the standard layout of a paper (see below).
 
 An hourglass-shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. 
-The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypothesis. 
-These hypothesis, how to test them and the final results are layed out in the methodology and results part of the manuscript. 
-This is the narrowest part of story arc, focussing on what is dealt with within the scope of the manuscript and little else. 
+The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypotheses. 
+These hypotheses, how to test them, and the final results are laid out in the methodology and results part of the manuscript. 
+This is the narrowest part of the story arc, focussing on what is dealt with within the scope of the manuscript and little else. 
 The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion. 
 Other story structures exist, but this is for sure one of the most common ones to consider.
 
-To guide you to the process you can ask yourself a number of questions:
+To guide you through the process you can ask yourself a number of questions:
 
 - Opening [O] \(Introduction)
 	- [ ] Who are the "characters" (topics covered)?
@@ -208,8 +207,8 @@ Deviating from this basic structure often leads to skewed story arcs, which eith
 #### Figures
 
 - [ ] Figure components are legible in print and on screen
-- [ ] All axis are named
-- [ ] The use of symbols and line types is preferred over colour
+- [ ] All axes are named
+- [ ] The use of symbols and line types is preferred over color
 - [ ] The caption explains the purpose and content of the figure
 - [ ] All figures have the same axis orientation
 - [ ] Figures with the same (x/y) axis are combined in a single panel
