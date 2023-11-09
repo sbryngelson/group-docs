@@ -1,9 +1,8 @@
-### Useful links
+### Working with Me
 
+Useful links
 * [The hacker attitude](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude)
 * [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
-
-### Working with Me
 
 The advisor-advisee relationship represents a significant responsibility and commitment on both our parts.
 I attempt to hold myself to high standards with students, but I also have high expectations from students who work with me.
