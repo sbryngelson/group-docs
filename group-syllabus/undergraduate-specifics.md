@@ -6,7 +6,7 @@ Below is my attempt to explain them.
 
 ### Money
 
-You can be paid a somewhat modest sum as an undergraduate researcher.
+You can be paid a modest sum as an undergraduate researcher.
 This comes in the form of funding routed through either
 * A federal grant (via Spencer)
 * A salary award from Georgia Tech, called [PURA Salary](https://urop.gatech.edu/pura-salary).
@@ -30,13 +30,13 @@ Conducting scientifically impactful research takes time (see below).
 __Note:__ Please read [The When and Where of Working](when-where-working.md)
 
 Following the above:
-> Conducting research that is scientifically impactful takes time.
+> Conducting scientifically impactful research takes time.
 
 I expect undergraduate researchers in the group to take fewer classes than they would otherwise.
-This amounts to no more than 4 serious classes you are conducting research per term.
+This amounts to, at most, 4 serious classes you are conducting research per term.
 Taking fewer classes might mean graduating in 4 years instead of 3 (or something akin to this).
 You must consider this trade-off on your terms, though I'm glad to discuss it with you.
-Just to let you know, GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
+GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
 Some commitment topics to consider: if you
 * hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
@@ -44,40 +44,41 @@ Some commitment topics to consider: if you
 
 ### Outcomes
 
-The goal of research, in part following the above, is to produce scientifically impactful work.
-As such, one should aim to produce work that one "owns": that was not primarily conducted by someone else.
+The goal of performing research, in part following the above, is to produce scientifically impactful work.
+As such, one should aim to produce work that one "owns" that was not primarily conducted by someone else.
 One can argue that this alone is an intrinsic good.
 
 Still, that work should be worthy of a top conference or journal venue (the latter is more typical of our work). 
-Such papers are tangible outputs and, in part, serve as a stamp from a research community saying, "you conducted and communicated scientifically meaningful and important research."
+Such papers are tangible outputs and, in part, serve as a stamp from a research community saying, "You conducted and communicated scientifically meaningful and important research."
 Without such a "stamp," it is harder to convince others (future employers, for example) that your work is important to the community.
 Strong letters of recommendation are great. First-author journal papers are often much better (if you are an undergraduate).
 The above two things are often strongly correlated.
 
-__It takes about two years to do the research and write a journal paper, plus additional months for review and publication.__
+__It takes about two years to research and write a journal paper, plus additional months for review and publication.__
 
 ### Ph.D.?
 
-If you are interested in continuing onto a Ph.D., at GT or elsewhere, there are a few extra things worth noting.
+If you are interested in continuing to a Ph.D. at GT or elsewhere, there are a few extra things worth noting.
 * Having a journal or conference paper(s) in top venues will strongly improve your chances of admission.
 * Having _extremely_ strong references, even just one(!) (in this case, likely me), can get you into a top Ph.D. program. I will write a letter faithful to your work with me and the group.
 
-Should you get a Ph.D.? This can be a tough question and is quite individualized. I think you should talk about it with me if you are thinking about it.
+Should you get a Ph.D.? This can be a tough question and is quite individualized.
+You should talk about it with me if you are thinking about it.
 
 ### Internships
 
 If you want to participate in an internship, I will gladly support you and your effort to find one.
-I can guide you more closely if you want your internship to correlate with your research.
+I can guide you more closely if you want your internship to work well with your research.
 Whether you should or should not take on an internship will depend on several factors, depending on your goals upon graduation and your research area.
 I recommend you talk about this with me so I can give more personalized guidance.
 
 ### Office space
 
-I cannot guarantee you a desk in CODA S1347 (or elsewhere), especially as space seems to be tight (according to the school).
+I cannot guarantee a desk in CODA S1347 (or elsewhere), especially as space seems tight (according to the school).
 However, I try to keep at least one "Bryngelson Group" desk that floats, and you can use it if no one else is (in CODA S1347).
-You are always welcome to use the CODA spaces, on the 13th floor or otherwise.
+You are always welcome to use the CODA spaces on the 13th floor or otherwise.
 These areas seem quite pleasant to me, but you may disagree.
-If you would like somewhere to work but are having trouble finding a comfortable place, please let me know.
+If you would like somewhere to work but are still looking for a comfortable place, please let me know.
 
 ### Working with people
 
