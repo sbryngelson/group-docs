@@ -1,17 +1,17 @@
-# Making to format an article or conference paper
+## Making to format an article or conference paper
 
-## Why should I read this?
+### Why should I read this?
 
 For better or worse, the quality of your figures correlates with the perceived quality of your work.
 Just like the grammatical correctness of your writing, one might wonder if someone is sufficiently careful with their scientific work if they aren't very careful with their figures and their presentation.
 I am putting some "rules" below for how to format your documents and figures.
 
-## Consistency
+### Consistency
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for even obviously poor style choices if you are consistent with them throughout.
 
-### Colors
+#### Colors
 
 I like to use the following color palette, in your TeX preamble as:
 ```tex
