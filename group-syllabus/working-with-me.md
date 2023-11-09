@@ -1,9 +1,5 @@
 ## Working with Me
 
-Useful links
-* [The hacker attitude](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude)
-* [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
-
 The advisor-advisee relationship represents a significant responsibility and commitment on both our parts.
 I attempt to hold myself to high standards with students, but I also have high expectations from students who work with me.
 We should all be responsive, respectful, honest, timely, and hard-working.
@@ -61,3 +57,8 @@ Our group Slack workspace is the best way to find me if I'm not in my office.
 
 __Note:__ If you want me to be responsive to you, you should be responsive to me.
 However, I do not expect you to be responsive during non-standard working hours (unless we agreed to be working on a deadline).
+
+### Useful links
+
+* [The hacker attitude](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude)
+* [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
