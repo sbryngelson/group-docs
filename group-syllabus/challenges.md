@@ -1,4 +1,4 @@
-### Challenges and Mental Health
+## Challenges and Mental Health
 
 The research or Ph.D. experience can be very challenging, sometimes in unexpected ways.
 It is common to experience mental health challenges during graduate school, or working on research and courses as an undergraduate.
