@@ -37,3 +37,7 @@ An exception to the above is if the figure contains no text or equations.
 Doing so leads to inconsistent font sizes between the document and the software that generated the figure. 
 
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
+
+### Useful references
+
+* [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
