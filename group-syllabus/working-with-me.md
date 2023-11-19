@@ -8,7 +8,9 @@ Note that the failure, or perceived failure, could also be due to my actions.
 I recognize that this is one of the most important and consequential relationships you will have; while I hope it will be at least as meaningful for me, it is less likely to be as consequential.
 As a result, I encourage you to let me know if something needs to be fixed.
 
-Importantly, I am your _advisor_, not your manager, supervisor, or even your teacher.
+### Advising "style"
+
+I am your _advisor_, not your manager, supervisor, or even your teacher.
 I am not here to "boss you around" or to tell you what to do when, but I do provide suggestions, recommendations, and sometimes even decisions ("this paper is not good enough to submit for this deadline"), and I do expect to see various outcomes (and progress). 
 But, I try to stay away from prescribing the details.
 Instead, I will help you set your plans and goals and the best way to reach them.
