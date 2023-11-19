@@ -21,7 +21,7 @@ Especially early in your Ph.D., you should then plan on giving at least two prac
 Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
 After you synthesize and iterate on all the feedback, you're ready to go.
 This process often takes many days, even for a short talk.
-__This means that you should be ready to start practicing at least one week before you give your talk.__
+_This means that you should be ready to start practicing at least one week before you give your talk._
 
 The most common feedback I give for talks is:
 * The talk was not structured for the audience. 
