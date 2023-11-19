@@ -27,6 +27,9 @@ _This means that you should be ready to start practicing at least one week befor
 ### Feedback 
 
 The most common feedback I give for talks is:
+* No "table of contents" for short talks (15 minutes or less)
+  * This just wastes otherwise valuable time
+
 * The talk was not structured for the audience. 
   * Who are you talking to? It matters! In fact, it might be the thing that matters most.
 
