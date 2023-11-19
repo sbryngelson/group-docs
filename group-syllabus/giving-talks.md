@@ -84,10 +84,10 @@ I have done this many times during Q&A, and nothing is embarrassing about it.
 	1. Say "we did not study _X_ directly" (you want it to be crystal clear what you did and did not do), and then
 	2. Follow up with a hedged hypothesis, if one comes to mind. For example, "I would expect that if we looked into _X_, we would see an outcome something like (outcome here), because (reason here), but I cannot say for sure." If you don't have a plausible hypothesis, say so, as in 3. above.
 
-5. It's generally good etiquette to tack on to the end of your response, "good question!". Some broad guidance: Do not do this for _every_ question, do not do this _before_ you have actually answered the question, and, if appropriate, consider using a variation of this remark; for example, after doing some thinking while answering, one could say "...yeah, that's quite interesting, I hadn't considered that before. Thanks." 
+5. It's generally good etiquette to tack on to the beginning of your response, "Good question!". Some broad guidance: Do not do this for _every_ question, and, if appropriate, consider using a variation of this remark; for example, after doing some thinking while answering, one could say "...yeah, that's quite interesting, I hadn't considered that before. Thanks." 
 
 6. If **you are the person asking the question** (you are in the audience, you're not actually giving a talk), do not ask "questions" that do not end in question marks.
 Use Q&A to learn or clarify something.
 If you have a _comment_, bring it up with the speaker one-on-one.
-If you listen carefully, you'll notice that many "questions" during Q&A periods are not questions.
+If you listen carefully, you'll notice that many "questions" asked by folks during Q&A periods are not questions.
 This is generally frowned upon.
