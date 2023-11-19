@@ -5,13 +5,13 @@ Most professors will agree that the new faculty hired into the school are judged
 
 The guidance I usually give around talks is somewhat traditional: plan, make, and practice.
 
-1. I write down what I want the audience to learn from the talk.
+1. __Plan:__ I write down what I want the audience to learn from the talk.
 Then, I look at the time I have available to speak and subtract 5 minutes.
 From that number, I break down how much time I want to spend on the different parts of the talk.
 
-2. After the above, I start building slides.
+2. __Build:__ After the above, I start building slides. Use the group template, which is available in this repository. Acknowledge the sponsor of your research on the last slide or two, depending on how the slides are arranged.
 
-3. After you have your slides, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
+3. __Practice:__ After you have your slides, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
 Fortunately, the talks you're likely to give early in your academic career are also the shortest.
 This means you can practice them, in their entirety, a dozen times within an hour or two.
 I guarantee that a talk practiced front-to-back 12 times will be delivered more cleanly than one never practiced, and everyone in the room can tell the difference.
