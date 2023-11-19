@@ -3,13 +3,15 @@
 Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
-The guidance I usually give around talks is somewhat traditional: 1) plan and 2) practice.
-First, I write down what I want the audience to learn from the talk.
+The guidance I usually give around talks is somewhat traditional: plan, make, and practice.
+
+1. I write down what I want the audience to learn from the talk.
 Then, I look at the time I have available to speak and subtract 5 minutes.
 From that number, I break down how much time I want to spend on the different parts of the talk.
-After those two things, I start building slides.
 
-After you have your slides, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
+2. After the above, I start building slides.
+
+3. After you have your slides, practice the talk by yourself: Pull up your slides and start going through the talk aloud on your laptop with no one else around. 
 Fortunately, the talks you're likely to give early in your academic career are also the shortest.
 This means you can practice them, in their entirety, a dozen times within an hour or two.
 I guarantee that a talk practiced front-to-back 12 times will be delivered more cleanly than one never practiced, and everyone in the room can tell the difference.
