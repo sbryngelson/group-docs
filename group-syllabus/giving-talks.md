@@ -3,6 +3,7 @@
 Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
+### How to
 The guidance I usually give around talks is somewhat traditional: plan, make, and practice.
 
 1. __Plan:__ I write down what I want the audience to learn from the talk.
@@ -22,6 +23,8 @@ Later, you won’t need as much practice for a conference talk, let’s say; but
 After you synthesize and iterate on all the feedback, you're ready to go.
 This process often takes many days, even for a short talk.
 _This means that you should be ready to start practicing at least one week before you give your talk._
+
+### Feedback 
 
 The most common feedback I give for talks is:
 * The talk was not structured for the audience. 
