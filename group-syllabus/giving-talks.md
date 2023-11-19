@@ -3,6 +3,17 @@
 Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
+### What are you trying to achieve?
+Giving a talk is presumably associated with some goals, otherwise, why give it?
+You should organize your talk to achieve these goals.
+Here are some examples of things you might want people to think after your talk:
+* I saw a nice talk about X from this person Y at Georgia Tech. We should look more into what they’re up to (or talk to them after the talk)
+* This talk was about X and the main results were Y. (You will find many talks do not meet this seemingly low bar)
+* This work was about X and I’m also working in X! They’re doing Y and we’re doing Z. Maybe we can collaborate and improve X together.
+* This talk was great — who is this person? (then they remember your name and will use it at a later date, perhaps for hiring purposes)
+
+All of the above are very real things, and I’ve thought about each of them several times before.  
+
 ### How to
 The guidance I usually give around talks is somewhat traditional: plan, make, and practice.
 
