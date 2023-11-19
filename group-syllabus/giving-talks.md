@@ -16,8 +16,7 @@ Fortunately, the talks you're likely to give early in your academic career are a
 This means you can practice them, in their entirety, a dozen times within an hour or two.
 I guarantee that a talk practiced front-to-back 12 times will be delivered more cleanly than one never practiced, and everyone in the room can tell the difference.
 If I'm nervous about a talk or am giving one on a new topic, I practice even more than this.
-Sometimes I spend hours practicing over a few days.
-
+Sometimes I spend hours practicing over a few days.  
 Especially early in your Ph.D., you should then plan on giving at least two practice talks to an audience (one of them with me).
 Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
 After you synthesize and iterate on all the feedback, you're ready to go.
