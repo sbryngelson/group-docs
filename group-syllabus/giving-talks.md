@@ -105,12 +105,16 @@ I have done this many times during Q&A, and nothing is embarrassing about it.
 
 5. It's generally good etiquette to tack on to the beginning of your response, "Good question!". Some broad guidance: Do not do this for _every_ question, and, if appropriate, consider using a variation of this remark; for example, after doing some thinking while answering, one could say "...yeah, that's quite interesting, I hadn't considered that before. Thanks."
 
-6. Do not ask two questions at once. This means two things:
-	1. Do not ask two questions without letting someone else interject their question after your first one. It is impolite to take up all of the Q&A time.
- 	2. Do not ask two questions in a row (without letting the speaker answer the first one), period.
+6. Wait until the questioner is done asking the question before you start answering.
 
-8. If **you are the person asking the question** (you are in the audience, you're not actually giving a talk), do not ask "questions" that do not end in question marks.
+If **you are the person asking the question** (you are in the audience, you're not actually giving a talk)
+
+1. Do not ask "questions" that do not end in question marks.
 Use Q&A to learn or clarify something.
 If you have a _comment_, bring it up with the speaker one-on-one.
 If you listen carefully, you'll notice that many "questions" asked by folks during Q&A periods are not questions.
 This is generally frowned upon.
+
+2. Do not ask two questions at once. This means two things:
+	1. Do not ask two questions without letting someone else interject their question after your first one. It is impolite to take up all of the Q&A time.
+ 	2. Do not ask two questions in a row (without letting the speaker answer the first one), period.
