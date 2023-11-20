@@ -1,4 +1,4 @@
-## Giving talks
+## Giving and attending talks
 
 Talks are important: They show your command of your research and your ability to stitch together a story worth listening to.
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
@@ -79,11 +79,11 @@ The most common feedback I give for talks is:
 
 ### Q&A
 
-After you give a talk, there will usually be Q&A.
+After a talk, there will usually be a Q&A period.
 I like to think of it as discussing with a colleague, just in front of a large audience.
-That’s the tone I’m aiming for in my answers to questions.
+That’s the tone I’m aiming for in my questions and answers.
 
-Some tips:
+#### If you are answering the questions (you're the speaker)
 
 1. Remember that you almost certainly know more about the details of your work, especially the very specific work you conducted, than anyone else in the room.
 
@@ -107,7 +107,7 @@ I have done this many times during Q&A, and nothing is embarrassing about it.
 
 6. Wait until the questioner is done asking the question before you start answering.
 
-If **you are the person asking the question** (you are in the audience, you're not actually giving a talk)
+#### If you are asking the questions (you're in the audience)
 
 1. Do not ask "questions" that do not end in question marks.
 Use Q&A to learn or clarify something.
