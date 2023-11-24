@@ -42,15 +42,12 @@ The tick labels and axis labels should also be smaller than the nominal font siz
 ```tex
 \includegraphics[width=0.3\textwidth]{figure.pdf}
 ```
-
-**Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md)]).
-
-### Vector graphics
-
-An exception to the above is if the figure contains no text or equations.
 Doing so leads to inconsistent font sizes between the document and the software that generated the figure. 
+An exception to the above is if the figure contains no text or equations.
 
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
+
+**Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md)]).
 
 ### Useful references
 
