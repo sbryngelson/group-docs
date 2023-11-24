@@ -16,18 +16,18 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 ### Information quantity
 
-Your figures should only consist of the information required to tell the story, or show the results, that you want to show.
+Your figures should only consist of the information required to tell the story or show the results that you want to show.
 
 Examples of having too much information are, well, numerous. Some examples:
 * You have too many tick marks
 * You include too many lines of data on your plot.
 
-To be quite specific: If you have two simulation results that are very close to each other, you may or may not want want to show both on your figure.
+To be quite specific: If you have two simulation results that are very close to each other, you may or may not want to show both on your figure.
 You should show both if your intention _is to show_ that they are close together.
-If your message is the result in-and-of itself, then you can just show one simulation result and mention in the caption that the results for the other case look the same.
+If your message is the result, then you can just show one simulation result and mention in the caption that the results for the other case look the same.
 
 Essentially, you want to show the reader as close to a 'cartoon' of your work as possible.
-Showing frivolous information just distracts from your message.
+Showing frivolous information distracts from your message.
 
 ### Consistency 
 
