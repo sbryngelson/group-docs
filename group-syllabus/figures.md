@@ -20,7 +20,8 @@ Your figures should only consist of the information required to tell the story, 
 
 Examples of having too much information are, well, numerous. Some examples:
 * You have too many tick marks
-* You include too many lines of data on your plot
+* You include too many lines of data on your plot.
+
 To be quite specific: If you have two simulation results that are very close to each other, you may or may not want want to show both on your figure.
 You should show both if your intention _is to show_ that they are close together.
 If your message is the result in-and-of itself, then you can just show one simulation result and mention in the caption that the results for the other case look the same.
