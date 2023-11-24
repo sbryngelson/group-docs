@@ -44,7 +44,7 @@ The tick labels and axis labels should also be smaller than the nominal font siz
 \includegraphics[width=0.3\textwidth]{figure.pdf}
 ```
 Doing so leads to inconsistent font sizes between the document and the software that generated the figure. 
-An exception to the above is if the figure contains no text or equations.
+__An exception__ to the above is if the figure contains no text or equations, like a simulation visualization.
 
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
 
