@@ -79,7 +79,7 @@ Some examples and common errors:
 
 ### Referencing your bibliography
 
-Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the elsarticle class).
+Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the `elsarticle` class).
 I recommend the bibliography style file in the template at `templates/paper/model1-num-names.bst`.
 This way, you will have access to text and parenthetical citations, which render as:
 > One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter’s accuracy depends on the parametric model’s quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
@@ -91,8 +91,10 @@ However, the former requires spatial homogeneity, and the latter's accuracy depe
 ```
 __Note__ the use of `\citep{ref}` and `\citet{ref}` here.
 Text `\citet{ref}` instances can be used as nouns but parenthetical references _cannot_.
-* This is OK (via `\citet{ref}`): So and so [1] did this awesome thing.
-* This is not (via `\citep{ref}`): [1] did this awesome thing.
+* This is OK (via `\citet{ref}`):
+> So and so [1] did this awesome thing.
+* This is not (via `\citep{ref}`):
+> [1] did this awesome thing.
 
 Always prevent line-breaks via tides `~` between a parenthetical reference and the text before it.
 For example:
