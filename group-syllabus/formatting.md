@@ -36,6 +36,9 @@ Common errors
 * Do not use asterisks or $\times$ for multiplication
     * Like this: $ab$
     * Never like this: $a\times b$ or $a \ast b$
+* Do not use inline math with full fractions that make your text too small to read!
+    * Don't do this (inline): $\frac{a}{b}$
+    * Do this: $a/b$
 
 ### Bibliography
 
