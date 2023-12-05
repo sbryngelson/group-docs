@@ -104,7 +104,8 @@ We generally want our references at the end of sentences unless they are part of
 > The LBM method [1] is not as accurate as the finite volume method [2].
 * Correct:
 > The LBM method is described in So and So [1]. However, is not as accurate as the finite volume method [2].
-
+* And this is also acceptable
+> Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
 
 ### Colors
 
