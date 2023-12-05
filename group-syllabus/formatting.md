@@ -42,6 +42,42 @@ Common errors
 
 ### Bibliography
 
+Always use consistent formatting.
+This might mean more than it seems at first.
+
+Some examples and common errors:
+* Choose to either abbreviate journal names (using the __correct__ abbreviation, Google it!) or use the full journal name, then stick with it
+    * Like this (full names): 
+        * Firouznia, M., Bryngelson, S. H., Saintillan, D. (2023). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. Journal of Computational Physics, 489, 112248.
+        * Spratt, J.-S., Rodriguez, M., Schmidmayer, K., Bryngelson, S. H., Yang, J., Franck, C., and Colonius, T. (2021). Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations. Journal of the Mechanics and Physics of Solids, 152, 104455.
+    * Or like this (abbreviations)
+        * Firouznia, M., Bryngelson, S. H., Saintillan, D. (2023). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. J. Comp. Phys., 489, 112248.
+        * Spratt, J.-S., Rodriguez, M., Schmidmayer, K., Bryngelson, S. H., Yang, J., Franck, C., and Colonius, T. (2021). Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations. J. Mech. Phys. Solids, 152, 104455.
+    * But not like this (mixed)
+        * Firouznia, M., Bryngelson, S. H., Saintillan, D. (2023). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. Journal of Computational Physics, 489, 112248.
+        * Spratt, J.-S., Rodriguez, M., Schmidmayer, K., Bryngelson, S. H., Yang, J., Franck, C., and Colonius, T. (2021). Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations. J. Mech. Phys. Solids, 152, 104455.
+
+* In an article title, only capitalize the first letter, proper nouns, abbreviations, and the first letter after a colon
+    * Like this: _A Gaussian moment method and its augmentation via LSTM recurrent neural networks for the statistics of cavitating bubble populations_
+    * Not like this: _A Gaussian Moment Method and its Augmentation via LSTM Recurrent Neural Networks for the Statistics of Cavitating Bubble Populations_
+    * And definitely not like this: _A gaussian moment method and its augmentation via lstm recurrent neural networks for the statistics of cavitating bubble populations_
+    * Accomplish this via the `.bib` entry, like this
+```tex
+  title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
+```
+
+* Book titles will usually be capitalized as you enter them verbatim (capitalization and all) in the `.bib` file. So, be consistent when citing book titles!
+    * Like this:
+        * M. A. Nielsen and I. L. Chuang, _Quantum Computation and Quantum Information_ (Cambridge University Press, 2000)
+        * T. Kruger, H. Kusumaatmaja, A. Kuzmin, O. Shardt, G. Silva, and E. Viggen, _The Lattice Boltzmann Method: Principles and Practice_ (Springer International Publishing, 2016)
+    * Or like this:
+        * M. A. Nielsen and I. L. Chuang, _Quantum computation and quantum information_ (Cambridge University Press, 2000)
+        * T. Kruger, H. Kusumaatmaja, A. Kuzmin, O. Shardt, G. Silva, and E. Viggen, _The lattice Boltzmann method: Principles and practice_ (Springer International Publishing, 2016)
+    * But not like this:
+        * M. A. Nielsen and I. L. Chuang, _Quantum Computation and Quantum Information_ (Cambridge University Press, 2000)
+        * T. Kruger, H. Kusumaatmaja, A. Kuzmin, O. Shardt, G. Silva, and E. Viggen, _The lattice Boltzmann method: Principles and practice_ (Springer International Publishing, 2016)
+
+
 ### Colors
 
 I like to use the following color palette in your TeX preamble:
