@@ -105,10 +105,29 @@ Setup your hyperrefs this way so that you have an attractive notation of your cr
 \usepackage[colorlinks=true,linkcolor=darkrust,citecolor=darklightblue,urlcolor=darksilver]{hyperref}
 ```
 
+### References to equations, figures, tables, and sections.
+
+#### Figures, tables, sections
+
 To keep things consistent, I recommend using the `cleveref` package
 ```tex
 \usepackage{cleveref}
 ```
 which is invoked for figures, tables, and sections via the commands `\Cref{}` and `\cref{}`, using the former if the reference is at the beginning of a sentence.
 
+#### Equations
 
+First labeling them appropriately as
+```tex
+\begin{gather}
+    Ax=b
+    \label{e:lineareqn}
+\end{gather}
+```
+and then reference then via the command `\eqref{e:lineareqn}`.
+
+Treat your equations as nouns and never use the abbreviation "eqn." before it.
+* Like this: "The algorithm follows from reducing \eqref{e:someqn} to a first-order system."
+    * Which renders as: "The algorithm follows from reducing (1) to a first-order system."
+* Not like this: "The algorithm follows from reducing equation \eqref{e:someqn} to a first-order system."
+* Nor like this: "The algorithm follows from reducing eqn. \eqref{e:someqn} to a first-order system."
