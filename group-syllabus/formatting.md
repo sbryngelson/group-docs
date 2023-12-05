@@ -85,7 +85,7 @@ This way, you will have access to text and parenthetical citations, which render
 > One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter’s accuracy depends on the parametric model’s quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
 via the code
 ```tex
-One can partially address this problem by working in Fourier space~\citep{mani21} or fitting a parametric model to approximate the eddy diffusivity operator~\citep{hamba04,park21}. 
+One can partially address this problem by working in Fourier space or fitting a parametric model to approximate the eddy diffusivity operator~\citep{hamba04,park21}. 
 However, the former requires spatial homogeneity, and the latter's accuracy depends on the parametric model's quality. 
 \citet{liu21} introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator.
 ```
