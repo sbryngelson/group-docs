@@ -31,7 +31,7 @@ Common errors
     * Not like this $Re$
 * Super and subscripts that denote text should not be in math/italic symbols, but rather upright normal text. 
     * Like this: $c_{\mathrm{Temp.}}$ or $\mathbf{A}_{\mathrm{Fast}}$
-    * This is also OK: $c^{\mathrm{(Temp.)}}$ or $\mathbf{A}_{\mathrm{(Fast)}}$
+    * This is also OK: $c^{\mathrm{(Temp.)}}$ or $\mathbf{A}^{\mathrm{(Fast)}}$
     * But not like this: $c_{Temp}$ or $\mathbf{A}_{Fast}$
 * Do not use asterisks or $\times$ for multiplication
     * Like this: $ab$
