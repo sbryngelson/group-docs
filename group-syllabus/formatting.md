@@ -11,6 +11,34 @@ I am putting some "rules" below for how to format your documents and figures.
 One should keep styles consistent within a manuscript.
 You might be forgiven for esoteric style choices if they are employed consistently.
 
+### Math symbols
+
+Always use consistent math symbols.
+I usually put all of these in a single file that in invoked in the TeX preamble via
+```tex
+\input{mathsymbols.tex}
+```
+and an example such file is in `templates/paper/mathsymbols.tex` in this repository.
+
+Some notation rules you should follow
+* Bold lowercase for vectors
+* Bold uppercase for matrices and tensors
+* Non-bold lowercase for scalars/constants
+
+Common errors
+* Dimensionless symbols like the Reynolds number __should not__ be italic, but upright.
+    * Like this $\mathrm{Re}$
+    * Not like this $Re$
+* Super and subscripts that denote text should not be in math/italic symbols, but rather upright normal text. 
+    * Like this: $c_{\mathrm{Temp.}}$ or $\mathbf{A}_{\mathrm{Fast}}
+    * This is also OK: $c^{\mathrm{(Temp.)}}$ or $\mathbf{A}_{\mathrm{(Fast)}}
+    * But not like this: $c_{Temp}$ or $\mathbf{A}_{Fast}
+* Do not use asterisks or $\times$ for multiplication
+    * Like this: $ab$
+    * Never like this: $a\times b$ or $a \ast b$
+
+### Bibliography
+
 ### Colors
 
 I like to use the following color palette in your TeX preamble:
@@ -43,3 +71,5 @@ To keep things consistent, I recommend using the `cleveref` package
 \usepackage{cleveref}
 ```
 which is invoked for figures, tables, and sections via the commands `\Cref{}` and `\cref{}`, using the former if the reference is at the beginning of a sentence.
+
+

@@ -1,4 +1,3 @@
-
 # Welcome to the Computational Physics @ GT CSE research group!
 
 We are happy to have you (you wouldn't be reading this, otherwise).
