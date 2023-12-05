@@ -92,9 +92,9 @@ However, the former requires spatial homogeneity, and the latter's accuracy depe
 __Note__ the use of `\citep{ref}` and `\citet{ref}` here.
 Text `\citet{ref}` instances can be used as nouns but parenthetical references _cannot_.
 * This is OK (via `\citet{ref}`):
-> So and so [1] did this awesome thing.
+    > So and so [1] did this awesome thing.
 * This is not (via `\citep{ref}`):
-> [1] did this awesome thing.
+    > [1] did this awesome thing.
 
 Always prevent line-breaks via tides `~` between a parenthetical reference and the text before it.
 For example:
@@ -103,11 +103,11 @@ For example:
 
 We generally want our references at the end of sentences unless they are part of a long list.
 * Incorrect:
-> The LBM method [1] is not as accurate as the finite volume method [2].
+    > The LBM method [1] is not as accurate as the finite volume method [2].
 * Correct:
-> The LBM method is described in So and So [1]. However, is not as accurate as the finite volume method [2].
+    > The LBM method is described in So and So [1]. However, is not as accurate as the finite volume method [2].
 * And this is also acceptable
-> Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
+    > Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
 
 ### Colors
 
