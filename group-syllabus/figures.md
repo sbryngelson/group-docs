@@ -18,7 +18,7 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 Images of complex simulations _require careful attention_!
 In some cases one will need to annotate them with axes labels, tick marks and labels, legends, and so on.
-All of this text should __not be rasterized__.
+All of this text/equations should __not be rasterized__; if it is rasterized, I will send it back to you to fix.
 
 __Paraview:__
 I believe Paraview has some functionality for this. Here is [a reference](https://www.paraview.org/Wiki/ParaView/Vector_Graphics_Export) and here is [another](https://scicomp.stackexchange.com/questions/36122/vector-format-export-for-screenshots) and [another](https://www.paraview.org/pipermail/paraview/2017-April/039969.html).
@@ -26,9 +26,10 @@ Perhaps it exports a separate vector image for the text and/or legends?
 I am not entirely sure how it works.
 I welcome recommendations on how to best do this, but I do know it is possible.
 
-__Other rules:__
-* Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
+Other rules:
+* __Background color:__ Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
 Instead, use a white background! So it blending into the document nicely.
+* __File size:__ Do not use images that are very large. Images bigger than roughly 10MB are too large.
 
 
 ### How to label sub-figures
