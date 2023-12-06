@@ -46,7 +46,7 @@ Always use consistent formatting.
 This might mean more than it seems at first.
 
 Some examples and common errors:
-* Choose to either abbreviate journal names (using the __correct__ abbreviation, Google it!) or use the full journal name, then stick with it
+* Choose to either abbreviate journal names (using the __correct__ abbreviation, Google it!) or use the full journal name (use camel case! _Journal of Fluid Mechanics_ __not__ _Journal of fluid mechanics_), then stick with it. 
     * Like this (full names): 
         * Firouznia, M., Bryngelson, S. H., Saintillan, D. (2023). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. Journal of Computational Physics, 489, 112248.
         * Spratt, J.-S., Rodriguez, M., Schmidmayer, K., Bryngelson, S. H., Yang, J., Franck, C., and Colonius, T. (2021). Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations. Journal of the Mechanics and Physics of Solids, 152, 104455.
