@@ -16,8 +16,17 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 ### What if you have flow visualizations?
 
-Images of complex simulations require careful attention.
-If one needs to annotate them with axes labels, tick marks, legends, and so on, then you will need to use either [WIP] 
+Images of complex simulations _require careful attention_!
+In some cases one will need to annotate them with axes labels, tick marks and labels, legends, and so on.
+All of this text should __not be rasterized__.
+I believe Paraview has some functionality for this.
+Perhaps it exports a separate vector image for the text and/or legends?
+I am not entirely sure how it works.
+
+__Other rules:__
+* Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
+Instead, use a white background! So it blending into the document nicely.
+
 
 ### How to label sub-figures
 
