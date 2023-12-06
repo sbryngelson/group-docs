@@ -14,6 +14,22 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 **Rule 2:** Use a tool that allows you to use LaTeX fonts for text and equations.
 
+### What if you have flow visualizations?
+
+Images of complex simulations require careful attention.
+If one needs to annotate them with axes labels, tick marks, legends, and so on, then you will need to use either [WIP] 
+
+### How to label sub-figures
+
+Label your sub-figures using font face and size consistent with the figure caption font face and size.
+Place your sub-figure labels (e.g., (a) and (b)) in a place that is not too obtrusive.
+
+* If you do not need sub-captions, you can place in the labels in the top left or bottom left of each sub-figure.
+* If you need sub-captions, then you should put the sub-figure labels below the center of the figure.
+
+Do not put the sub-figure captions directly below the sub-figures if you have no "real" caption (e.g., you are just labeling them (a) or (b), etc.); in this case, instead put them in one of the corners per above.
+See the examples [here](../templates/paper/figures) for reference.
+
 ### Information quantity
 
 Your figures should only consist of the information required to tell the story or show the results that you want to show.
