@@ -63,7 +63,7 @@ Some examples and common errors:
     * And definitely not like this: _A gaussian moment method and its augmentation via lstm recurrent neural networks for the statistics of cavitating bubble populations_
     * Accomplish this via the `.bib` entry, like this
     ```tex
-      title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
+    title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
     ```
 
 * Book titles will usually be capitalized as you enter them verbatim (capitalization and all) in the `.bib` file. So, be consistent when citing book titles!
