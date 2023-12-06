@@ -1,4 +1,0 @@
-label: "## Table of Contents"
-patterns:
-  - "*.md"
-root_dir: "."
