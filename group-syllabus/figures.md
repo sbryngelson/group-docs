@@ -8,7 +8,7 @@ TikZ and PGFplots are TeX packages that provide a natural way to achieve this co
 There is a steep learning curve, though the trade-off is worth it compared to their competitors. 
 The TeX stack exchange website regularly answers questions about these packages. 
 A web search of almost any basic TikZ/PGF question will quickly flag an answer.
-I can provide example `.tex` files for many things (like [here](../templates/paper/figures)), and you can gather examples from your colleagues as well.
+I can provide example `.tex` files for many things (like [here](../templates/paper/figures)), and you can gather examples from your colleagues as well as online (like [here](https://github.com/comp-physics/tikz-examples) and [here](https://github.com/comp-physics/TikZ-examples-2)).
 
 **Rule 1:** Use a tool and workflow that allows you to remake a figure very quickly (e.g., change a line of text in a program and recompile) 
 
