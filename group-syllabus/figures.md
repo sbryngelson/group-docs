@@ -1,4 +1,4 @@
-## How to make figures
+## Making figures
 
 See [here](../templates/paper/figures) for examples.
 
