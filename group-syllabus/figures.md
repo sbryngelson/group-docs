@@ -88,7 +88,7 @@ __An exception__ to the above is if the figure contains no text or equations, li
 
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
 
-**Rule:** Use the same color palette for all of your figures and your main text (see [formatting](formatting.md)]).
+**Rule:** Use the same color palette for all of your figures (not including flow visualizations) and your main text (see [formatting](formatting.md)]).
 
 ### Useful references
 
