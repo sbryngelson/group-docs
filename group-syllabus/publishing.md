@@ -1,4 +1,4 @@
-## Writing papers
+## Publishing
 
 **Companion documents: [Formatting your work](formatting.md), [Improving your writing](improving-your-writing.md), [Making a figure](figures.md), [Responding to reviewers](responding-to-reviewers.md)**
 
