@@ -1,4 +1,4 @@
-﻿## Improving your academic writing
+﻿## Academic writing
 
 ### Why should I read this?
 
