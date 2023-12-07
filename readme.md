@@ -12,15 +12,18 @@
 * [When and where of working](group-syllabus/when-where-working.md)
 * [Going to conferences](group-syllabus/going-to-conferences.md)
 * [Giving talks](group-syllabus/giving-talks.md)
-* [Undergraduate specifics](group-syllabus/undergraduate-specifics.md)
 * [Challenges](group-syllabus/challenges.md)
+
+## Papers and Writing
+
+* [Academic writing](group-syllabus/improving-your-writing.md)
+* [Formatting your documents](group-syllabus/formatting.md)
+* [Making figures](group-syllabus/figures.md)
+* [Responding to reviewers](group-syllabus/responding-to-reviewers.md)
 
 ## Details
 
-* [Improving your academic writing](group-syllabus/improving-your-writing.md)
-* [Formatting your work](group-syllabus/formatting.md)
-* [Responding to reviewers](group-syllabus/responding-to-reviewers.md)
-* [Making figures](group-syllabus/figures.md)
+* [Undergraduate specifics](group-syllabus/undergraduate-specifics.md)
 * [Available computers](group-syllabus/computers.md)
 
 ## Templates
