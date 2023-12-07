@@ -145,7 +145,7 @@ Setup your hyperrefs this way so that you have an attractive notation of your cr
 \usepackage[colorlinks=true,linkcolor=darkrust,citecolor=darklightblue,urlcolor=darksilver]{hyperref}
 ```
 
-### References to equations, figures, tables, and sections.
+### Referencing equations, figures, tables, and sections
 
 #### Figures, tables, sections
 
