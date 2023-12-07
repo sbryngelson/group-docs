@@ -11,6 +11,15 @@ I am putting some "rules" below for how to format your documents and figures.
 One should keep styles consistent within a manuscript.
 You might be forgiven for esoteric style choices if they are employed consistently.
 
+### Units
+
+Always use a LaTeX package if your quantities use units.
+My preference is
+```tex
+\usepackage{siunitx}
+```
+If you do not use a package, your spacing and characters are likely to be inconsistent and incorrect.
+
 ### Math symbols
 
 Always use consistent math symbols.
