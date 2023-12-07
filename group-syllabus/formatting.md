@@ -1,4 +1,4 @@
-## Making to format an article or conference paper
+## Formatting your documents
 
 ### Why should I read this?
 
