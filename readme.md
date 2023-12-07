@@ -8,7 +8,7 @@
 * [Funding](group-syllabus/funding.md)
 * [Working with me](group-syllabus/working-with-me.md)
 * [Doing research](group-syllabus/doing-research.md)
-* [Writing papers](group-syllabus/writing-papers.md)
+* [Publishing](group-syllabus/publishing.md)
 * [When and where of working](group-syllabus/when-where-working.md)
 * [Going to conferences](group-syllabus/going-to-conferences.md)
 * [Giving talks](group-syllabus/giving-talks.md)
