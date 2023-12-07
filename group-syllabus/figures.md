@@ -52,6 +52,7 @@ Common violations/problems include
 * Using a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
   * A violation would be using such a color scheme for data that varies from 0 to 1
 * Not using a linear monochrome color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
+* A tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue, should be used for data that are nominally centered at a special or reference value, like 0 or 1.
 
 ### Information quantity
 
