@@ -28,7 +28,7 @@ I welcome recommendations on how to best do this, but I do know it is possible.
 
 Other rules:
 * __Background color:__ Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
-Instead, use a white background! So it blending into the document nicely.
+Instead, use a white background! So it blends into the document nicely.
 * __File size:__ Do not use images that are very large. Images bigger than roughly 10MB are too large.
 
 
@@ -42,6 +42,10 @@ Place your sub-figure labels (e.g., (a) and (b)) in a place that is not too obtr
 
 Do not put the sub-figure captions directly below the sub-figures if you have no "real" caption (e.g., you are just labeling them (a) or (b), etc.); in this case, instead put them in one of the corners per above.
 See the examples [here](../templates/paper/figures) for reference.
+
+### Title
+
+Your figures should not have titles.
 
 ### Color bars
 
@@ -74,7 +78,7 @@ Showing frivolous information distracts from your message.
 Figures should also be consistent between each other and the surrounding text. 
 If you use a solid black line to denote the "exact solution" in one figure, do not switch to a dashed red line for a different exact solution in a later figure. 
 The fonts used in the figures should match the face and size of the surrounding text. 
-Latex uses Computer Modern and Latin Modern font faces and 11pt sizes by default, though journal templates and class files may change this. 
+LaTeX uses Computer Modern and Latin Modern font faces and 11pt sizes by default, though journal templates and class files may change this. 
 
 The font size of the captions below your figures should be one step smaller than that of your document (so 10pt if the document is nominally 11pt).
 The tick labels and axis labels should also be smaller than the nominal font size of your document; 9pt is usual here, and it should be consistently this size in your whole document.
