@@ -51,12 +51,12 @@ Your figures should not have titles.
 
 If your data involves a color bar, use one that makes sense for the data you are plotting.
 You can read more about this online, like [here](https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/) or [here](https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization).
-Common violations/problems include 
-* Using the rainbow/jet color scheme (read more about the problem with this [here](https://stats.stackexchange.com/questions/223315/why-use-colormap-viridis-over-jet))
-* Using a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
+Common guidelines are 
+* Don't use the rainbow/jet color scheme (read more about the problem with this [here](https://stats.stackexchange.com/questions/223315/why-use-colormap-viridis-over-jet))
+* Don't use a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
   * A violation would be using such a color scheme for data that varies from 0 to 1
-* Not using a linear monochrome color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
-* A tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue, should be used for data that are nominally centered at a special or reference value, like 0 or 1.
+* Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
+* Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for data that are nominally centered at a special or reference value, like 0 or 1.
 
 ### Information quantity
 
