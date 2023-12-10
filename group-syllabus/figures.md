@@ -130,3 +130,5 @@ __An exception__ to the above is if the figure contains no text or equations, li
 ### Useful references
 
 * [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+* [How to make figures for scientific papers](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper)
+* [Brushing Up Science Figure Advice](https://brushingupscience.com/category/figures/)
