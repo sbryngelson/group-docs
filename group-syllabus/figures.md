@@ -82,6 +82,15 @@ Do not show the coordinate direction arrows (usually x, y, z) that are by defaul
 An exception might be in the creating of a simulation video that _requires_ the viewer knowing these orientations.
 If you are exporting an image, superimpose your own direction triad. if it is absolutely needed.
 
+### Consistency
+
+Copied from [Formatting your work](formatting.md).
+
+One should keep styles consistent within a manuscript.
+You might be forgiven for esoteric style choices if they are employed consistently.
+From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
+
 ### Information quantity
 
 Your figures should only consist of the information required to tell the story or show the results that you want to show.

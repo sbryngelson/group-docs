@@ -12,6 +12,8 @@ I am putting some "rules" below for how to format your documents and figures.
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for esoteric style choices if they are employed consistently.
+From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
 
 ### Units
 
