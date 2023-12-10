@@ -58,6 +58,12 @@ Common guidelines are
 * Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
 * Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for data that are nominally centered at a special or reference value, like 0 or 1.
 
+### Coordinate direction arrow triad.
+
+Do not show the coordinate direction arrows (usually x, y, z) that are by default included in Paraview and Visit exports.
+An exception might be in the creating of a simulation video that _requires_ the viewer knowing these orientations.
+If you are exporting an image, superimpose your own direction triad. if it is absolutely needed.
+
 ### Information quantity
 
 Your figures should only consist of the information required to tell the story or show the results that you want to show.
