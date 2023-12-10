@@ -49,6 +49,22 @@ See the examples [here](../templates/paper/figures) for reference.
 
 Your figures should not have titles.
 
+### White space
+
+Minimize any excesive white space in journal/abstract figures.
+Remove all white space around figure borders.
+Figures in presentations can afford a bit of extra white space.
+
+This principle is discussed more [here](https://bioinformatics-core-shared-training.github.io/effective-figure-design/DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf).
+
+### Shared plots and legends
+
+* If you have two side-by-side (left and right) figures (say, sub-figures) that have the same range in the vertical axis, you can remove the vertical labels on the one on the right and move it close to the one on the left so they are sharing the axis and tick labels.
+
+* If the range is different but the axis label the same, you can leave space for the tick labels for both but remove the axis label for the figures on the right.
+
+* If all the data are marked in the same way (lines, markers, etc.) in each sub-plot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
+
 ### Color bars
 
 If your data involves a color bar, use one that makes sense for the data you are plotting.
