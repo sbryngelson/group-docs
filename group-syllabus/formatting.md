@@ -49,6 +49,11 @@ Common errors
     * Don't do this (inline): $\frac{a}{b}$
     * Do this: $a/b$
 
+### Scientific notation and large/small numbers
+
+__Rule:__ Never use the notation $1e-5$, $1e+05$, or the like in any paper, presentation, or figure.
+Always use $1 \times 10^{-5}$.
+
 ### Bibliography
 
 Always use consistent formatting.
