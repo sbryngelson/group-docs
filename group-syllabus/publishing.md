@@ -10,6 +10,17 @@ I recommend finding exemplary papers from the target venue to use as referrals a
 While you can and will work with me directly on papers (as I expand on below), my time will always be limited.
 There is no substitute for interactively thinking about your writing compared to other similar scholarship.
 
+### Important: The "-7 days" internal deadline
+
+I have a "-7 days" internal deadline for abstracts, presentations, and papers.
+Anything with a deadline must be in the best state you are capable of creating 7 days beforehand.
+Most abstracts will have official submission dates, and for presentations this is _7 days before the conference starts_.
+If there isn't an official deadline (i.e., we're submitting to a journal with rolling submissions), this rule will apply to whatever day we agreed upon submitting the work.
+This differs from how academics often work in our area, where one madly writes up to the second before the submission deadline; __I do not do that__.
+
+__Everything must be done to the best of your ability 7 days before the deadline:__ the studies must be completed, the data analyzed, the findings solidified, the paper's message needs to exist, the figures made and polished and referenced appropriately in the text, equations described, and so on and on.
+Having a last minute writing/editing frenzy generates an anxiety and time commitment that I, for better or worse, cannot handle.
+
 ### Process: writing alone, better together
 
 Part of your development as a scholar is being able to plan, outline, and write an academic paper.
@@ -27,6 +38,7 @@ Use Overleaf when writing your journal and conference papers so we can synchrono
 Overleaf has a feature that you can use to hook a local copy to the Overleaf one via `git` or GitHub. I use the raw `git` interface so I can use `vim` for my typing and compiling locally, then pushing changes to the document. 
 Still, sometimes, I'll edit the document directly in Overleaf.
 You get a free Overleaf pro account with your `gatech.edu` email address.
+
 
 ### Conference Paper Deadlines
 
@@ -64,12 +76,4 @@ You should expect more of this feedback and iteration earlier in your Ph.D.; it 
 I will also likely present your research in invited talks, lectures, and seminars.
 I will give you credit when I do so.
 
-### The "-7 days" internal deadline
 
-I have a "-7 days" internal deadline.
-The paper must be in submittable (but not perfect) state 7 days before the deadline.
-If there isn't an official deadline (i.e., we're submitting to a journal with completely rolling submissions), this rule will apply to whatever day we agreed upon submitting the work.
-This differs from how academics often work in our area, where one madly writes up to the second before the submission deadline; __I don't do that with my students__.
-
-Everything essential must be done 7 days before the deadline: the studies must be completed, the data analyzed, the findings solidified, the paper's message needs to exist, etc.
-This allows me to understand what we have, where we're at, and where we need to go in the next 7 days.

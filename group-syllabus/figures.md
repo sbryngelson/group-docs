@@ -1,5 +1,7 @@
 ## Making figures
 
+**Companion documents: [Formatting your work](formatting.md)**
+
 See [here](../templates/paper/figures) for examples.
 
 ### What tool to use to make figures?

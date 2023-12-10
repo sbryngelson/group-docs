@@ -1,5 +1,7 @@
 ﻿## Academic writing
 
+**Companion documents: [Formatting your work](formatting.md), [Improving your writing](improving-your-writing.md), [Making a figure](figures.md), [Responding to reviewers](responding-to-reviewers.md)**
+
 ### Why should I read this?
 
 Many students have trouble producing scientifically acceptable writing without significant training.

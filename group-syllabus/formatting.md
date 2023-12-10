@@ -1,5 +1,7 @@
 ## Formatting your documents
 
+**Companion documents: [Improving your writing](improving-your-writing.md), [Making a figure](figures.md)**
+
 ### Why should I read this?
 
 For better or worse, the quality of your figures correlates with the perceived quality of your work.
