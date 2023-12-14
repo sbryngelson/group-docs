@@ -34,7 +34,22 @@ Ultimately, this is a rather sensitive topic, and one has to be careful with wor
 I will help you decide what should and shouldn't do.
 Regardless, you should be very grateful for the reviewer's contributions in helping create a better manuscript.
 
+### The details of a response document
+
+When you create a response document, make sure to 
+* Be specific with references to sections and figures! Use the specific section you are talking about an include many quotes of the new text that you added to address their concerns (these should be in a different color than the main reply)
+
+* Defer to the reviewer unless there is a very good reason not to be. Many issues can be solved by simply agreeing with the reviewer, thanking them for the comment, and correcting the manuscript accordingly. 
+
+* If the reviewer is explicitly and clearly wrong, or misunderstanding the paper, this is (usually) on you. Perhaps you should have been more clear in your exposition! You should apologize for any confusion, clarify what you really meant, and then bolster that part of the paper with references, discussion, and clarity. Include all of this in your reply to them! And apologize for any confusion you caused.
+
+* This is a formal document. Treat it as such. Do not be lax with your grammar or writing. 
+
 ### Examples
 
-There is an example revision template [in this directory](../templates/paper_rebuttal), along with a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted and revised manuscript.
-I also include example revisions [in this directory](../examples/paper_revisions).
+There are examples in this repository, including
+* A Revision template [in this directory](../templates/paper_rebuttal)
+
+* In the same place, a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted (`main.tex`) and revised (`main_rev.tex`) manuscript files in the form of a new PDF file called `diff.pdf`. This shows the reviewer explicitly all the changes you made to improve the paper (on top of the revisions in the response to reviewers document).
+
+* Example diffs and responses to reviewers for some of my papers are included [in this directory](../examples/paper_revisions).
