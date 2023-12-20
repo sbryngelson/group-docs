@@ -254,3 +254,25 @@ Over the years, I found the documents below helpful for improving my writing:
 
 * [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars. 
 * [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)
+
+### Work in Progress
+
+* use of bibtools/bibstyle 
+* bibliography style files
+* what to include/not include in your bib entries
+
+* what certain things do (like the tilde) and other important packages (microtype for example)
+* use of macros for math
+* use of \citet
+* the importance of figure 1
+* acknowledgments in the last section
+
+* abstract (what it should and should not include)
+* intro (what it should and should not include)
+* future work (what should or should not be included)
+* common writing pitfalls (extra [unnecessary] words and phrases people often use)
+* learn the difference between hyphen, en dash, and em dash
+
+* Make sure documents do not compile with errors (overleaf) and understand where the warnings come from
+* Tikz figures compile standalone
+* Use of git with Overleaf
