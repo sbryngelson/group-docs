@@ -20,7 +20,7 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 Compile all your figures as standalone PDF documents.
 This is handy for not just your paper, but also for using them in presentations and other mediums.
-With TikZ, this is quite easy, [here](../templates/papers/figures/slices.tex) is an example.
+With TikZ, this is quite easy, [here](../templates/paper/figures/slices.tex) is an example.
 Here is a template of sorts:
 ```tex
 \input{tikz_preamble}
@@ -34,7 +34,7 @@ Here is a template of sorts:
 
 \end{document}
 ```
-where I have a separate file called `tikz_preamble.tex`that you can find [here](../templates/papers/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
+where I have a separate file called `tikz_preamble.tex`that you can find [here](../templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
 
 ### Use of Git with Overleaf
 
