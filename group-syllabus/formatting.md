@@ -15,6 +15,39 @@ You might be forgiven for esoteric style choices if they are employed consistent
 From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
 > A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
 
+### Compiling
+
+* Use LaTeX for all of your documents.
+* Make sure your documents do not compile with errors, especially if you are using Overleaf!
+* If you have warnings, understand where they warnings come from. They may be signaling something important!
+* On my local computer, I like using `latexmk` for compilation.
+
+### Preamble and packages
+
+Always structure your document so that the preamble is separate from the main text (two separate files).
+You can connect them by placing `input{preamble.tex}` at the top of your main text file `main.tex`.
+
+In the preamble file you should include some packages.
+[Here](../templates/paper/preamble.tex) are some examples.
+Please look them up to see what they do.
+
+For `elsarticle` class files (mine is included [here](../templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
+
+```tex
+\input{preamble.tex}
+
+\begin{document}
+
+\hypersetup{
+  linkcolor=darkrust,
+  citecolor=seagreen,
+  urlcolor=darkrust,
+  pdfauthor=author,
+}
+```
+
+Discussion of these colors and their definitions are included below.
+
 ### Units
 
 Always use a LaTeX package if your quantities use units.
@@ -127,6 +160,25 @@ We generally want our references at the end of sentences unless they are part of
 * And this is also acceptable
     > Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
 
+### Creating your bibliography
+
+* Use `bibtool` to remove unused entries from your bibliography (`.bib`) file
+    * Remove all unused bibliography entries from your `.bib` file. To do this, 
+        * Make sure you have `bibtool` installed your your system
+        * Copy a `bibtool.config` file to your document path, mine is located [here](../templates/paper/bibtool.config)
+        * Compile your document (I prefer `latexmk` for this, but a combination of `pdflatex` and `bibtex` also works).
+        * Use the command `bibtool -r bibtool.config -x main.aux > test.bib`
+        * Now you have a file `test.bib` that contains only the bibliography entries in your document
+        * Move the `test.bib` file over to your main bibliography file via something like `mv test.bib ref.bib`
+
+* Use `bibstyle` to remove unneeded elements from your bibliography entries
+    * In particular, I use the command `bibtex-tidy --omit=date-added,date-modified,month,doi --curly --numeric --align=13 --sort=title --duplicates=key,citation --no-escape --sort-fields --trailing-commas --no-remove-dupe-fields test.bib`
+    * You can see in the above that it removes certain entries, sorts the document, checks for duplicates, and so on.
+    * It does this on `test.bib` in the above call. You will want to do it on whatever the `bibtool` output file is.
+
+* Bibliography style file (`.bst`) 
+    * Unless the journal or conference you are submitting to insists otherwise, use the style file [here](../templates/paper/model1-num-names.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (which are invoked via `\citet{}` as above).
+
 ### Colors
 
 I like to use the following color palette in your TeX preamble:
@@ -182,3 +234,21 @@ Treat your equations as nouns and never use the abbreviation "eqn." before it.
     > The algorithm follows from reducing (1) to a first-order system.
 * Not like this: `The algorithm follows from reducing equation \eqref{e:someqn} to a first-order system.`
 * Nor like this: `The algorithm follows from reducing eqn. \eqref{e:someqn} to a first-order system.`
+
+### "Dashes"
+
+Learn the difference between the hyphen (`-` in LaTeX), the en dash (`--` in LaTeX), and the em dash (`---` in LaTeX).
+This is easily Google-able.
+
+Some correct examples
+* Hyphen
+    * Separating words, such as "over-subscribed".
+    * Some last names
+* En dash
+    * Separating two things that are different, like "Runge--Kutta" time stepping
+    * Ranges, like "Steps 5--8 are unnecessary for algorithm X".
+* Em dash
+    * For use to put a parenthetical in a sentence, like "I went to the grocery store---one that was extremely far away---and picked up cooking supplies."
+        * I recommend avoiding use of the em dash.
+
+

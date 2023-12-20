@@ -16,6 +16,33 @@ I can provide example `.tex` files for many things (like [here](../templates/pap
 
 **Rule 2:** Use a tool that allows you to use LaTeX fonts for text and equations.
 
+### Standalone compilation
+
+Compile all your figures as standalone PDF documents.
+This is handy for not just your paper, but also for using them in presentations and other mediums.
+With TikZ, this is quite easy, [here](../templates/papers/figures/slices.tex) is an example.
+Here is a template of sorts:
+```tex
+\input{tikz_preamble}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}
+%%% Your figure here
+\end{tikzpicture}
+
+\end{document}
+```
+where I have a separate file called `tikz_preamble.tex`that you can find [here](../templates/papers/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
+
+### Use of Git with Overleaf
+
+In order to create standalone figures in Overleaf, you will need to leverage its `git` feature.
+You simply go to the menu in the top-left of the browser and then select `git`.
+This gives you a command to `git clone` your Overleaf document.
+You can `git add/commit/push` and `git pull` from this cloned directory.
+
 ### What if you have flow visualizations?
 
 Images of complex simulations _require careful attention_!

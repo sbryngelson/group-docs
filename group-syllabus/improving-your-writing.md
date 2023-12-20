@@ -87,6 +87,27 @@ Other tips of this type are available at these links:
 * [Writing Clearly & Concisely](https://writingcenter.ashford.edu/writing-clearly-concisely)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
+### What goes where
+
+__Always__ have a narrative first figure that demonstrates what you are doing and "tells the overall story."
+Take time to make this figure as attractive as possible.
+It is one of the first things your readers will see!
+See, for example, the first figure in my paper "Fast Macroscopic Forcing Method".
+
+* Abstract 
+    * Include a full, self-contained, mini-version of your paper. This includes an introduction to the method you use, quantitative measures of your results, and your final conclusion and takeaways.
+* Introduction (in this order)
+    * What is your work?
+    * Why are you doing it?
+    * What is the open problem you are trying to solve?
+    * What are some methods related to your work?
+    * What key contributions will you add? (without full detail)
+    * What does the rest of the manuscript contain?
+* Acknowledgments 
+    * Always have an unnumbered acknowledgement section before the references but after the discussion/conclusions. This is where we acknowledge funders and those that have helped with the work but are not authors.
+* Future work 
+    * I recommend not including a future work section in your papers or presentations
+
 ### Things to avoid
 
 There are many; some are listed above or below this section.
@@ -255,24 +276,4 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars. 
 * [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)
 
-### Work in Progress
 
-* use of bibtools/bibstyle 
-* bibliography style files
-* what to include/not include in your bib entries
-
-* what certain things do (like the tilde) and other important packages (microtype for example)
-* use of macros for math
-* use of \citet
-* the importance of figure 1
-* acknowledgments in the last section
-
-* abstract (what it should and should not include)
-* intro (what it should and should not include)
-* future work (what should or should not be included)
-* common writing pitfalls (extra [unnecessary] words and phrases people often use)
-* learn the difference between hyphen, en dash, and em dash
-
-* Make sure documents do not compile with errors (overleaf) and understand where the warnings come from
-* Tikz figures compile standalone
-* Use of git with Overleaf
