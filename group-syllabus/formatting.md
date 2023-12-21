@@ -15,12 +15,13 @@ You might be forgiven for esoteric style choices if they are employed consistent
 From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
 > A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
 
-### Compiling
+### Compiling and other boilerplate
 
 * Use LaTeX for all of your documents.
-* Make sure your documents do not compile with errors, especially if you are using Overleaf!
+* Make sure your documents _do not_ compile with errors, especially if you are using Overleaf!
 * If you have warnings, understand where they warnings come from. They may be signaling something important!
 * On my local computer, I like using `latexmk` for compilation.
+* __Put each sentence on one line of source `.tex` code__
 
 ### Preamble and packages
 
