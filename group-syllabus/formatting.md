@@ -239,7 +239,10 @@ Treat your equations as nouns and never use the abbreviation "eqn." before it.
 ### "Dashes"
 
 Learn the difference between the hyphen (`-` in LaTeX), the en dash (`--` in LaTeX), and the em dash (`---` in LaTeX).
-This is easily Google-able.
+This is easily Google-able, here are some references:
+* https://grammarist.com/usage/hyphen-en-dash-or-em-dash/
+* https://www.grammarly.com/blog/hyphens-and-dashes/
+* https://editorninja.com/hyphen-vs-en-dash-vs-em-dash/
 
 Some correct examples
 * Hyphen
