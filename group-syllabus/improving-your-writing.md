@@ -208,41 +208,22 @@ Deviating from this basic structure often leads to skewed story arcs, which eith
 
 ##### Language
 
+Some of these are soft writing rules/guidelines.
+They can be broken, but one usually has to understand why they exist in the first place before breaking them.
+If you are consciously breaking a rule in your view for a good reason, then go for it.
+Otherwise, stick to the guidelines.
+
 - [ ] Use active language
-- [ ] Avoid long sentences (12 to 17 words max)
-- [ ] Simplify your language (dead to the thesaurus)
-- [ ] Check for spelling/grammar mistakes
+- [ ] Avoid long sentences
+- [ ] Simplify your language (_no thesaurus_)
 - [ ] One paragraph communicates one important idea
 - [ ] Connect paragraphs and ideas in a logical order
-- [ ] Use the present tense for facts
-- [ ] Use the past tense to describe results
-- [ ] Avoid informal language, superlatives
-- [ ] Limit the use of conjuctive (connecting) words (e.g. however, moreover)
+- [ ] Use the present tense for the main part of the manuscript; past tense is allowed in some parts of the abstract and conclusions.
+- [ ] Avoid informal language
+- [ ] No superlatives (e.g., _very complicated_)
+- [ ] Limit the use of conjunctive (connecting) words (e.g., however, moreover). It's ok to just start a sentence!
 - [ ] Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
-- [ ] Don't use spoken abbreviations (e.g., it's)
-- [ ] Single-digit numbers should be spelled out; numbers of two or more digits should be expressed as numerals
-
-##### Citation
-
-- [ ] Check citations (present in both the manuscript and the reference list)
-- [ ] Are all data and software sources cited
-
-#### Figures
-
-- [ ] Figure components are legible in print and on screen
-- [ ] All axes are named
-- [ ] The use of symbols and line types is preferred over color
-- [ ] The caption explains the purpose and content of the figure
-- [ ] All figures have the same axis orientation
-- [ ] Figures with the same (x/y) axis are combined in a single panel
-- [ ] Limit the number of pictures in the main manuscript
-	- Additional figures can go in the Appendix
-
-#### Tables
-
-- [ ] The caption explains the purpose and content of the table
-- [ ] Limit the number of tables in the main manuscript
-	- Additional tables can go in the Appendix
+- [ ] Don't use spoken contractions (e.g., it's)
 
 ### Required watching
 
