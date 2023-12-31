@@ -92,7 +92,7 @@ Other tips of this type are available at these links:
 __Always__ have a narrative first figure that demonstrates what you are doing and "tells the overall story."
 Take time to make this figure as attractive as possible.
 It is one of the first things your readers will see!
-See, for example, the first figure in my paper "Fast Macroscopic Forcing Method".
+See, for example, the first figure in my paper "Fast Macroscopic Forcing Method."
 
 * Abstract 
     * Include a full, self-contained, mini-version of your paper. This includes an introduction to the method you use, quantitative measures of your results, and your final conclusion and takeaways.
@@ -108,10 +108,9 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method"
 * Future work 
     * I recommend not including a future work section in your papers or presentations
 
-### Things to avoid
+### Guidelines, tips, and more!
 
-There are many; some are listed above or below this section.
-Some additional, important ones are from [here](https://www.angryreviewer.com/rules):
+#### Things to avoid; from the [Angry Reviewer](https://www.angryreviewer.com/rules)
 
 * Don't hype. Avoid words like novel, highly, clearly, greatly. Better still, avoid all adverbs.
 * Don't use clichés. In a nutshell, by and large, they are clear as mud.
@@ -125,9 +124,7 @@ Some additional, important ones are from [here](https://www.angryreviewer.com/ru
 * Keep abbreviations to minimum. Abbreviations are hard to read, consider just spelling it out.
 * Beware of zombie nouns. Utilization of nominalization is causation of distraction.
 
-### More tips
-
-From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
+#### From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
 
 * Use the "show don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
 
@@ -159,55 +156,9 @@ From [some tips for scientific writing](https://kucharski.substack.com/p/some-ti
 
 * A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
 
-### Paper writing checklist and advice
+#### From [Koen Hufkens](https://github.com/khufkens/paper_writing_checklist).
 
-From [here](https://github.com/khufkens/paper_writing_checklist).
-
-This is a checklist for academic paper writing (or peer review). 
-The document covers text flow, style, and figure and table formatting. 
-This checklist is not exhaustive but should cover the most important components of a well-structured manuscript. 
-
-#### Text
-
-##### Flow
-
-The flow or story arc of your manuscript can take on various forms, but most commonly has an hourglass shape. 
-Here, the width of the hourglass refers to the scope of the material discussed, where the storyline itself will fit the Opening, Challenge, Action, Resolution (OCAR) structure, which mostly reflects the standard layout of a paper (see below).
-
-An hourglass-shaped story arc starts with a broad discussion of the context in which to frame the current work, the introduction. 
-The story arc then narrows to the scope of the research question at hand. These research questions are often put forward as formal hypotheses. 
-These hypotheses, how to test them, and the final results are laid out in the methodology and results part of the manuscript. 
-This is the narrowest part of the story arc, focussing on what is dealt with within the scope of the manuscript and little else. 
-The story arc then widens again by discussing the results relative to (contemporary) literature only to conclude with very broad statements on how to move forward in the conclusion. 
-Other story structures exist, but this is for sure one of the most common ones to consider.
-
-To guide you through the process you can ask yourself a number of questions:
-
-- Opening [O] \(Introduction)
-	- [ ] Who are the "characters" (topics covered)?
-	- [ ] What is the story about?
-	- [ ] Where does it take place (spatial/temporal coverage)?
-	- [ ] Why is the story important, what is the larger problem at hand?              
-
-- Challenge [C] \(Introduction / Methods)
-	- [ ] What is the problem you are writing about?
-	- [ ] What specific question do you propose to answer?
-	- [ ] How ‘bad’ is it?
-	- [ ] How important?
-
-- Action [A] \(Methods / Results)
-	- [ ] What happens to address the challenge? 
-	- [ ] Your contribution and results
-
-- Resolution [R] \(Discussion / Conclusion)
-	- [ ] How has our world view changed as a result of A? 
-	- [ ] Big take away messages, what did you learn from your work?
-	- [ ] How should we all move forward?
-
-Deviating from this basic structure often leads to skewed story arcs, which either inflates expectations (funnel shape) or underplays the value of the work at hand (inverted funnel).
-
-##### Language
-
+His document covers a small subset of components of a well-written manuscript.
 Some of these are soft writing rules/guidelines.
 They can be broken, but one usually has to understand why they exist in the first place before breaking them.
 If you are consciously breaking a rule in your view for a good reason, then go for it.
@@ -251,9 +202,6 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Experimental Biosciences writing science](http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html)
 * [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 * Writing lab (ENV385w) notes by [Katharyn Duffy](https://github.com/katharynduffy)
-
-### Books
-
 * [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars. 
 * [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)
 
