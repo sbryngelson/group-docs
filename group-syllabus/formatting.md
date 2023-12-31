@@ -26,7 +26,7 @@ From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plo
 ### Preamble and packages
 
 Always structure your document so that the preamble is separate from the main text (two separate files).
-You can connect them by placing `input{preamble.tex}` at the top of your main text file `main.tex`.
+You can connect them by placing `\input{preamble.tex}` at the top of your main text file `main.tex`.
 
 In the preamble file you should include some packages.
 [Here](../templates/paper/preamble.tex) are some examples.
