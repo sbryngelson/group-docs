@@ -124,7 +124,7 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method.
 * Keep abbreviations to minimum. Abbreviations are hard to read, consider just spelling it out.
 * Beware of zombie nouns. Utilization of nominalization is causation of distraction.
 
-#### From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing).
+#### From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing)
 
 * Use the "show don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
 
@@ -156,7 +156,7 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method.
 
 * A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
 
-#### From [Koen Hufkens](https://github.com/khufkens/paper_writing_checklist).
+#### From [Koen Hufkens](https://github.com/khufkens/paper_writing_checklist)
 
 His document covers a small subset of components of a well-written manuscript.
 Some of these are soft writing rules/guidelines.
