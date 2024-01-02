@@ -25,6 +25,17 @@ I will not teach you Fortran or C++ (or any other programming language).
 I will not teach you how to launch an ssh session onto one of the university supercomputers.
 I _will_ help you get all these skills, though, by pointing you to the right resources when needed (e.g., courses, papers, tutorials, documentation, or knowledgeable others).
 
+#### Spencer's quirks
+
+We all have our quirks and it is only fair to tell you mine as a fair warning.
+Some of these tendencies blend into what I just consider professional behavior, but one could just as well cast those as quirks.
+I take these rather seriously, so please read them.
+This list is surely incomplete, but it's what I've come up with for now.
+* Punctuality: I have little patience for tardiness (of myself or others). Arrive at meetings on time. If you cannot arrive at meetings on time, tell me why ASAP and we can try to reschedule them!
+* "No-call no-show": Do not miss meetings without letting me know. I make time for you (in the same way you sometimes make time for me!), so I consider it respectful behavior to let me know if you cannot make it (sick, out-of-town, or whatever). If you let me know 1 week or more ahead of time that you will miss a meeting, try to let me know the day before or the day of because, unfortunately, I sometimes forget.
+* Unresponsiveness: If I ask you something on Slack I generally expect a response within a day or two. The response can just be a confirmation that you saw and understood the message (so I know you saw it!). Of course, I do not expect this during holidays or weekends, and you may have other situational circumstances (e.g., you're sick or away at a family event) that prevent this. That is fine!
+* Writing and style: I take academic writing and presentation quality seriously. Please read the rest of this syllabus to bootstrap your way to high-quality dissemination of your work. 
+
 ### Power Structures
 
 The university has strong hierarchical structures.
