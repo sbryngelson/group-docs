@@ -13,7 +13,7 @@ We also hold meetings either in my office (S1313) or one of the conference rooms
 Request this from Spencer. 
 Send him your GTID number, it will likely take about a week to "start working," though times vary.
 
-### Websites, software, and such
+### Websites, software, course numbers, and such
 
 * Box, located [here](https://gatech.app.box.com/folder/142416587982)
     * Purpose: Common location to store things, unlimited space. Put your group and 1-1 updates here.
@@ -33,6 +33,17 @@ Send him your GTID number, it will likely take about a week to "start working," 
  
 * Group website, located [here](https://comp-physics.group/team/)
    * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website
+ 
+* Taking a special problems or research "class" with me? Find the course and section number for me below
+   * For graduate students
+      * Special Problems - 30901 - CSE 8903 - B13
+      * Teaching Assistantship - 30903 - CSE 8997 - B13
+      * Research Assistantship - 32385 - CSE 8998 - B26
+      * Doctoral Thesis Preparation - 30902 - CSE 8999 - B13
+   * For undergraduate students
+      * Undergraduate Research Assistantship - 32788 - CS 2698 - B26
+      * Undergraduate Research Assistantship - 32880 - CS 4698 - B26
+      * Undergraduate Research - 34679 - CS 4699 - B26
 
 ### Computers
 
