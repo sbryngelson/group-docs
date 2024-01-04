@@ -78,7 +78,7 @@ Your figures should not have titles.
 
 ### White space
 
-Minimize any excesive white space in journal/abstract figures.
+Minimize any excessive white space in journal/abstract figures.
 Remove all white space around figure borders.
 Figures in presentations can afford a bit of extra white space.
 

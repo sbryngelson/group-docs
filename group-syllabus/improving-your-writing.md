@@ -150,7 +150,7 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method.
 
 * If you want to describe a figure/table in the results text, it can help to imagine you're giving a seminar. What features would you draw your audience's attention to? What would you tell people about in the coffee break?
 
-* Help the reader interpret your figures and tables. Don't give them a sixteen panel graph and expect them to spot the main takeaway; if the author can't be bothered to find a key message, the reader almost certaintly won't either.
+* Help the reader interpret your figures and tables. Don't give them a sixteen panel graph and expect them to spot the main takeaway; if the author can't be bothered to find a key message, the reader almost certainly won't either.
 
 * You can probably cut about half your word count if you really need to do, without losing your meaning. (I've managed to cut down a bunch of paper submissions into much shorter report formats when really pressed.)
 
