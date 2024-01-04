@@ -17,7 +17,7 @@ This section is particularly applicable to undergraduate student researchers.
 How much time are you expected to work?
 There is no one answer to this, but I can put some upper and lower bounds that apply to basically everyone:
 
-* You are not working enough if yo __do much of your work a few hours before meetings__
+* You are not working enough if you __do much of your work a few hours before meetings__
     * If this is you, you should take fewer courses or dedicate more time to research. 
     * _At the very least_, as an undergraduate, you should be working on research at least __10 solid, uninterrupted hours per week__ (on average). However, the more you put in, the more you get out, with some exceptions (see below).
     * No matter how clever and smart you are, if you do not work enough, you will not produce and publish meaningful research.
