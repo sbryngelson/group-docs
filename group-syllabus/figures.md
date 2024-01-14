@@ -109,14 +109,13 @@ Do not show the coordinate direction arrows (usually x, y, z) that are by defaul
 An exception might be in the creating of a simulation video that _requires_ the viewer knowing these orientations.
 If you are exporting an image, superimpose your own direction triad. if it is absolutely needed.
 
-### Consistency
+### Axis bounds
 
-Copied from [Formatting your work](formatting.md).
-
-One should keep styles consistent within a manuscript.
-You might be forgiven for esoteric style choices if they are employed consistently.
-From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
-> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
+Your axes should, whenever possible, start and end at labeled tick marks.
+This is especially important for log-scale axes.
+One should avoid extra white space to the left and right (or top and bottom) of axes.
+In pgfplots this is achieved with the options:
+`\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
 
 ### Information quantity
 
@@ -153,6 +152,13 @@ __An exception__ to the above is if the figure contains no text or equations, li
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
 
 **Rule:** Use the same color palette for all of your figures (not including flow visualizations) and your main text (see [formatting](formatting.md)]).
+
+An excerpt from [Formatting your work](formatting.md).
+
+> One should keep styles consistent within a manuscript.
+> You might be forgiven for esoteric style choices if they are employed consistently.
+> From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too.
 
 ### Useful references
 
