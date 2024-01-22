@@ -33,10 +33,6 @@
 * [For figures](templates/paper/figures)
 * [For talks](templates/talks)
 
-## Examples
-
-* [Paper revisions](examples/paper_revisions)
-
 ## Acknowledgements
 
 Parts of this are borrowed, heavily edited, from the Ph.D. syllabi of [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM) and Mor Maaman.
