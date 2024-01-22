@@ -3,10 +3,9 @@
 When you submit a paper, you will likely get reviews that request changes to your work.
 These changes may be fundamental and major, or minor and relatively easy to respond to.
 Sometimes the best papers require the most major changes, because they are high impact or the reviewer is just very picky.
-Further, sometimes, the reviewer may need to appreciate what you were writing about fully, so the questions don't make much sense.
+Sometimes, the reviewer may need to appreciate what you were writing about fully, so the questions don't make much sense.
 You should be prepared for all such situations.
 Ultimately, it is up to you to make your contributions crystal clear and tell a complete story accessible to __your audience__.
-I cannot stress that last sentence enough.
 
 ### Principle of charity
 
@@ -52,4 +51,4 @@ There are examples in this repository, including
 
 * In the same place, a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted (`main.tex`) and revised (`main_rev.tex`) manuscript files in the form of a new PDF file called `diff.pdf`. This shows the reviewer explicitly all the changes you made to improve the paper (on top of the revisions in the response to reviewers document).
 
-* Example diffs and responses to reviewers for some of my papers are included [in this directory](../examples/paper_revisions).
+* Example diffs and responses to reviewers for some of my papers are located [here](https://gatech.app.box.com/folder/245228437856)

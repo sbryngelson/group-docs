@@ -14,6 +14,6 @@ The environment in academia, including at Georgia Tech, _will not stop you_ from
 Quite the opposite, you will often feel like academic work culture encourages working evenings and weekends, and many do (I do).
 However, _overworking_ is neither healthy nor productive in the long run as an undergraduate or Ph.D. researcher.
 Note that the specific definition, in terms of say, hours worked, will vary person-to-person, and can change as your life otherwise changes in various ways.
-Regardless, You are part of a marathon, not a sprint.
+Regardless, you are part of a marathon, not a sprint.
 When you feel uneasy, don't run faster, but keep good company.
 After all, the point of being part of a research group is that you don't need to run it all alone.
