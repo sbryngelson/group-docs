@@ -4,6 +4,7 @@ Talks are important: They show your command of your research and your ability to
 Most professors will agree that the new faculty hired into the school are judged primarily on their job talk.
 
 ### What are you trying to achieve?
+
 Giving a talk is presumably associated with some goals, otherwise, why give it?
 You should organize your talk to achieve these goals.
 Here are some examples of things you might want people to think after your talk:
@@ -15,6 +16,7 @@ Here are some examples of things you might want people to think after your talk:
 All of the above are very real things, and I’ve thought about each of them several times before.  
 
 ### How to
+
 The guidance I usually give around talks is somewhat traditional: plan, make, and practice.
 
 1. __Plan:__ I write down what I want the audience to learn from the talk.
@@ -30,7 +32,7 @@ I guarantee that a talk practiced front-to-back 12 times will be delivered more 
 If I'm nervous about a talk or am giving one on a new topic, I practice even more than this.
 Sometimes I spend hours practicing over a few days.  
 Especially early in your Ph.D., you should then plan on giving at least two practice talks to an audience (one of them with me).
-Later, you won’t need as much practice for a conference talk, let’s say; but a job talk may require even more practice and iteration.
+Later, you won't need as much practice for a conference talk, let's say; but a job talk may require even more practice and iteration.
 After you synthesize and iterate on all the feedback, you're ready to go.
 This process often takes many days, even for a short talk.
 _This means that you should be ready to start practicing at least one week before you give your talk._
@@ -97,13 +99,13 @@ This is an even better trick if English is not your first language.
 3. It is okay to take a second or two to think before you start talking.
 After all, the asker has been sitting there for 15 minutes considering the question; you only just heard it!
 And after all that, **it's entirely okay to say you're not sure**, and that you need to think about it harder and get back to them later.
-I have done this many times during Q&A, and nothing is embarrassing about it.
+I have done this many times during Q&A, and there is nothing embarrassing about it.
 
 4. If someone asks _what about X?_, and you didn't perform a study involving _X_ and aren't entirely sure what would happen if you did, then you should:
 	1. Say "we did not study _X_ directly" (you want it to be crystal clear what you did and did not do), and then
 	2. Follow up with a hedged hypothesis, if one comes to mind. For example, "I would expect that if we looked into _X_, we would see an outcome something like (outcome here), because (reason here), but I cannot say for sure." If you don't have a plausible hypothesis, say so, as in 3. above.
 
-5. It's generally good etiquette to tack on to the beginning of your response, "Good question!". Some broad guidance: Do not do this for _every_ question, and, if appropriate, consider using a variation of this remark; for example, after doing some thinking while answering, one could say "...yeah, that's quite interesting, I hadn't considered that before. Thanks."
+5. __Good etiquette:__ It's generally good etiquette to tack on to the beginning of your response, "Good question!". Some broad guidance: Do not do this for _every_ question, and, if appropriate, consider using a variation of this remark; for example, after doing some thinking while answering, one could say "...yeah, that's quite interesting, I hadn't considered that before. Thanks."
 
 6. Wait until the questioner is done asking the question before you start answering.
 
@@ -112,9 +114,9 @@ I have done this many times during Q&A, and nothing is embarrassing about it.
 1. Do not ask "questions" that do not end in question marks.
 Use Q&A to learn or clarify something.
 If you have a _comment_, bring it up with the speaker one-on-one.
-If you listen carefully, you'll notice that many "questions" asked by folks during Q&A periods are not questions.
+If you listen carefully, you'll notice that some people ask "questions" that are not questions.
 This is generally frowned upon.
 
 2. Do not ask two questions at once. This means two things:
 	1. Do not ask two questions without letting someone else interject their question after your first one. It is impolite to take up all of the Q&A time.
- 	2. Do not ask two questions in a row (without letting the speaker answer the first one), period.
+ 	2. Do not ask two questions in a row (without letting the speaker answer the first one).
