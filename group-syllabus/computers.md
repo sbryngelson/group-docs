@@ -78,3 +78,10 @@
         * In particular, it's useful to keep an eye on [upcoming systems](https://centers.hpc.mil/systems/hardware.html#upcoming)
         * Current unclassified systems are [here](https://centers.hpc.mil/systems/unclassified.html)
     * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
+    * Subproject: `ONRDC51242690`, Group: `5124D690`
+       * Site: `NAVY`
+          * nautilus, `nautilus.navydsrc.hpc.mi`
+          * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
+          * stportal
+       * Site: `ERDC`
+          * viportal
