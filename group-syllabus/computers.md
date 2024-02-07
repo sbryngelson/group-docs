@@ -11,6 +11,7 @@
      * This looks like ~40 V100s, 8 A100s, 4 A40s, 20 RTX6000s, and 4 MI210s.
   * May need to contact Spencer for access.
   * __Most GPU nodes sit idle__
+     * On those nodes: `MaxNodes=UNLIMITED MaxTime=18:00:00`
 
 * GT Rogues Gallery 
     * User guide [here](https://gt-crnch-rg.readthedocs.io/en/main/)
