@@ -48,29 +48,29 @@
         * The account/allocation number is `CFD154`.
 
 * Department of Energy (e.g., Sandia National Lab, "Tri-labs")
-    * Purpose: Resources for DOE sponsored/funded research projects, only available to those students working on these projects. You will only have access to non-restricted resources.
+    * Purpose: Resources for DOE-sponsored/funded research projects are only available to those students working on these projects. You will only have access to non-restricted resources.
     * "Rules": Usually not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
     * Login process (Sandia National Lab-specific)
         * Onto the DaaS
             * VMware Horizon ([download online](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_horizon_clients/horizon_8))
-            * URL: daas.sandia.gov
-            * Passcode = [PIN + your yubikey1timepassword]
-            * Password = your kerberos pw
+            * URL: `daas.sandia.gov`
+            * Passcode: `[PIN] + [your yubikey1timepassword]`
+            * Password: `[kerberos pw]`
             * 3 options
                 * badge update
                 * conference room
-                * daas <-- open this one
-            * Can complete trainings and do other things here, like look at your WebCARS to get WC_ID (which you need to submit jobs)
-        * Onto a compute remotely
+                * daas <- open this one
+            * Can complete training and do other things here, like look at your WebCARS to get `WC_ID` (which you need to submit jobs)
+        * Onto a computer remotely
             * https://hpc.sandia.gov/access/ssh/
-            * Can do the below with DaaS (using my example username, shbryng)
-                * ssh shbryng@srngate.sandia.gov
-                * Passcode is pin + yubikey one time
-                * Choose computer: e.g. skybridge, attaway, weaver
-                * Press 1 - ssh session
-                * Default user name (shbryng)
-                * Password is (usually) the kerberos one
-                * If it asks for token OTP (e.g. on weaver) then this is your PIN + your yubikey1timepassword
+            * Can do the below with DaaS (using my example username, `[usrname]`)
+                * `ssh [usrname]@srngate.sandia.gov`
+                * Passcode: `[PIN] + [yubikey one time pw]`
+                * Choose a computer: e.g., Skybridge, Attaway, Weaver, etc.
+                * Press `1` - `ssh session`
+                * Default user name (`[usrname]`)
+                * Password is (usually) the Kerberos one
+                * If it asks for token OTP (e.g., on Weaver) then this is `[PIN] + [yubikey1timepassword]`
 
 * Department of Defense
     * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
