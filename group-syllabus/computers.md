@@ -85,5 +85,6 @@
           * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
           * stportal
        * Site: `ERDC`
+          * gold, `gold.erdc.hpc.mil`
           * viportal
     * [Docs available here](https://centers.hpc.mil/users/documentation.html) 
