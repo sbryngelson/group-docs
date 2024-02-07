@@ -1,18 +1,24 @@
 ## Computers
 
-* PACE Phoenix
+* GT PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware. 
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.
     * Get access by: emailing [pace-support@oit.gatech.edu](mailto:pace-support@oit.gatech.edu) requesting access under project `p-sbryngelson3` with PI Spencer Bryngelson. They will send me an email to confirm your membership.
+ 
+* GT ICE
+  * [Resources/User guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095) (click `Available Resources`, e.g.)
+     * This looks like ~40 V100s, 8 A100s, 4 A40s, 20 RTX6000s, and 4 MI210s.
+  * May need to contact Spencer for access.
+  * __Most GPU nodes sit idle__
 
-* Rogues Gallery 
+* GT Rogues Gallery 
     * User guide [here](https://gt-crnch-rg.readthedocs.io/en/main/)
     * Purpose: Use of brand-new, forward-looking, or weird hardware. At the time of writing, including an NV H100 server, AMD MI210 GPU server, Bluefield-2/3 SmartNICs, RISC-V and ARM CPUs, etc.
     * "Rules": Few rules, just follow guidelines in documentation. No limitations on hardware access/node hours.
     * Get access via [this link](https://crnch-rg.cc.gatech.edu/request-rogues-gallery-access/)
 
-* Wingtip-gpu3
+* GT Wingtip-gpu3
     * User guide [here](https://github.gatech.edu/cse-computing/compute-resources/blob/main/docs/systems/wingtip-gpu.md)
     * Purpose: Small (but possibly very long) GPU jobs, hosts 5x NV A100-80GB at the moment
     * "Rules": There is no scheduler on this machine, so be mindful of others' use of it.
