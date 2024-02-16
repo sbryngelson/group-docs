@@ -67,6 +67,9 @@ You may also see me in project-specific meetings (frequency depends on the proje
 ### How to get a hold of me
 
 Our group Slack workspace is the best way to find me if I'm not in my office.
+My calendar is always available to the public [via this link](https://outlook.office365.com/calendar/published/89a8b6b3591343ecb432e9a56a04e5f3@gatech.edu/8133a21aea4c4970b3049d3fffee2c066536954178697437005/calendar.html).
+You can use it to strategize times you might want to stop by CODA if you think it would be useful to chat with me, though an empty time on my calendar does not guarantee that I will be in my office.
+Checking via Slack is more reliable.
 
 __Note:__ If you want me to be responsive to you, you should be responsive to me.
 However, I do not expect you to be responsive during non-standard working hours (unless we agreed to be working on a deadline).
