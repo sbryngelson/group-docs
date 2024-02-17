@@ -28,7 +28,7 @@ There is no one answer to this, but I can put some upper and lower bounds that a
     * Think you might be newly depressed or anxious (consider seeing a mental health expert)
        * The usual definition of the above is that your emotional state is negatively affecting your functionality (you can do fewer things than before), but don't take my word for it. Please see a specialist if you think this might be you.
     * Miss important life events because of work: visiting close family, weddings, etc.
-    * Are sleeping less than ~7 hours per night. A consistent schedule of deep sleep is one of the most powerful predictors of health outcomes and several other important things. If you do not have time to sleep this much, I strongly suggest rearranging your work, class, and/or personal schedule so that you do. Discuss with me if helpful. If you cannot sleep this much, even when you try (e.g., insomnia), consider seeing a physician.
+    * Are sleeping less than ~7 hours per night. A consistent schedule of deep sleep is one of the most powerful predictors of health outcomes and several other important things. If you do not have time to sleep this much, I strongly suggest rearranging your work, class, and/or personal schedule so that you do. If you cannot sleep this much, even when you try (e.g., insomnia), consider seeing a physician.
          * If your reaction to this is, "That's impossible!", please chat with me. I can try to help make sense of this in ways that may not be immediately obvious to you.
 
 * Things that are not necessarily meaningful
