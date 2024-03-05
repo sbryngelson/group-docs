@@ -25,6 +25,7 @@
 
 * [Undergraduate specifics](group-syllabus/undergraduate-specifics.md)
 * [Available computers](group-syllabus/computers.md)
+* [Whose hardware is this, anyway?](group-syllabus/hardware.md)
 
 ## Templates
 
