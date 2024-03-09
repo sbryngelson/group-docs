@@ -9,3 +9,5 @@ Given this, it is your responsibility to __take care of the hardware issued to y
 It may well be used by someone else in the future.
 
 If you feel uncomfortable being responsible for hardware, like a laptop, that you do not own, please let Spencer know.
+
+__Note:__ This does __not__ mean that if something happens to your laptop or other hardware, you are personally responsible (nor will I be upset)! Such things happen, and over the course of a Ph.D., they are not entirely unlikely. Your responsibility is quite simple and hopefully easy to abide by: do not intentionally modify or abuse the hardware, and the overarching point of the document is clarification of ownership (which is often not obvious to students).
