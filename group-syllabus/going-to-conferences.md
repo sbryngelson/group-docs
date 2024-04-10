@@ -1,9 +1,29 @@
-## Going to conferences
+## Submitting and going to conferences
 
 __Related documents: [Giving talks](giving-talks.md)__
 
+
 Most of this goes for undergraduates and graduate students alike.
 The "spend authorization" part is only for graduate students.
+
+### What's the point, anyway?
+
+Often in our field, conferences are often not a _major_ way to establish impact in a field (as opposed to machine learning, for example); there are some exceptions (SC papers are one).
+Instead, conferences are a way to learn and talk with colleagues about research.
+For newer students, it is a way to see how the research community opperates as well!
+If you and I both go, I will make an effort to introduce you to folks relevant to your work.
+If you go alone, I can give you some folks to "hunt down" while you are there, as they might be familiar with our work.
+
+### Am I going?!
+
+You may be the lead author on a conference abstract or "short paper," but not attend the conference.
+Sometimes, you will attend the conference, but I will not.
+Other times, we will all go.
+Which of these occurs depends on several factors, including the research sponsor's expectations, the number of other abstracts the group submitted to that conference, its location, available funding, and whether I (Spencer) was formally invited to give the talk.
+Some of these factors will be quite opaque to you, though _I encourage you to ask me_ much ahead of time what conferences I am anticipating you to attend.
+I try to convey these things as quickly as possible, especially if you are going (so I can make sure you register and book flights in time).
+But, sometimes, I get quite busy, and things fall through the cracks.
+If you do not know what's going on, I encourage you to ask me!
 
 ### Registration, flights, and hotels
 
