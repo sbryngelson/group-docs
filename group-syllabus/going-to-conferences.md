@@ -10,7 +10,7 @@ The "spend authorization" part is only for graduate students.
 
 Often in our field, conferences are often not a _major_ way to establish impact in a field (as opposed to machine learning, for example); there are some exceptions (SC papers are one).
 Instead, conferences are a way to learn and talk with colleagues about research.
-For newer students, it is a way to see how the research community opperates as well!
+For newer students, it is a way to see how the research community operates as well!
 If you and I both go, I will make an effort to introduce you to folks relevant to your work.
 If you go alone, I can give you some folks to "hunt down" while you are there, as they might be familiar with our work.
 
