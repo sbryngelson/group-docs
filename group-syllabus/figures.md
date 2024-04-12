@@ -66,8 +66,8 @@ Instead, use a white background! So it blends into the document nicely.
 Label your sub-figures using font face and size consistent with the figure caption font face and size.
 Place your sub-figure labels (e.g., (a) and (b)) in a place that is not too obtrusive.
 
-* If you do not need sub-captions, you can place in the labels in the top left or bottom left of each sub-figure.
-* If you need sub-captions, then you should put the sub-figure labels below the center of the figure.
+* If you do not need sub-captions, you can place the labels in each sub-figure's top left or bottom left.
+* If you need sub-captions, you should put the sub-figure labels below the center of the figure.
 
 Do not put the sub-figure captions directly below the sub-figures if you have no "real" caption (e.g., you are just labeling them (a) or (b), etc.); in this case, instead put them in one of the corners per above.
 See the examples [here](../templates/paper/figures) for reference.
@@ -79,7 +79,7 @@ Your figures should not have titles.
 ### White space
 
 Minimize any excessive white space in journal/abstract figures.
-Remove all white space around figure borders.
+Remove all white space around the figure borders.
 Figures in presentations can afford a bit of extra white space.
 
 This principle is discussed more [here](https://bioinformatics-core-shared-training.github.io/effective-figure-design/DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf).
@@ -88,9 +88,9 @@ This principle is discussed more [here](https://bioinformatics-core-shared-train
 
 * If you have two side-by-side (left and right) figures (say, sub-figures) that have the same range in the vertical axis, you can remove the vertical labels on the one on the right and move it close to the one on the left so they are sharing the axis and tick labels.
 
-* If the range is different but the axis label the same, you can leave space for the tick labels for both but remove the axis label for the figures on the right.
+* If the range is different but the axis label is the same, you can leave space for the tick labels for both but remove the axis label for the figures on the right.
 
-* If all the data are marked in the same way (lines, markers, etc.) in each sub-plot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
+* If all the data are marked in the same way (lines, markers, etc.) in each subplot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
 
 ### Color bars
 
@@ -100,21 +100,21 @@ Common guidelines are
 * Don't use the rainbow/jet color scheme (read more about the problem with this [here](https://stats.stackexchange.com/questions/223315/why-use-colormap-viridis-over-jet))
 * Don't use a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
   * A violation would be using such a color scheme for data that varies from 0 to 1
-  * Paraview has a default lighting scheme that modifies the color white. In order to alleviate this, go to `view -> Light inspector` and deselect `Light Kit`.
+  * In 2D settings, Paraview uses, by default, a lighting scheme that modifies the colors, including making white appear sand colored. Alleviate this by going to `View -> Light inspector` and deselect `Light Kit`.
 * Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
-* Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for data that are nominally centered at a special or reference value, like 0 or 1.
+* Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for nominally centered data at a special or reference value, like 0 or 1.
 
 ### Coordinate direction arrow triad.
 
-Do not show the coordinate direction arrows (usually x, y, z) that are by default included in Paraview and Visit exports.
-An exception might be in the creating of a simulation video that _requires_ the viewer knowing these orientations.
+Do not show the coordinate direction arrows (usually x, y, z) that are included in Paraview and Visit exports by default.
+An exception might be creating a simulation video that requires the viewer to know these orientations.
 If you are exporting an image, superimpose your own direction triad. if it is absolutely needed.
 
 ### Axis bounds
 
 Your axes should, whenever possible, start and end at labeled tick marks.
 This is especially important for log-scale axes.
-One should avoid extra white space to the left and right (or top and bottom) of axes.
+One should avoid extra white space to the axes' left and right (or top and bottom).
 In pgfplots this is achieved with the options:
 `\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
 
@@ -126,11 +126,11 @@ Examples of having too much information are, well, numerous. Some examples:
 * You have too many tick marks
 * You include too many lines of data on your plot.
 
-To be quite specific: If you have two simulation results that are very close to each other, you may or may not want to show both on your figure.
+To be quite specific, if you have two simulation results that are very close to each other, you may or may not want to show both on your figure.
 You should show both if your intention _is to show_ that they are close together.
-If your message is the result, then you can just show one simulation result and mention in the caption that the results for the other case look the same.
+If your message is the result, you can just show one simulation result and mention in the caption that the results for the other case look the same.
 
-Essentially, you want to show the reader as close to a 'cartoon' of your work as possible.
+Essentially, you want to show the reader as close as possible to a 'cartoon' of your work.
 Showing frivolous information distracts from your message.
 
 ### Consistency 
