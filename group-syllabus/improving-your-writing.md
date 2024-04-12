@@ -189,7 +189,6 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [The Serial Mentor](https://serialmentor.com/virtualbooks/)
-* [Perfecting Your Scientific Writing: Tips & Tricks](https://elitemanuscripts.com/2020/04/17/perfecting-your-scientific-writing-tips-tricks/)
 * [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
 * [Knuth Mathematical Writing Guide](https://tex.loria.fr/typographie/mathwriting.pdf)
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
