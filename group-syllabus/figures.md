@@ -100,6 +100,7 @@ Common guidelines are
 * Don't use the rainbow/jet color scheme (read more about the problem with this [here](https://stats.stackexchange.com/questions/223315/why-use-colormap-viridis-over-jet))
 * Don't use a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
   * A violation would be using such a color scheme for data that varies from 0 to 1
+  * Paraview has a default lighting scheme that modifies the color white. In order to alleviate this, go to `view -> Light inspector` and deselect `Light Kit`.
 * Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
 * Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for data that are nominally centered at a special or reference value, like 0 or 1.
 
@@ -165,3 +166,7 @@ An excerpt from [Formatting your work](formatting.md).
 * [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 * [How to make figures for scientific papers](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper)
 * [Brushing Up Science Figure Advice](https://brushingupscience.com/category/figures/)
+
+### Additional Resources
+
+Additional resources on using Paraview and making presentable visualizations can be found [here](https://github.com/comp-physics/Scientific-Visualization)
