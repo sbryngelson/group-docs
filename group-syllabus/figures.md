@@ -4,22 +4,34 @@
 
 See [here](../templates/paper/figures) for examples.
 
+### This seems like a lot of work. Why am I doing this?
+
+From the formatting document:
+> For better or worse, the quality of your figures correlates with the perceived quality of your work. Just like the grammatical correctness of your writing, one might wonder if someone is sufficiently careful with their scientific work if they aren't very careful with their figures and presentation.
+
+Further, using the packages below allows one to easily edit your figures on the fly, reproduce them, and edit them for another document.
+This is particularly important, as you will find that many of your figures are surprisingly similar.
+I often also request small changes to figures to make them nicer.
+You might become quite frustrated if you have to re-do everything in Python + matplotlib, including re-running analysis, exporting the file, reuploading it, etc.
+With the method we use in the group, you pay the price __once__ to learn how to make very nice figures with TikZ/pgfplots, then reap the benefits until you decide to stop publishing your work (perhaps retirement).
+
 ### What tool to use to make figures?
 
-TikZ and PGFplots are TeX packages that provide a natural way to achieve this consistency.
+Use TikZ and PGFplots.
+These are TeX packages that provide a natural way to achieve consistency.
 There is a steep learning curve, though the trade-off is worth it compared to their competitors. 
 The TeX stack exchange website regularly answers questions about these packages. 
 A web search of almost any basic TikZ/PGF question will quickly flag an answer.
 I can provide example `.tex` files for many things (like [here](../templates/paper/figures)), and you can gather examples from your colleagues as well as online (like [here](https://github.com/comp-physics/tikz-examples) and [here](https://github.com/comp-physics/TikZ-examples-2)).
 
-**Rule 1:** Use a tool and workflow that allows you to remake a figure very quickly (e.g., change a line of text in a program and recompile) 
-
-**Rule 2:** Use a tool that allows you to use LaTeX fonts for text and equations.
+Some other nice features:
+* Allows you to remake a figure very quickly (e.g., change a line of text in a program and recompile) 
+* Natural use of LaTeX fonts for text and equations
 
 ### Standalone compilation
 
 Compile all your figures as standalone PDF documents.
-This is handy for not just your paper, but also for using them in presentations and other mediums.
+This is handy for your paper and for using them in presentations and other media.
 With TikZ, this is quite easy, [here](../templates/paper/figures/slices.tex) is an example.
 Here is a template of sorts:
 ```tex
@@ -34,7 +46,7 @@ Here is a template of sorts:
 
 \end{document}
 ```
-where I have a separate file called `tikz_preamble.tex`that you can find [here](../templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
+where I have a separate file called `tikz_preamble.tex` that you can find [here](../templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
 
 ### Use of Git with Overleaf
 
@@ -47,17 +59,17 @@ You can `git add/commit/push` and `git pull` from this cloned directory.
 
 Images of complex simulations _require careful attention_!
 In some cases one will need to annotate them with axes labels, tick marks and labels, legends, and so on.
-All of this text/equations should __not be rasterized__; if it is rasterized, I will send it back to you to fix.
+All of this text/equations should not be rasterized; if they are rasterized, I will send them back to you to fix.
 
 __Paraview:__
 I believe Paraview has some functionality for this. Here is [a reference](https://www.paraview.org/Wiki/ParaView/Vector_Graphics_Export) and here is [another](https://scicomp.stackexchange.com/questions/36122/vector-format-export-for-screenshots) and [another](https://www.paraview.org/pipermail/paraview/2017-April/039969.html).
 Perhaps it exports a separate vector image for the text and/or legends?
 I am not entirely sure how it works.
-I welcome recommendations on how to best do this, but I do know it is possible.
+I welcome recommendations on how to best do this, but I know it is possible.
 
 Other rules:
 * __Background color:__ Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
-Instead, use a white background! So it blends into the document nicely.
+Instead, use a white background! It will blend nicely into the document. To get Paraview to create a proper white background instead of a grayish one, make sure you [turn off the light kit for all 2D visualizations!](https://visualisation.gitlab-pages.dkrz.de/documentation/Paraview/Light/deactivate-light-kit/index.html).
 * __File size:__ Do not use images that are very large. Images bigger than roughly 10MB are too large.
 
 
@@ -115,12 +127,12 @@ If you are exporting an image, superimpose your own direction triad. if it is ab
 Your axes should, whenever possible, start and end at labeled tick marks.
 This is especially important for log-scale axes.
 One should avoid extra white space to the axes' left and right (or top and bottom).
-In pgfplots this is achieved with the options:
+In pgfplots, this is achieved with the options:
 `\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
 
 ### Information quantity
 
-Your figures should only consist of the information required to tell the story or show the results that you want to show.
+Your figures should only contain the information required to tell the story or demonstrate the desired results.
 
 Examples of having too much information are, well, numerous. Some examples:
 * You have too many tick marks
@@ -159,7 +171,7 @@ An excerpt from [Formatting your work](formatting.md).
 > One should keep styles consistent within a manuscript.
 > You might be forgiven for esoteric style choices if they are employed consistently.
 > From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
-> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too.
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5, too.
 
 ### Useful references
 
