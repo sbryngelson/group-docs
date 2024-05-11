@@ -38,9 +38,9 @@ Taking fewer classes might mean graduating in 4 years instead of 3 (or something
 You must consider this trade-off on your terms, though I'm glad to discuss it with you.
 GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
-Some commitment topics to consider: if you
-* hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, then completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
-* don't think you do not want to go to graduate school. Research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
+Some commitment topics to consider: 
+* If you hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
+* If you don't think you do not want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
 
 ### Outcomes
 
@@ -67,7 +67,7 @@ You should talk about it with me if you are thinking about it.
 
 ### Internships
 
-If you want to participate in an internship, I will gladly support you and your effort to find one.
+If you want to participate in an internship, I will gladly support you in your search.
 I can guide you more closely if you want your internship to work well with your research.
 Whether you should or should not take on an internship will depend on several factors, depending on your goals upon graduation and your research area.
 I recommend you talk about this with me so I can give more personalized guidance.
