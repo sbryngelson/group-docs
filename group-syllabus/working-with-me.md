@@ -28,18 +28,20 @@ I _will_ help you get all these skills, though, by pointing you to the right res
 #### Spencer's quirks
 
 We all have our quirks and it is only fair to tell you mine as a fair warning.
-Some of these tendencies blend into what I just consider professional behavior, but one could just as well cast those as quirks.
+Some of these tendencies blend into what I consider professional behavior, but one could cast those as quirks.
 I take these rather seriously, so please read them.
 This list is surely incomplete, but it's what I've come up with for now.
-* Punctuality: I have little patience for tardiness (of myself or others). Arrive at meetings on time. If you cannot arrive at meetings on time, tell me why ASAP and we can try to reschedule them!
-* "No-call no-show": Do not miss meetings without letting me know. I make time for you (in the same way you sometimes make time for me!), so I consider it respectful behavior to let me know if you cannot make it (sick, out-of-town, or whatever). Also, add a slide in your "updates" slides that says you are unavailable/out-of-town so that I don't forget.
-* Unresponsiveness: If I ask you something on Slack I generally expect a response within a few work days. The response can just be a confirmation of receipt ("acknowledged"). Of course, I do not expect this during holidays, weekends, vacation time, etc., and you may have other situational circumstances (e.g., you're sick or away at a family event) that prevent this. That is fine! Though please give me a heads-up.
+* Punctuality: I have little patience for tardiness (of myself or others). Arrive at meetings on time. If you cannot arrive at meetings on time, tell me why ASAP, and we can try rescheduling them!
+* "No-call no-show": Do not miss meetings without letting me know. I make time for you (in the same way you sometimes make time for me!), so I consider it respectful behavior to let me know if you cannot make it (sick, out-of-town, or whatever). Also, add a slide in your "updates" slides that says you are unavailable/out of town so I don't forget and wonder where you are.
+* Unresponsiveness: If I ask you something on Slack (or occasionally email), I generally expect a response within a few work days. The response can just be a confirmation of receipt ("acknowledged"). Of course, I do not expect this during holidays, weekends, vacation time, etc., and you may have other situational circumstances (e.g., you're sick or away at a family event) that prevent this. That is fine! Though please give me a heads-up.
+* Demeanor: I have a rather deadpan effect most of the time. This has followed me around for my whole life and seems unlikely to change much, unfortunately, despite some efforts on my part. So, don't be shocked if I don't jump out of my chair with a giant smile on my face when you show impressive and exciting results. I really am excited. It just isn't as externally obvious. Please do not let my demeanor damage your sense of self-worth. You are part of the group for a reason, and if I weren't excited to have you be part of it, then we wouldn't be working together anymore.
+* Jokes: I sometimes make sarcastic jokes about myself or others that aren't meant to be taken seriously. I realize these aren't always appropriate, and discerning that I'm joking is not always trivial. These are usually meant to keep the mood light and fun, though I'm trying to avoid at least most of them.
 * Writing and style: I take academic writing and presentation quality seriously. Please read the rest of this syllabus to bootstrap your way to high-quality dissemination of your work. 
 
 ### Power Structures
 
 The university has strong hierarchical structures.
-Professors are in positions of power over students, and students, unfortunately, cannot always speak up when something isn't right.
+Professors have power over students, and unfortunately, students cannot always speak up when something isn't right.
 I welcome student input, especially if I or one of my colleagues has said or done something that makes a student feel uncomfortable.
 I realize it is a difficult proposition in many cases, especially if you feel I am the culprit.
 If you feel you suffered an injustice, I encourage you to speak to me or other trusted individuals.
