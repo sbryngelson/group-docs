@@ -60,7 +60,7 @@ If you do not use a package, your spacing and characters are likely to be incons
 Use proper package options:
 
 ```tex
-\sisetup{per-mode=symbol}
+\sisetup{print-unity-mantissa=false,per-mode=symbol,range-phrase = \text{--}}
 ```
 which configures the siunitx package to display units with division `m/s` using the slash symbol (/) instead of the reciprocal form `m s^{-1}`.
 
