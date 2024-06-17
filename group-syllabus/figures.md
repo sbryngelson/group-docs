@@ -98,12 +98,11 @@ Your figures should not have titles.
 ### White space
 
 Minimize any excessive white space in journal/abstract figures.
-This helps matching the figures with relevant texts.
-This can also prevent conditions when figures float among irrelevant sections such as reference.
+This helps match the figures with relevant text and makes the paper and figure generally more appealing.
+This can also prevent figures from floating into irrelevant sections.
 Remove all white space around the figure borders.
 Figures in presentations can afford a bit of extra white space.
-Put relevant subfigures side by side if applicable.
-Figures should not go beyond the page margin.
+Figures should never go beyond the page margin.
 
 This principle is discussed more [here](https://bioinformatics-core-shared-training.github.io/effective-figure-design/DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf).
 
@@ -115,7 +114,7 @@ This principle is discussed more [here](https://bioinformatics-core-shared-train
 
 * If all the data are marked in the same way (lines, markers, etc.) in each subplot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
 
-* Be specific on legends. Your readers should be able to distinguish the data series by reading the legends only.
+* Be specific with your legends. Your readers should be able to distinguish the data series by reading the legends only, not requiring the caption to determine what the figure means.
 
 ### Color bars
 
@@ -143,7 +142,8 @@ This is especially important for log-scale axes.
 One should avoid extra white space to the axes' left and right (or top and bottom).
 In pgfplots, this is achieved with the options:
 `\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
-Use less texts in tick marks. For example, use `1 kHz` instead of `1000 Hz`.
+Avoid excessive text in tick marks when possible.
+For example, use `1, 2, 3, 4, 5` in units of `kHz` instead of `1000, 2000, 300, 4000, 5000` in units of `Hz`.
 
 ### Information quantity
 
@@ -157,8 +157,8 @@ To be quite specific, if you have two simulation results that are very close to 
 You should show both if your intention _is to show_ that they are close together.
 If your message is the result, you can just show one simulation result and mention in the caption that the results for the other case look the same.
 
-Simulations usually involves critical physical configurations such as domain boundaries, immmersed boundaries or objects with significantly different physical 
-properties. Make sure to show them in the simulation visualization.
+Simulations usually involve critical physical configurations such as domain boundaries, immersed boundaries, or objects with significantly different physical properties.
+Make sure to show them in the simulation visualization.
 
 Essentially, you want to show the reader as close as possible to a 'cartoon' of your work.
 Showing frivolous information distracts from your message.
