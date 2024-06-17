@@ -57,6 +57,12 @@ My preference is
 \usepackage{siunitx}
 ```
 If you do not use a package, your spacing and characters are likely to be inconsistent and incorrect.
+Use proper package options:
+
+```tex
+\sisetup{print-unity-mantissa=false,per-mode=symbol,range-phrase = \text{--}}
+```
+which configures the siunitx package to display units with division `m/s` using the slash symbol (/) instead of the reciprocal form `m s^{-1}`.
 
 ### Math symbols
 

@@ -48,6 +48,13 @@ Here is a template of sorts:
 ```
 where I have a separate file called `tikz_preamble.tex` that you can find [here](../templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
 
+Use Tikz option:
+
+```tex
+\tikzset{>=latex}
+```
+to make all the arrows in latex form.
+
 ### Use of Git with Overleaf
 
 In order to create standalone figures in Overleaf, you will need to leverage its `git` feature.
@@ -91,8 +98,11 @@ Your figures should not have titles.
 ### White space
 
 Minimize any excessive white space in journal/abstract figures.
+This helps match the figures with relevant text and makes the paper and figure generally more appealing.
+This can also prevent figures from floating into irrelevant sections.
 Remove all white space around the figure borders.
 Figures in presentations can afford a bit of extra white space.
+Figures should never go beyond the page margin.
 
 This principle is discussed more [here](https://bioinformatics-core-shared-training.github.io/effective-figure-design/DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf).
 
@@ -104,6 +114,8 @@ This principle is discussed more [here](https://bioinformatics-core-shared-train
 
 * If all the data are marked in the same way (lines, markers, etc.) in each subplot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
 
+* Be specific with your legends. Your readers should be able to distinguish the data series by reading the legends only, not requiring the caption to determine what the figure means.
+
 ### Color bars
 
 If your data involves a color bar, use one that makes sense for the data you are plotting.
@@ -113,6 +125,7 @@ Common guidelines are
 * Don't use a tri-color scheme (e.g., Paraview's default blue-white-red) for data that is not centered at a unique/special value like 0
   * A violation would be using such a color scheme for data that varies from 0 to 1
   * In 2D settings, Paraview uses, by default, a lighting scheme that modifies the colors, including making white appear sand colored. Alleviate this by going to `View -> Light inspector` and deselect `Light Kit`.
+  * Adjust the RGB values of the color bar to let the unique/special value be exactly white if the data is centered at the unique/special value.
 * Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
 * Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for nominally centered data at a special or reference value, like 0 or 1.
 
@@ -129,6 +142,8 @@ This is especially important for log-scale axes.
 One should avoid extra white space to the axes' left and right (or top and bottom).
 In pgfplots, this is achieved with the options:
 `\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
+Avoid excessive text in tick marks when possible.
+For example, use `1, 2, 3, 4, 5` in units of `kHz` instead of `1000, 2000, 300, 4000, 5000` in units of `Hz`.
 
 ### Information quantity
 
@@ -142,8 +157,13 @@ To be quite specific, if you have two simulation results that are very close to 
 You should show both if your intention _is to show_ that they are close together.
 If your message is the result, you can just show one simulation result and mention in the caption that the results for the other case look the same.
 
+Simulations usually involve critical physical configurations such as domain boundaries, immersed boundaries, or objects with significantly different physical properties.
+Make sure to show them in the simulation visualization.
+
 Essentially, you want to show the reader as close as possible to a 'cartoon' of your work.
 Showing frivolous information distracts from your message.
+
+Avoid using colors that are too similar to the background to annotate figures. Use easily distinguishable colors.
 
 ### Consistency 
 
