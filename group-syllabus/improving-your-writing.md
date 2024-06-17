@@ -63,6 +63,7 @@ Changing technical terms mid-way through a paper in the name of style will confu
 If your domain is a cylinder, don't switch to "tube" at any point.
 If you call your model a "physical model," do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
+Dont't use software-specific nomenclature. This confuses readers if they haven't used the software, and they may not plan to use it.
 
 ### Concise writing
 
