@@ -37,11 +37,11 @@
       * The account name is `bbsc-delta-gpu` for GPU resources
       * The account name is `bbsc-delta-cpu` for CPU resources
 
-* OLCF Frontier/Wombat/Crusher/etc.
+* OLCF Frontier/Wombat/Andes/etc.
     * Purpose
         * Frontier: Very large-scale GPU simulation on AMD MI250X GPUs.
-        * Crusher: Testbed for AMD GPU use, has latest Cray compilers and ROCm.
         * Wombat: Testbed for next-gen HPC platforms, including ARM nodes and soon next-generation NVIDIA nodes (GraceHopper).
+        * Andes: For postprocessing
     * Our account number: `CFD154`
     * "Rules": Ask Spencer before running any jobs that use a very large number of node hours
     * Get access by
