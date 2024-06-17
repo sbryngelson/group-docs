@@ -4,6 +4,18 @@ Much of this 'syllabus' applies to undergraduates and graduate students.
 But, there are a few things specific to undergraduate researchers.
 Below is my attempt to explain them.
 
+### Meetings
+
+Following much other text in this set of documents, I expect in-person attendance from all students I advise.
+Not getting much "work done" is not an acceptable reason to cancel meetings, in my view.
+There is always a lot to talk about regarding your work.
+If there isn't, you don't need me to advise you!
+
+### Remote work
+
+* I _do not_ fund students to work remotely in my group (e.g., over the Summer).
+* I _do not_ hold regular scheduled meetings with unfunded remote students.
+
 ### Money
 
 You can be paid a modest sum as an undergraduate researcher.
@@ -39,7 +51,7 @@ You must consider this trade-off on your terms, though I'm glad to discuss it wi
 GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
 Some commitment topics to consider: 
-* If you hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, completing your degree early is quite unlikely to help with admission, but completing high-quality research _definitely_ will. 
+* If you hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, completing your degree early is unlikely to help with admission, but completing high-quality research _definitely_ will. 
 * If you don't think you do not want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
 
 ### Outcomes
