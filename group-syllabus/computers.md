@@ -88,4 +88,4 @@
        * Site: `ERDC`
           * gold, `gold.erdc.hpc.mil`
           * viportal
-    * [Docs available here](https://centers.hpc.mil/users/documentation.html) 
+    * [Docs available here](https://centers.hpc.mil/users/docs/index.html#general)
