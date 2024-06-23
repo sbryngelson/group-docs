@@ -13,20 +13,28 @@ There is no substitute for interactively thinking about your writing compared to
 ### Important: The "-7 days" internal deadline
 
 I have a "-7 days" internal deadline for abstracts, presentations, and papers.
-Anything with a deadline must be in the best state you are capable of creating 7 days beforehand.
+Anything with a deadline must be in the best state you can create 7 days beforehand.
 Most abstracts will have official submission dates, and for presentations this is _7 days before the conference starts_.
-If there isn't an official deadline (i.e., we're submitting to a journal with rolling submissions), this rule will apply to whatever day we agreed upon submitting the work.
+If there isn't an official deadline (e.g., if we're submitting to a journal with rolling submissions), this rule will apply to whatever day we agreed upon for submitting the work.
 This differs from how academics often work in our area, where one madly writes up to the second before the submission deadline; __I do not do that__.
 
 __Everything must be done to the best of your ability 7 days before the deadline:__ the studies must be completed, the data analyzed, the findings solidified, the paper's message needs to exist, the figures made and polished and referenced appropriately in the text, equations described, and so on and on.
-Having a last minute writing/editing frenzy generates an anxiety and time commitment that I, for better or worse, cannot handle.
+Having a last-minute writing/editing frenzy generates anxiety and a time commitment that I, for better or worse, cannot handle.
 
-__Missing the deadline:__ the students should follow the dealine imposed by themself.
-If you couldn't make the deadline for various reasons, you should at least let me know the current progress and update me (via email or slack) when the task could be done. 
+__Missing deadlines:__
+When you say you will complete something I request, e.g., "I will send you the slides on Friday," I will expect them on Friday.
+Sometimes, the day you send me something is very important, and current or future grants/papers/etc. could hinge on it.
+That said, we all regularly underestimate how long something will take, and being perfectly adjusted to how long it will take you to do something is impossible.
 
-People do suffer from perfectionism. Keep in mind. The product you hand in doesn't have to be perfect. You can always make it better by changing some minor details. What's more important is to finish it. In fact, it is usually the case that more iterations between you and me make the final product in its best shape.
+So, if you say you will send something by a specific day but cannot (for any reason), let me know __as soon as possible__.
+Then, let me know when I _can_ expect you to send it.
+If you are unsure when you will be able to send something from the outset, put appropriate bounds on it: "_I am very busy tomorrow and am not sure exactly how long this will take, but I should be able to send you something by Tuesday, and, at the very latest, by Friday_".
+If Friday is unworkable for me because of a separate deadline, I will let you know and work with you to get the thing done without putting extra pressure on you.
 
-In some rare situations, you might need to finish somthing in a few days. If that happens, communicate with me when you think it can be done. When planning it, please consider that I also need time to review it. Otherwise, we can not use it.
+Keep in mind that keeping me in the dark and/or missing self-imposed deadlines puts stress and anxiety on _both of us_.
+Even if you cannot deliver something as quickly as you wanted, stressing us out is much worse (I personally cannot handle extra anxiety, and I suspect some students cannot either).
+
+Many folks are perfectionists. Keep in mind that the product you send me doesn't have to be perfect. You can always make it better by changing minor details and iterating back and forth with me. If you hold back your work from me, especially if it means missing a deadline, it gives me much less time to help you. If you miss a deadline sufficiently, I will not have time to review your work and thus won't be able to use it.
 
 ### Process: writing alone, better together
 
@@ -37,7 +45,7 @@ As an advisor, I will train you to write academic papers during this co-authorsh
 We'll plan the paper together, thinking about its contributions, how to present them, the intended structure of the paper, and how to present the results.
 I typically ask my PhD students to write the first draft of each section in the paper independently.
 
-For a 1st or 2nd year student, the writing process might be the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students, and ultimately by extensive editing and rewriting by me.
+For a first- or second-year student, the writing process might involve the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students and, ultimately, extensive editing and rewriting by me.
 For a 5th-year student, one is likely (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
 
 __Important note:__
