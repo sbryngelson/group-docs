@@ -21,6 +21,13 @@ This differs from how academics often work in our area, where one madly writes u
 __Everything must be done to the best of your ability 7 days before the deadline:__ the studies must be completed, the data analyzed, the findings solidified, the paper's message needs to exist, the figures made and polished and referenced appropriately in the text, equations described, and so on and on.
 Having a last minute writing/editing frenzy generates an anxiety and time commitment that I, for better or worse, cannot handle.
 
+__Missing the deadline:__ the students should follow the dealine imposed by themself.
+If you couldn't make the deadline for various reasons, you should at least let me know the current progress and update me (via email or slack) when the task could be done. 
+
+People do suffer from perfectionism. Keep in mind. The product you hand in doesn't have to be perfect. You can always make it better by changing some minor details. What's more important is to finish it. In fact, it is usually the case that more iterations between you and me make the final product in its best shape.
+
+In some rare situations, you might need to finish somthing in a few days. If that happens, communicate with me when you think it can be done. When planning it, please consider that I also need time to review it. Otherwise, we can not use it.
+
 ### Process: writing alone, better together
 
 Part of your development as a scholar is being able to plan, outline, and write an academic paper.
