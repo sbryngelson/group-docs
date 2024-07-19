@@ -12,28 +12,29 @@ There is no substitute for interactively thinking about your writing compared to
 
 ### Important: The "-X days" internal revision process and deadlines
 
-I have a "-X days" internal deadline for abstracts, presentations, and papers.
+I have an internal deadline of "-X days" for abstracts, presentations, and papers.
 Anything with a deadline must be in the best state you can create __X__ days beforehand, where __X__ is the 7 + the number of pages the document is.
-So, a 1 page abstract should be sent to me 8 days before it is due.
-A 10 page abstract with a formal deadline should be received by me 17 days before it is due.
+So, a 1-page abstract should be sent to me 8 days before it is due.
+A 10-page abstract with a formal deadline should be received by me 17 days before it is due.
 
 Most abstracts will have formal submission deadlines, so pay close attention to those and apply the -X rule.
 For conference presentations, send me your slides for revision at least _7 days before the conference starts_.
-If there isn't an official deadline (e.g., if we're submitting to a journal with rolling submissions), then no -X days rule applies and we just submit the work when it is ready.
+If there isn't an official deadline (e.g., if we're submitting to a journal with rolling submissions), then no -X days rule applies, and we just submit the work when it is ready.
 I may try to nudge you in one direction or another, but is informal.
 Note this differs from how some academics operate, madly writing up to the deadline.
 __I do not do this. It is too stressful, and I often have many other things going on. I will not review or submit your work if you, without warning, miss the above deadlines.__
 
 __Everything must be done to the best of your ability __-X__ days before the deadline:__
-The studies must be completed, the data analyzed, the findings solidified, the paper's message well crafted, the figures made and polished and referenced appropriately in the text, equations described, and so on and on.
+The studies must be completed, the data analyzed, the findings solidified, the paper's message well crafted, the figures made and polished and referenced appropriately in the text, the equations described, and so on and on.
 Please see the [formatting your work](formatting.md) document for how to get started in this direction.
 Having a last-minute writing/editing frenzy generates anxiety and a time commitment that I, for better or worse, cannot handle.
 
 The reason for this seemingly draconian policy is that carefully reviewing your manuscripts requires _a significant amount of my time_.
-This is OK, it is an important part of my job.
-Still, one set of whole-paper revisions/suggestions on, say, a 10 page manuscript, takes me about 6 hours.
-For your first paper (let's pretend it's 10 pages long) will go back and forth with me about 10 to 30 times.
-This is rather normal in academia, and will decrease as both the revisions for that document become more minor and sparse and as your first drafts become closer to publishable.
+This is OK.
+It is an important part of my job.
+Still, one set of whole-paper revisions/suggestions on, say, a 10-page manuscript takes me about 6 hours.
+For your first paper (let's pretend it is 10 pages long) will go back and forth with me about 10 to 30 times.
+This is normal in academia and will decrease as both the revisions for that document become more minor and sparse and as your first drafts become closer to publishable.
 
 __Missing deadlines:__
 When you say you will complete something I request, e.g., "I will send you the slides on Friday," I will expect them on Friday.
@@ -46,13 +47,13 @@ Then, let me know when I _can_ expect you to send it.
 If you are unsure when you will be able to send something from the outset, put appropriate bounds on it: "_I am very busy tomorrow and am not sure exactly how long this will take, but I should be able to send you something by Tuesday, and, at the very latest, by Friday_".
 If Friday is unworkable for me because of a separate deadline, I will let you know and work with you to get the thing done without putting extra pressure on you.
 
-Keep in mind that keeping me in the dark and/or missing self-imposed deadlines puts stress and anxiety on _both of us_.
-Even if you cannot deliver something as quickly as you wanted, stressing us out is much worse (I personally cannot handle extra anxiety, and I suspect some students cannot either).
+Keep in mind that keeping me in the dark and missing self-imposed deadlines puts stress and anxiety on _both of us_.
+Even if you cannot deliver something as quickly as you wanted, stressing us out is much worse (I cannot handle extra anxiety, and I suspect some students cannot either).
 
 Many folks are perfectionists.
-Keep in mind that the product you send me doesn't have to be perfect.
-You can always make it better by changing minor details and iterating back and forth with me.
-If you hold back your work from me, especially if it means missing a deadline, it gives me much less time to help you.
+Remember that the product you send me doesn't have to be perfect.
+You can always improve it by changing minor details and iterating back and forth with me.
+If you hold back your work from me, especially if it means missing a deadline, I will have much less time to help you.
 If you miss a deadline sufficiently, I will not have time to review your work and thus won't be able to use it.
 
 ### Process: writing alone, better together
@@ -68,8 +69,8 @@ For a first- or second-year student, the writing process might involve the stude
 For a 5th-year student, one is likely (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
 
 __Important note:__
-Use Overleaf when writing your journal and conference papers so we can readily collaborate on them.
-Overleaf has a feature that you can use to hook a local copy to the Overleaf one via `git` or GitHub.
+Use Overleaf when writing your journal and conference papers so we can collaborate readily.
+Overleaf has a feature that allows you to hook a local copy to the Overleaf one via `git` or GitHub.
 I use the raw `git` interface so I can use `vim` for my typing and compiling locally, then pushing changes to the document.
 This is particularly useful for generating the `.pdf` files for independent `tikz`/`pgfplots` figures.
 You get a free Overleaf Pro account with your `gatech.edu` email address.
@@ -82,15 +83,15 @@ Further, papers (and projects) often involve other collaborators, including facu
 Authorship order can become important, and the default expectation is that you will be listed as the first author for your "Ph.D. papers."
 However, there are often other considerations for authorship order and first-author choice (e.g., an undergraduate who contributed significantly; a Ph.D. student you collaborated with equally) where you may not be a first author even for work that contributes to your Ph.D.
 
-If you feel uncomfortable with an authorship order situation, please raise it with me as soon as possible.
+If you feel uncomfortable with authorship or ordering, please raise it with me immediately.
 Once a paper or abstract is accepted, authorship cannot changed.
-All authorship concerns should be resolved before submission, and preferably even as collaborations are budding.
+All authorship concerns should be resolved before submission, preferably even as collaborations are budding.
 
 ### Conference and Other Presentations
 
 With many of our papers submitted to highly peer-reviewed conferences, you can expect to be able to present your research in conferences (and similar settings), often to dozens, if not hundreds, of people.
 Later in your Ph.D., you will likely have other research presentations, including seminars and job talks.
-I will help you prepare for these talks, taking an iterative process that follows in many ways the paper-writing process outlined above: planning/outlining, drafts, and iterations.
+I will help you prepare for these talks, using an iterative process that, in many ways, follows the paper-writing process outlined above: planning/outlining, drafts, and iterations.
 You should expect more of this feedback and iteration earlier in your Ph.D.; it is common for students to give 3-5 practice versions of the talk before their public presentation, at least in their early years.
 
 I will also likely present your research in invited talks, lectures, and seminars.
