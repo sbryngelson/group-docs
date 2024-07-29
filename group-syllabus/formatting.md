@@ -138,7 +138,8 @@ Some examples and common errors:
 ### Referencing your bibliography
 
 Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the `elsarticle` class).
-I recommend the bibliography style file in the template at `templates/paper/model1-num-names.bst`.
+I recommend the bibliography style file in the template at `templates/paper/bibsty.bst`.
+This is all automatically taken care of if you use the paper template in this repository.
 This way, you will have access to text and parenthetical citations, which render as:
 > One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter’s accuracy depends on the parametric model’s quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
 via the code
