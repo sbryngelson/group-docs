@@ -1,4 +1,26 @@
-\documentclass[11pt,sort&compress]{elsarticle}
+\makeatletter
+  \long\def\pprintMaketitle{\clearpage
+  \iflongmktitle\if@twocolumn\let\columnwidth=\textwidth\fi\fi
+  \resetTitleCounters
+  \def\baselinestretch{1}%
+  \printFirstPageNotes
+  \begin{center}%
+ \thispagestyle{pprintTitle}%
+   \def\baselinestretch{1}%
+    {\large\bf\@title}\par\vskip5pt
+    \normalsize\elsauthors\par\vskip5pt
+    \footnotesize\itshape\elsaddress\par\vskip10pt
+    \end{center}%
+  \gdef\thefootnote{\arabic{footnote}}%
+  }
+\makeatother
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
 
 \journal{}
 \raggedbottom
@@ -11,7 +33,16 @@
 \usepackage{epsf}
 \usepackage{setspace}
 \usepackage{float}
-\usepackage[mediumspace,mediumqspace,squaren]{SIunits}
+\usepackage{abstract}
+
+\usepackage[]{siunitx}
+\sisetup{
+    separate-uncertainty = true,
+    print-unity-mantissa=false,
+    per-mode=symbol,
+    range-phrase = \text{--}
+}
+
 \usepackage{microtype}
 \usepackage[margin=1in]{geometry}
 
@@ -29,10 +60,11 @@
 
 \usepackage[labelfont=bf,font=small]{caption}
 
-\setlength{\parskip}{5pt}
-\setlength{\parindent}{0pt}
+\usepackage[nameinlink]{cleveref}
+\crefname{equation}{}{}
 
-\usepackage{cleveref}
-\usepackage{parskip}
+\usepackage[parfill]{parskip}
+
+\bibliographystyle{bibsty.bst}
 
 \newcommand{\spencer}[1]{\textcolor{seagreen}{[[Spencer says: #1]]}}

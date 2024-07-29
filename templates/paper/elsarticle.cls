@@ -203,7 +203,7 @@
 \gdef\emailauthor#1#2{\stepcounter{ead}%
      \g@addto@macro\@elseads{\raggedright%
       \let\corref\@gobble\def\@@tmp{#1}%
-      \eadsep{\ttfamily\expandafter\strip@prefix\meaning\@@tmp}
+      \eadsep{\color{gray}\ttfamily\expandafter\strip@prefix\meaning\@@tmp}
       (#2)\def\eadsep{\unskip,\space}}%
 }
 \gdef\@uad[#1]#2{\bgroup
@@ -273,7 +273,7 @@
 \def\address{\@ifnextchar[{\@@address}{\@address}}
 
 \def\@alph#1{%
-  \ifcase#1\or a\or b\or c\or d\or e\or f\or g\or h\or i\or j\or k\or
+  \ifcase#1\or 1\or 2\or 3\or 4\or 5\or f\or g\or h\or i\or j\or k\or
   l\or m\or n\or o\or p\or q\or r\or s\or t\or u\or v\or w\or x\or
   y\or z%
   \or aa\or ab\or ac\or ad\or ae\or af\or ag\or ah\or ai\or aj\or
@@ -298,6 +298,10 @@
   gk\or gl\or gm\or gn\or go\or gp\or gq\or gr\or gs\or gt\or gu\or
   gv\or gw\or gx\or gy\or gz%
   \else\@ctrerr\fi}
+  
+% \def\@mynums#1{%
+%   \ifcase#1\or 1\or 2\or 3\or 4\or 5\or 6%
+%   \else\@ctrerr\fi}
 
 \newcounter{affn}
 \renewcommand\theaffn{\alph{affn}}
@@ -306,22 +310,23 @@
     \def\baselinestretch{1}%
      \refstepcounter{affn}
      \xdef\@currentlabel{\theaffn}
-     \elsLabel{#1}%
-    \textsuperscript{\theaffn}#2\par}}
+     \upshape\elsLabel{#1}%
+    \textsuperscript{{\upshape\theaffn}}#2\par}}
 
 \long\def\@address#1{\g@addto@macro\elsauthors{%
     \def\baselinestretch{1}%
-    \addsep\footnotesize\itshape#1\def\addsep{\par\vskip6pt}%
+    \addsep\footnotesize#1\def\addsep{\par\vskip6pt}%
     \def\authorsep{\par\vskip8pt}}}
 
 \newbox\absbox
 \let\@elsarticleabstitle\@empty %*%
 \def\abstracttitle#1{\gdef\@elsarticleabstitle{#1}} %*%
 \abstracttitle{Abstract} %*%
+\def\abstractwidth{1in}
 \renewenvironment{abstract}{\global\setbox\absbox=\vbox\bgroup
-  \hsize=\textwidth\def\baselinestretch{1}%
-  \noindent\unskip\textbf{\@elsarticleabstitle} %*%
- \par\medskip\noindent\unskip\ignorespaces}
+  \def\baselinestretch{1}%
+  \unskip{\bf \@elsarticleabstitle} %*%
+  \par\medskip\unskip\ignorespaces}
  {\egroup}
 
 \newbox\keybox
@@ -359,8 +364,8 @@
   \ifx\@elseads\@empty\relax\else
    \let\thefootnote\relax
    \footnotetext{\ifnum\theead=1\relax
-      \textit{Email address:\space}\else
-      \textit{Email addresses:\space}\fi
+      Email:\space\else
+      Email:\space\fi
      \@elseads}\fi
   \ifx\@elsuads\@empty\relax\else
    \let\thefootnote\relax
@@ -394,16 +399,16 @@
     \ifdoubleblind
       \vspace*{2pc}
     \else
-      \normalsize\elsauthors\par\vskip10pt
-      \footnotesize\itshape\elsaddress\par\vskip12pt
+      \normalsize\elsauthors\par\vskip8pt
+      \footnotesize\elsaddress\par\vskip12pt
     \fi
     \ifx\@elsarticlenewpageafter\newpage@after@author% %*%
       \newpage
     \fi%
-    \hrule\vskip5pt
+    \vskip5pt
     \ifvoid\absbox\else\unvbox\absbox\par\vskip10pt\fi
     \ifvoid\keybox\else\unvbox\keybox\par\vskip10pt\fi
-    \hrule\vskip12pt
+    \vskip12pt
     \ifx\@elsarticlenewpageafter\newpage@after@abstract% %*%
       \newpage
     \fi%
@@ -438,7 +443,7 @@
     \vspace*{2pc}
   \else
     \normalsize\elsauthors\par\vskip10pt
-    \footnotesize\itshape\elsaddress\par\vskip36pt
+    \footnotesize\elsaddress\par\vskip36pt
   \fi
     \hrule\vskip12pt
     \ifvoid\absbox\else\unvbox\absbox\par\vskip10pt\fi
@@ -639,7 +644,7 @@
          }
        }%
      \let\@evenfoot\@oddfoot}
-\def\@seccntDot{.}
+\def\@seccntDot{}
 \def\@seccntformat#1{\csname the#1\endcsname\@seccntDot\hskip 0.5em}
 
 \renewcommand\section{\@startsection {section}{1}{\z@}%

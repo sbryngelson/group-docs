@@ -1,3 +1,5 @@
+\documentclass[11pt,sort&compress]{elsarticle}
+
 \input{preamble.tex}
 
 \begin{document}
@@ -13,26 +15,23 @@
 
 \title{{\large\bfseries This is an example document showing how to make a nice looking \\ paper with different \LaTeX commands and packages}}
 
-\author[1]{\vspace{-3ex}Your Name}
-\author[2]{Spencer H.\ Bryngelson}
+\author[1]{Your Name}
+\author[2,3]{Spencer H.\ Bryngelson}
 \ead{shb@gatech.edu}
 
-\address[1]{Some other School, Georgia Institute of Technology, Atlanta, GA 30332, USA}
-\address[2]{School of Computational Science \& Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA}
+\address[1]{Some other School, Georgia Institute of Technology, Atlanta, GA 30332, USA\vspace{-0.15cm}}
+\address[2]{Daniel Guggenheim School of Aerospace Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA\vspace{-0.15cm}}
+\address[3]{School of Computational Science \& Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA}
 
-\date{January 1, 2032}
+\date{}
+
+\end{frontmatter}
 
 \begin{abstract}
     This is an excerpt of a paper I published.
     Some parts were removed to make things cleaner.
     Use this as an example of formatting your papers and figures, and please realize that important parts of the arguments in this paper may be spuriously missing.
 \end{abstract}
-
-\begin{keyword}
-   Keywords; Here 
-\end{keyword}
-
-\end{frontmatter}
 
 \section{Introduction}
 
@@ -68,12 +67,12 @@ Given a set of linear microscopic equations,
     \cL c = s,
     \label{e:micro}
 \end{gather}
-and an averaging operator $(s, c) \mapsto (\bars, \barc)$, the macroscopic (averaged) operator $\cbL$ is defined to satisfy, for all microscopic solutions $c, s$ of \eqref{e:micro}, 
+and an averaging operator $(s, c) \mapsto (\bars, \barc)$, the macroscopic (averaged) operator $\cbL$ is defined to satisfy, for all microscopic solutions $c, s$ of \cref{e:micro}, 
 \begin{gather}
     \cbL \barc = \bars.
     \label{e:macro}
 \end{gather}
-Often, \eqref{e:micro} are advection-diffusion equations for scalar transport or linearizations of nonlinear PDEs such as Navier--Stokes equations, so the averaging operation can be written as 
+Often, \cref{e:micro} are advection-diffusion equations for scalar transport or linearizations of nonlinear PDEs such as Navier--Stokes equations, so the averaging operation can be written as 
 \begin{gather}
     \bars = \frac{1}{L_2 \cdots L_{N_d}}\int_{\Omega_{2}} \cdots \int_{\Omega_{N_d}} s(x_1, \ldots x_{N_d}) \, \dd x_2 \cdots \dd x_{N_d},
 \end{gather}
@@ -82,7 +81,7 @@ where
     \Omega = \Omega_{1} \times \Omega_{2} \times \cdots \times \Omega_{N_d}
 \end{gather}
 is the physical (possibly spatio-temporal) domain and $L_i$ are the lengths in each coordinate direction $x_i$, $i \in \{1,\dots,N_d\}$.
-In this example, the averaged \eqref{e:macro} is a univariate problem in the non-averaged coordinate $x_1$. 
+In this example, the averaged \cref{e:macro} is a univariate problem in the non-averaged coordinate $x_1$. 
 However, we point out that the techniques outlined in this work apply to a wider range of possible averaging operations.
 
 \begin{figure}[H]
@@ -100,8 +99,8 @@ They infer this operator by generating solution pairs to $\cbL \barc = \bars$, o
 \Cref{f:overview} show an example MFM procedure schematically for a two-dimensional problem with coordinate directions $x_1$ and $x_2$.
 The relevant averaging direction is $x_2$, with averaged ``strips'' indicating averaging.
 This solution is forced by a field $s(x_1,x_2)$ as a Dirac delta function  at a specific $x_1$ coordinate equivalent to its averaged field $\bars(x_1)$.
-The inverse solution operator $\cL^{-1}$ solves the problem \eqref{e:micro} for $c(x_1,x_2)$ given $\bars(x_1)$.
-This is computationally equivalent to solving the full-resolution system \eqref{e:micro} or DNS.
+The inverse solution operator $\cL^{-1}$ solves the problem \cref{e:micro} for $c(x_1,x_2)$ given $\bars(x_1)$.
+This is computationally equivalent to solving the full-resolution system \cref{e:micro} or DNS.
 The averaged solution field $\barc(x_1)$ corresponds to a column (``recover a column'') of a macroscopic solution operator $\cbL^{-1}$ under this averaging scheme.
 This procedure is repeated for all non-averaged degrees of freedom.
 
@@ -271,7 +270,7 @@ We thus recover the Reynolds stresses as a function of $x_2$. The generalized ed
     \int_{\by} \cD^{(\beta\gamma)} (\bx,\by)
     \frac{ \partial \bar{u}_1}{\partial x_2} {\bigg|}_{\by} \dd \by
 \end{gather}
-where $\cD^{\beta\gamma}$ in our notation represents $\cD_{\beta\gamma21}$ in traditional notation for the eddy viscosity tensor \cite{hamba2005nonlocal}.
+where $\cD^{\beta\gamma}$ in our notation represents $\cD_{\beta\gamma21}$ in traditional notation for the eddy viscosity tensor~\cite{hamba2005nonlocal}.
 
 \begin{figure}
     \centering
@@ -319,14 +318,14 @@ It is a stepping stone toward the long-term goal of sample-efficient recovery of
 
 \section*{Acknowledgements}
 
-This work used Bridges2 at the Pittsburgh Supercomputing Center through allocation TG-PHY210084 (PI Spencer Bryngelson) from the Advanced Cyberinfrastructure Coordination Ecosystem: Services \& Support (ACCESS) program, which is supported by National Science Foundation grants \#2138259, \#2138286, \#2138307, \#2137603, and \#2138296.
-SHB also acknowledges the resources of the Oak Ridge Leadership Computing Facility at the Oak Ridge National Laboratory, which is supported by the Office of Science of the U.S.\ Department of Energy under Contract No.\ DE-AC05-00OR22725. 
-SHB acknowledges support from the Office of the Naval Research under grant N00014-22-1-2519 (PM Dr.\ Julie Young).
-FS gratefully acknowledges support from the Office of Naval Research under grant N00014-23-1-2545 (PM Dr.\ Reza Malek-Madani).
+This work used Bridges2 at the Pittsburgh Supercomputing Center and Delta at the National Center for Supercomputing Applications through allocation TG-PHY210084 (PI~ Spencer~Bryngelson) from the Advanced Cyberinfrastructure Coordination Ecosystem: Services \& Support (ACCESS) program, which is supported by National Science Foundation grants \#2138259, \#2138286, \#2138307, \#2137603, and \#2138296.
+SHB also acknowledges the resources of the Oak Ridge Leadership Computing Facility at the Oak Ridge National Laboratory, which is supported by the Office of Science of the U.S.\ Department of Energy under Contract No.~ DE-AC05-00OR22725. 
+SHB acknowledges support from the Office of the Naval Research under grant N00014-22-1-2519 (PM~Dr.~Julie~Young).
+FS gratefully acknowledges support from the Office of Naval Research under grant N00014-23-1-2545 (PM~Dr.~Reza~Malek-Madani).
 JL was supported by the Boeing Company. 
 AM was supported by the Office of Naval Research under grant N00013-20-1-2718. 
-The authors gratefully acknowledge Danah Park for providing the DNS and MFM data of the turbulent channel flow simulations and Dana Lavacot for fruitful discussions.
+The authors gratefully acknowledge Danah~Park for providing the DNS and MFM data of the turbulent channel flow simulations and Dana~Lavacot for fruitful discussions.
 
-\bibliographystyle{model1-num-names}
+
 \bibliography{main.bib}
 \end{document}
