@@ -26,15 +26,21 @@ From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plo
 ### Preamble and packages
 
 Always structure your document so that the preamble is separate from the main text (two separate files).
-You can connect them by placing `\input{preamble.tex}` at the top of your main text file `main.tex`.
+You can connect them by placing `\input{preamble.tex}` at the top of your main text file `main.tex`, right after the
+```latex
+\documentclass[11pt,sort&compress]{elsarticle}
+```
+clause.
 
-In the preamble file you should include some packages.
+In the preamble file, you should include some packages.
 [Here](../templates/paper/preamble.tex) are some examples.
 Please look them up to see what they do.
 
 For `elsarticle` class files (mine is included [here](../templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
 
 ```tex
+\documentclass[11pt,sort&compress]{elsarticle}
+
 \input{preamble.tex}
 
 \begin{document}
@@ -56,18 +62,20 @@ My preference is
 ```tex
 \usepackage{siunitx}
 ```
-If you do not use a package, your spacing and characters are likely to be inconsistent and incorrect.
+If you do not use a LaTeX package your spacing and characters will likely be inconsistent and incorrect.
+Your source code will also be very verbose and hard to read.
 Use proper package options:
 
 ```tex
-\sisetup{print-unity-mantissa=false,per-mode=symbol,range-phrase = \text{--}}
+\sisetup{separate-uncertainty = true,print-unity-mantissa=false,per-mode=symbol,range-phrase = \text{--}}
 ```
-which configures the siunitx package to display units with division `m/s` using the slash symbol (/) instead of the reciprocal form `m s^{-1}`.
+which configures the `siunitx` package to display units with division `m/s` using the slash symbol (/) instead of the reciprocal form `m s^{-1}`, amongst other things.
+See the template preamble for its use.
 
 ### Math symbols
 
 Always use consistent math symbols.
-I usually put all of these in a single file that in invoked in the TeX preamble via
+I usually put all of these in a single file that is invoked in the LaTeX preamble via
 ```tex
 \input{mathsymbols.tex}
 ```
@@ -82,7 +90,7 @@ Common errors
 * Dimensionless symbols like the Reynolds number __should not__ be italic, but upright.
     * Like this $\mathrm{Re}$
     * Not like this $Re$
-* Super and subscripts that denote text should not be in math/italic symbols, but rather upright normal text. 
+* Super and subscripts that denote text __should not__ be in math/italic symbols but rather upright normal text. 
     * Like this: $c_{\mathrm{Temp.}}$ or $\mathbf{A}_{\mathrm{Fast}}$
     * This is also OK: $c^{\mathrm{(Temp.)}}$ or $\mathbf{A}^{\mathrm{(Fast)}}$
     * But not like this: $c_{Temp}$ or $\mathbf{A}_{Fast}$
@@ -95,8 +103,9 @@ Common errors
 
 ### Scientific notation and large/small numbers
 
-__Rule:__ Never use the notation $1e-5$, $1e+05$, or the like in any paper, presentation, or figure.
-Always use $1 \times 10^{-5}$.
+__Rule:__ Never use the notation $4e-5$, $4e+05$, or the like in any paper, presentation, or figure.
+Always use $4 \times 10^{-5}$.
+If units are involved, use `siunitx` and the options listed in the paper template `preamble.tex`.
 
 ### Bibliography
 
@@ -124,7 +133,7 @@ Some examples and common errors:
     title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
     ```
 
-* Book titles will usually be capitalized as you enter them verbatim (capitalization and all) in the `.bib` file. So, be consistent when citing book titles!
+* Book titles are usually capitalized as you enter them verbatim (capitalization and all) in the `.bib` file. So, be consistent when citing book titles!
     * Like this:
         * M. A. Nielsen and I. L. Chuang, _Quantum Computation and Quantum Information_ (Cambridge University Press, 2000)
         * T. Kruger, H. Kusumaatmaja, A. Kuzmin, O. Shardt, G. Silva, and E. Viggen, _The Lattice Boltzmann Method: Principles and Practice_ (Springer International Publishing, 2016)
@@ -139,7 +148,7 @@ Some examples and common errors:
 
 Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the `elsarticle` class).
 I recommend the bibliography style file in the template at `templates/paper/bibsty.bst`.
-This is all automatically taken care of if you use the paper template in this repository.
+This is automatically handled if you use the paper template in this repository.
 This way, you will have access to text and parenthetical citations, which render as:
 > One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter’s accuracy depends on the parametric model’s quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
 via the code
@@ -181,11 +190,11 @@ We generally want our references at the end of sentences unless they are part of
 
 * Use `bibstyle` to remove unneeded elements from your bibliography entries
     * In particular, I use the command `bibtex-tidy --omit=date-added,date-modified,month,doi --curly --numeric --align=13 --sort=title --duplicates=key,citation --no-escape --sort-fields --trailing-commas --no-remove-dupe-fields test.bib`
-    * You can see in the above that it removes certain entries, sorts the document, checks for duplicates, and so on.
+    * You can see above that it removes certain entries, sorts the document, checks for duplicates, etc.
     * It does this on `test.bib` in the above call. You will want to do it on whatever the `bibtool` output file is.
 
 * Bibliography style file (`.bst`) 
-    * Unless the journal or conference you are submitting to insists otherwise, use the style file [here](../templates/paper/model1-num-names.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (which are invoked via `\citet{}` as above).
+    * Unless the journal or conference you submit to insists otherwise, use the style file [here](../templates/paper/bibsty.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (invoked via `\citet{}` as above).
 
 ### Colors
 
@@ -224,19 +233,20 @@ To keep things consistent, I recommend using the `cleveref` package
 ```
 which is invoked for figures, tables, and sections via the commands `\Cref{}` and `\cref{}`, using the former if the reference is at the beginning of a sentence.
 Figures, tables, and sections are always treated as nouns.
+Check out the paper template in this repository for its use in the `preamble.tex` file.
 
 #### Equations
 
-First labeling them appropriately as
+First, labeling them appropriately as
 ```tex
 \begin{gather}
     Ax=b
     \label{e:lineareqn}
 \end{gather}
 ```
-and then reference then via the command `\eqref{e:lineareqn}`.
+and then reference then via `cleveref`! As `\cref{e:lineareqn}`.
 
-Treat your equations as nouns and never use the abbreviation "eqn." before it.
+Treat your equations as nouns, and never use the abbreviation "eqn." before it.
 * Like this: `The algorithm follows from reducing \eqref{e:someqn} to a first-order system.`
     * Which renders as: 
     > The algorithm follows from reducing (1) to a first-order system.
@@ -246,7 +256,7 @@ Treat your equations as nouns and never use the abbreviation "eqn." before it.
 ### "Dashes"
 
 Learn the difference between the hyphen (`-` in LaTeX), the en dash (`--` in LaTeX), and the em dash (`---` in LaTeX).
-This is easily Google-able, here are some references:
+This is easily Google-able. Here are some references:
 * https://grammarist.com/usage/hyphen-en-dash-or-em-dash/
 * https://www.grammarly.com/blog/hyphens-and-dashes/
 * https://editorninja.com/hyphen-vs-en-dash-vs-em-dash/
@@ -259,7 +269,7 @@ Some correct examples
     * Separating two things that are different, like "Runge--Kutta" time stepping
     * Ranges, like "Steps 5--8 are unnecessary for algorithm X".
 * Em dash
-    * For use to put a parenthetical in a sentence, like "I went to the grocery store---one that was extremely far away---and picked up cooking supplies."
-        * I recommend avoiding use of the em dash.
+    * For putting a parenthetical in a sentence, like "I went to the grocery store---one that was extremely far away---and picked up cooking supplies."
+        * I recommend avoiding the use of the em dash.
 
 
