@@ -89,3 +89,22 @@
           * gold, `gold.erdc.hpc.mil`
           * viportal
     * [Docs available here](https://centers.hpc.mil/users/docs/index.html#general)
+
+ * LLNL Oslic/Tioga/Lassen/etc.
+    * Anyone working on a specific LLNL project can use [LLNL CZ](https://lc.llnl.gov/) (non-restricted) resources
+    * Talk to Spencer about getting access to CZ (collaboration zone) if you are working on a LLNL project
+    * "Rules": Usually not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
+    * Login process (Lawrence Livermore National Lab-specific)
+        * Onto LC-idm
+            * URL: `ic-idm.llnl.gov`
+            * Passcode: `[PIN] + [rsa one time password]`
+            * Can use to view user profile and request roles (ask for resources on specific machines)
+        * Onto the LC
+            * URL: `lc.llnl.gov`
+            * Passcode: `[PIN] + [rsa one time password]`
+            * Requires three logins to fully log in
+            * Can use to access collaboration tools such as Confluence and Gitlab, user documentation, and MyLC for alerts, machine status, and job status
+        * Onto a computer remotely
+            * Can do the below with ssh (using my example username, `[usrname]`, for a specific llnl machine, `[llnlmachine]`)
+                * `ssh [usrname]@[llnlmachine].llnl.gov`
+                * Passcode: `[PIN] + [rsa one time password]`
