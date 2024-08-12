@@ -91,6 +91,8 @@ Place your sub-figure labels (e.g., (a) and (b)) in a place that is not too obtr
 Do not put the sub-figure captions directly below the sub-figures if you have no "real" caption (e.g., you are just labeling them (a) or (b), etc.); in this case, instead put them in one of the corners per above.
 See the examples [here](../templates/paper/figures) for reference.
 
+Place a space between your sub-figure labels (e.g., (a, b) instead of (a,b)).
+
 ### Title
 
 Your figures should not have titles.
