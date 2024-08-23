@@ -2,9 +2,10 @@
 
 * GT PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
+    * Login via `ssh <GTusername>@login-phoenix-rh9.pace.gatech.edu` to get the RHEL9 nodes
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware. 
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.
-    * Get access by: Letting Spencer know, and he will fill out [this form](https://gatech.service-now.com/home?id=sc_cat_item&sys_id=61bc5e351b37f994a8622f4b234bcbf0) to get you access.
+    * Get access by ltting Spencer know, and he will fill out [this form](https://gatech.service-now.com/home?id=sc_cat_item&sys_id=61bc5e351b37f994a8622f4b234bcbf0) to get you access.
  
 * GT ICE
   * [Resources/User guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095) (click `Available Resources`, e.g.)
@@ -28,7 +29,7 @@
 * ACCESS-CI computers
     * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs) at the time of writing, but can change to others as needed.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
-    * "Rules": Be mindful of node hours available. Queue times might be long.
+    * "Rules": Be mindful of the node hours that are available. Queue times might be long.
     * Our account number: `PHY210084`
     * Get access by
         * Creating an account [here](https://identity.access-ci.org/new-user.html)
@@ -37,7 +38,7 @@
       * The account name is `bbsc-delta-gpu` for GPU resources
       * The account name is `bbsc-delta-cpu` for CPU resources
 
-* OLCF Frontier/Wombat/Andes/etc.
+* Oak Ridge National Lab OLCF: Frontier/Wombat/Andes/etc.
     * Purpose
         * Frontier: Very large-scale GPU simulation on AMD MI250X GPUs.
         * Wombat: Testbed for next-gen HPC platforms, including ARM nodes and soon next-generation NVIDIA nodes (GraceHopper).
@@ -48,9 +49,9 @@
         * Create an account by following [these instructions](https://docs.olcf.ornl.gov/accounts/accounts_and_projects.html#applying-for-a-user-account)
         * The account/allocation number is `CFD154`.
 
-* Department of Energy (e.g., Sandia National Lab, "Tri-labs")
+* Sandia National Lab (SNL)
     * Purpose: Resources for DOE-sponsored/funded research projects are only available to those students working on these projects. You will only have access to non-restricted resources.
-    * "Rules": Usually not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
+    * "Rules": Usually, there are not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
     * Login process (Sandia National Lab-specific)
         * Onto the DaaS
             * VMware Horizon ([download online](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_horizon_clients/horizon_8))
@@ -73,24 +74,7 @@
                 * Password is (usually) the Kerberos one
                 * If it asks for token OTP (e.g., on Weaver) then this is `[PIN] + [yubikey1timepassword]`
 
-* Department of Defense
-    * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
-    * The process of getting permissions to the non-restricted systems is a bit tedious, but usually worth it
-    * See [here](https://centers.hpc.mil/) for information on the available supercomputers
-        * In particular, it's useful to keep an eye on [upcoming systems](https://centers.hpc.mil/systems/hardware.html#upcoming)
-        * Current unclassified systems are [here](https://centers.hpc.mil/systems/unclassified.html)
-    * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
-    * Subproject: `ONRDC51242690`, Group: `5124D690`
-       * Site: `NAVY`
-          * nautilus, `nautilus.navydsrc.hpc.mi`
-          * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
-          * stportal
-       * Site: `ERDC`
-          * gold, `gold.erdc.hpc.mil`
-          * viportal
-    * [Docs available here](https://centers.hpc.mil/users/docs/index.html#general)
-
- * LLNL Oslic/Tioga/Lassen/etc.
+ * LLNL Livermore Computing: Lassen, Tioga, etc.
     * Anyone working on a specific LLNL project can use [LLNL CZ](https://lc.llnl.gov/) (non-restricted) resources
     * Talk to Spencer about getting access to CZ (collaboration zone) if you are working on a LLNL project
     * "Rules": Usually not many rules aside from the very many that they will impute onto you as you acquire access to these machines.
@@ -108,3 +92,22 @@
             * Can do the below with ssh (using my example username, `[usrname]`, for a specific llnl machine, `[llnlmachine]`)
                 * `ssh [usrname]@[llnlmachine].llnl.gov`
                 * Passcode: `[PIN] + [rsa one time password]`
+
+* Department of Defense
+    * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
+    * The process of getting permissions to the non-restricted systems is a bit tedious, but usually worth it
+    * See [here](https://centers.hpc.mil/) for information on the available supercomputers
+        * In particular, it's useful to keep an eye on [upcoming systems](https://centers.hpc.mil/systems/hardware.html#upcoming)
+        * Current unclassified systems are [here](https://centers.hpc.mil/systems/unclassified.html)
+    * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
+    * Subproject: `ONRDC51242690`, Group: `5124D690`
+       * Site: `NAVY`
+          * nautilus, `nautilus.navydsrc.hpc.mi`
+          * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
+          * stportal
+       * Site: `ERDC`
+          * gold, `gold.erdc.hpc.mil`
+          * viportal
+    * [Docs available here](https://centers.hpc.mil/users/docs/index.html#general)
+
+
