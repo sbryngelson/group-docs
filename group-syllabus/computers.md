@@ -4,7 +4,7 @@
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware. 
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.
-    * Get access by: emailing [pace-support@oit.gatech.edu](mailto:pace-support@oit.gatech.edu) requesting access under project `p-sbryngelson3` with PI Spencer Bryngelson. They will send me an email to confirm your membership.
+    * Get access by: Letting Spencer know, and he will fill out [this form](https://gatech.service-now.com/home?id=sc_cat_item&sys_id=61bc5e351b37f994a8622f4b234bcbf0) to get you access.
  
 * GT ICE
   * [Resources/User guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095) (click `Available Resources`, e.g.)
