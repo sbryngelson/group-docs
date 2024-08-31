@@ -43,7 +43,16 @@
     range-phrase = \text{--}
 }
 
-\usepackage{microtype}
+\usepackage[
+    protrusion=true,
+    activate={true,nocompatibility},
+    final,
+    tracking=true,
+    kerning=true,
+    spacing=true,
+    factor=1100]{microtype}
+\SetTracking{encoding={*}, shape=sc}{40}
+
 \usepackage[margin=1in]{geometry}
 
 \usepackage{stmaryrd}
