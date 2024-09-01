@@ -95,12 +95,12 @@
 
 * Department of Defense
     * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
-    * The process of getting permissions to the non-restricted systems is a bit tedious, but usually worth it
+    * The process of getting permissions to the non-restricted systems is a bit tedious but usually worth it
     * See [here](https://centers.hpc.mil/) for information on the available supercomputers
         * In particular, it's useful to keep an eye on [upcoming systems](https://centers.hpc.mil/systems/hardware.html#upcoming)
         * Current unclassified systems are [here](https://centers.hpc.mil/systems/unclassified.html)
     * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
-    * Subproject: `ONRDC51242690`, Group: `5124D690`
+    * Subproject: `ONRDC51242690`, Group: `5124D690`, Project: `5124`
        * Site: `NAVY`
           * nautilus, `nautilus.navydsrc.hpc.mi`
           * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
