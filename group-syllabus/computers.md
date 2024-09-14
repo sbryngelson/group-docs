@@ -27,10 +27,10 @@
     * Get access by emailing [Will Powell](mailto:will.powell@cc.gatech.edu), cc me.
 
 * ACCESS-CI computers
-    * These are a set of university supercomputers, listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. We have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs) at the time of writing, but can change to others as needed.
+    * These are a set of university supercomputers listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. At the time of writing, we have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs), but we can change to others as needed. We primarily use NCSA Delta.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
     * "Rules": Be mindful of the node hours that are available. Queue times might be long.
-    * Our account number: `PHY210084`
+    * Our account number: `PHY240200`
     * Get access by
         * Creating an account [here](https://identity.access-ci.org/new-user.html)
         * Then, message Spencer on Slack with your username
@@ -89,7 +89,7 @@
             * Requires three logins to fully log in
             * Can use to access collaboration tools such as Confluence and Gitlab, user documentation, and MyLC for alerts, machine status, and job status
         * Onto a computer remotely
-            * Can do the below with ssh (using my example username, `[usrname]`, for a specific llnl machine, `[llnlmachine]`)
+            * Can do the below with ssh (using my example username, `[usrname]`, for a specific LLNL machine, `[llnlmachine]`)
                 * `ssh [usrname]@[llnlmachine].llnl.gov`
                 * Passcode: `[PIN] + [rsa one time password]`
 
@@ -102,12 +102,10 @@
     * Talk to Spencer about getting access to a DOD machine if you are working on a DOD project
     * Subproject: `ONRDC51242690`, Group: `5124D690`, Project: `5124`
        * Site: `NAVY`
-          * nautilus, `nautilus.navydsrc.hpc.mi`
-          * st-vsm1, `st-vsm1.navydsrc.hpc.mil`
-          * stportal
+          * nautilus 
+          * narwhal
        * Site: `ERDC`
-          * gold, `gold.erdc.hpc.mil`
-          * viportal
+          * carpenter
     * [Docs available here](https://centers.hpc.mil/users/docs/index.html#general)
 
 
