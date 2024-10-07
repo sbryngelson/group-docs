@@ -17,7 +17,7 @@ Only a few opportunities exist to side-step this.
 Giving conference and invited talks communicates your research without paper-in-hand.
 However, this format is ephemeral.
 Anyone interested in your talks can find your papers to understand your contributions without time constraints.
-It is also two-way coupled: you likely will only find yourself invited to give talks with the presumption of good papers behind them.
+It is also two-way coupled: you will likely only be invited to give talks with the presumption of good papers behind them.
 
 Careful writing also begets careful thinking (and vice-versa).
 That is, forcing yourself to clarify and organize your work will bring problems in your thinking to light.
@@ -63,7 +63,7 @@ Changing technical terms mid-way through a paper in the name of style will confu
 If your domain is a cylinder, don't switch to "tube" at any point.
 If you call your model a "physical model," do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
-Dont't use software-specific nomenclature. This confuses readers if they haven't used the software, and they may not plan to use it.
+Don't use software-specific nomenclature. This confuses readers if they haven't used the software, and they may not plan to use it.
 
 ### Concise writing
 
@@ -75,7 +75,7 @@ You can consult replacement lists for common mistakes:
 * [Wordiness, Wordiness, Wordiness List](https://web.uvic.ca/~gkblank/wordiness.html)
 * [50 Plain-Language Substitutions for Wordy Phrases](https://www.dailywritingtips.com/50-plain-language-substitutions-for-wordy-phrases/)
 
-These lists are a way of realizing, "Hey, I write wordy phrases like this all the time!".
+These lists help me realize, "Hey, I write wordy phrases like this all the time!"
 Use the lists to learn the general ways one ends up with low information-density writing.
 You can then identify similar phrases in your writing.
 Often, eliminating them is relatively easy, but noticing them is (at first).
@@ -90,13 +90,13 @@ Other tips of this type are available at these links:
 
 ### What goes where
 
-__Always__ have a narrative first figure that demonstrates what you are doing and "tells the overall story."
+__Always__ have a narrative first figure demonstrating what you are doing and "telling the overall story."
 Take time to make this figure as attractive as possible.
 It is one of the first things your readers will see!
-See, for example, the first figure in my paper "Fast Macroscopic Forcing Method."
+See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method."
 
 * Abstract 
-    * Include a full, self-contained, mini-version of your paper. This includes an introduction to the method you use, quantitative measures of your results, and your final conclusion and takeaways.
+    * Include a full, self-contained mini-version of your paper. This includes an introduction to your method, quantitative measures of your results, and conclusion and takeaways.
 * Introduction (in this order)
     * What is your work?
     * Why are you doing it?
@@ -105,7 +105,7 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method.
     * What key contributions will you add? (without full detail)
     * What does the rest of the manuscript contain?
 * Acknowledgments 
-    * Always have an unnumbered acknowledgement section before the references but after the discussion/conclusions. This is where we acknowledge funders and those that have helped with the work but are not authors.
+    * We always have an unnumbered acknowledgement section before the references but after the discussion/conclusions. This is where we acknowledge funders and those who have helped with the work but are not authors.
 * Future work 
     * I recommend not including a future work section in your papers or presentations
 
@@ -127,7 +127,7 @@ See, for example, the first figure in my paper "Fast Macroscopic Forcing Method.
 
 #### From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing)
 
-* Use the "show don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
+* Use the "show, don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
 
 * Don't bury the lede. When journalists write articles, they usually put the crucial information in the 'lede' opening paragraph. Hiding big news later in the piece is known as "burying the lede". This idiom forms part of the inverted pyramid approach to writing: put the most important information first in an article or section, then fill out the details.
 
