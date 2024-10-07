@@ -20,7 +20,7 @@ A 10-page abstract with a formal deadline should be received by me 17 days befor
 Most abstracts will have formal submission deadlines, so pay close attention to those and apply the -X rule.
 For conference presentations, send me your slides for revision at least _7 days before the conference starts_.
 If there isn't an official deadline (e.g., if we're submitting to a journal with rolling submissions), then no -X days rule applies, and we just submit the work when it is ready.
-I may try to nudge you in one direction or another, but is informal.
+I may try to nudge you in one direction or another, but it is informal.
 Note this differs from how some academics operate, madly writing up to the deadline.
 __I do not do this. It is too stressful, and I often have many other things going on. I will not review or submit your work if you, without warning, miss the above deadlines.__
 
@@ -29,16 +29,16 @@ The studies must be completed, the data analyzed, the findings solidified, the p
 Please see the [formatting your work](formatting.md) document for how to get started in this direction.
 Having a last-minute writing/editing frenzy generates anxiety and a time commitment that I, for better or worse, cannot handle.
 
-The reason for this seemingly draconian policy is that carefully reviewing your manuscripts requires _a significant amount of my time_.
+This seemingly draconian policy is based on the fact that carefully reviewing your manuscripts requires a significant amount of my time.
 This is OK.
 It is an important part of my job.
-Still, one set of whole-paper revisions/suggestions on, say, a 10-page manuscript takes me about 6 hours.
+Still, it takes me about 6 hours to complete one set of whole-paper revisions/suggestions on a 10-page manuscript, for example.
 For your first paper (let's pretend it is 10 pages long) will go back and forth with me about 10 to 30 times.
-This is normal in academia and will decrease as both the revisions for that document become more minor and sparse and as your first drafts become closer to publishable.
+This is normal in academia and will decrease as the revisions for that document become more minor and sparse, and your first drafts become closer to publishable.
 
 __Missing deadlines:__
-When you say you will complete something I request, e.g., "I will send you the slides on Friday," I will expect them on Friday.
-Sometimes, the day you send me something is very important, and current or future grants/papers/etc. could hinge on it.
+When you say you will complete something I request, e.g., "I will send you the slides on Friday," I expect them on Friday.
+Sometimes, the day you send me something is very important, including current or future grants/papers, etc. could hinge on it.
 It will often appear unclear to you if what I asked for is critically important or not a big deal.
 That said, we all regularly underestimate how long something will take, and being perfectly adjusted to how long it will take you to do something is impossible.
 
@@ -91,7 +91,7 @@ All authorship concerns should be resolved before submission, preferably even as
 
 With many of our papers submitted to highly peer-reviewed conferences, you can expect to be able to present your research in conferences (and similar settings), often to dozens, if not hundreds, of people.
 Later in your Ph.D., you will likely have other research presentations, including seminars and job talks.
-I will help you prepare for these talks, using an iterative process that, in many ways, follows the paper-writing process outlined above: planning/outlining, drafts, and iterations.
+I will help you prepare for these talks using an iterative process that, in many ways, follows the paper-writing process outlined above: planning/outlining, drafts, and iterations.
 You should expect more of this feedback and iteration earlier in your Ph.D.; it is common for students to give 3-5 practice versions of the talk before their public presentation, at least in their early years.
 
 I will also likely present your research in invited talks, lectures, and seminars.
