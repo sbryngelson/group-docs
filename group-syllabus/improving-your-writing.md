@@ -8,7 +8,7 @@ Many students have trouble producing scientifically acceptable writing without s
 (I use "scientifically acceptable" as a suitcase word for whatever seasoned academics find appropriate in journal papers.) 
 Perhaps this isn't surprising; students do not formally learn how to do this.
 
-This is juxtaposed with just how important your writing is.
+This difficulty is juxtaposed with just how important your writing is.
 You likely will only remember some details of your past research projects.
 Instead, you'll be able to use your papers as references.
 Other scientists won't see your research notes (nor would you want them to) or know the details of your academic past.
@@ -29,7 +29,7 @@ For the above reasons, high-quality scientific writing is often expected from st
 I invite you to use this document to bootstrap your way to scientifically-acceptable technical writing.
 
 From a now-deleted StackExchange post on "pet peeves in academic writing":
-> Ernest Hemingway wrote that "the only kind of writing is rewriting." E. B. White wrote essentially the same thing: "The best writing is rewriting."
+> Ernest Hemingway wrote, "the only kind of writing is rewriting." E. B. White wrote essentially the same thing: "The best writing is rewriting."
 > 
 > I have plenty of pet peeves about academic writing, but they all seem to have the same cause: that the author apparently didn't care about writing well.
 > 
@@ -41,7 +41,7 @@ Also see: [Does writing matter a lot in research?](https://academia.stackexchang
 
 Several of these exist.
 I use [Grammarly](https://www.grammarly.com/).
-It offers are free tier and a trial of the "pro" service at the time of writing.
+It offers a free tier and a trial of the "pro" service at the time of writing.
 I purchased the full Grammarly and do not regret the purchase.
 
 These tools can check for simple things, like improper spelling and grammar. 
@@ -63,7 +63,8 @@ Changing technical terms mid-way through a paper in the name of style will confu
 If your domain is a cylinder, don't switch to "tube" at any point.
 If you call your model a "physical model," do not switch to calling it a "numerical model" (with the additional problem that these two things aren't the same, anyway).
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
-Don't use software-specific nomenclature. This confuses readers if they haven't used the software, and they may not plan to use it.
+Don't use software-specific nomenclature.
+This confuses readers if they haven't used the software, and they may not plan to use it.
 
 ### Concise writing
 
@@ -96,7 +97,7 @@ It is one of the first things your readers will see!
 See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method."
 
 * Abstract 
-    * Include a full, self-contained mini-version of your paper. This includes an introduction to your method, quantitative measures of your results, and conclusion and takeaways.
+    * Include a full, self-contained mini-version of your paper, including an introduction to your method, quantitative measures of your results, and conclusion and takeaways.
 * Introduction (in this order)
     * What is your work?
     * Why are you doing it?
@@ -105,7 +106,7 @@ See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method
     * What key contributions will you add? (without full detail)
     * What does the rest of the manuscript contain?
 * Acknowledgments 
-    * We always have an unnumbered acknowledgement section before the references but after the discussion/conclusions. This is where we acknowledge funders and those who have helped with the work but are not authors.
+    * We always have an unnumbered acknowledgment section before the references but after the discussion/conclusions. This is where we acknowledge funders and those who have helped with the work but are not authors.
 * Future work 
     * I recommend not including a future work section in your papers or presentations
 
@@ -119,41 +120,41 @@ See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method
 * Be concise. Avoid phrases like "by means of, despite the fact that, in order to".
 * Avoid negatives. For example, use "unable" instead of "not able".
 * Avoid redundancy. For example, use "investigate" instead of "conduct an investigation of".
-* Use active voice. Although not always possible, most of the text should be in active voice.
+* Use active voice. Although not always possible, most text should be in an active voice.
 * Avoid inappropriate language. Keep words like "really, actually, pretty much" for social networks.
 * Avoid rare words and latinisms. Non credo all readers know the meaning.
-* Keep abbreviations to minimum. Abbreviations are hard to read, consider just spelling it out.
-* Beware of zombie nouns. Utilization of nominalization is causation of distraction.
+* Keep abbreviations to a minimum. Abbreviations are hard to read, consider just spelling it out.
+* Beware of zombie nouns. Utilization of nominalization is the causation of distraction.
 
 #### From [some tips for scientific writing](https://kucharski.substack.com/p/some-tips-for-scientific-writing)
 
-* Use the "show, don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass".
+* Use the "show, don't tell" technique. If something is interesting or surprising, the reader should be interested or surprised by what they've read. They shouldn't need to be told. Anton Chekhov reportedly said: "Don't tell me the moon is shining; show me the glint of light on broken glass."
 
-* Don't bury the lede. When journalists write articles, they usually put the crucial information in the 'lede' opening paragraph. Hiding big news later in the piece is known as "burying the lede". This idiom forms part of the inverted pyramid approach to writing: put the most important information first in an article or section, then fill out the details.
+* Don't bury the lede. When journalists write articles, they usually include crucial information in the opening paragraph. Hiding big news later in the piece is known as "burying the lede." This idiom forms part of the inverted pyramid approach to writing: put the most important information first in an article or section, then fill out the details.
 
-* Read widely, reflecting as you go. Why was that sentence hard to follow? Why did you like that section of text? Why was that turn of phrase annoying? What gave that paragraph its nice balance and rhythm? As Toni Morrison once put it: "Writing is really a way of thinking – not just feeling but thinking about things that are disparate, unresolved, mysterious, problematic or just sweet."
+* Read widely, reflecting as you go. Why was that sentence hard to follow? Why did you like that section of text? Why was that turn of phrase annoying? What gave that paragraph its nice balance and rhythm? As Toni Morrison once put it: "Writing is a way of thinking – not just feeling but thinking about things that are disparate, unresolved, mysterious, problematic or just sweet."
 
-* Make your reader care about what they're reading. Like a good story, that typically means outlining a clear problem, with the promise of a later resolution.
+* Make your readers care about what they're reading. Like a good story, this typically means outlining a clear problem and promising a later resolution.
 
-* The analysis wasn't done by some anonymous entity. You did the analysis. So avoid the passive voice if possible. (See also: "a decision was made" rather than "we made the decision" when it comes to responsibility-dodging in leadership messages.)
+* Some anonymous entities didn't do the analysis. You did the analysis. So avoid the passive voice if possible. (See also: "a decision was made" rather than "we made the decision" when it comes to responsibility-dodging in leadership messages.)
 
-* If you promise something in the introduction, make sure you've delivered by the end of the results. For example, if you open by mentioning A and B, readers will be expecting a conclusion about A and B by the end of the paper. "Remove everything that has no relevance to the story,' as Chekhov put it. "If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off."
+* If you promise something in the introduction, ensure you've delivered by the end of the results. For example, if you open by mentioning A and B, readers will be expecting a conclusion about A and B by the end of the paper. "Remove everything that has no relevance to the story,' as Chekhov put it. "If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter, it absolutely must go off."
 
 * Follow Orwell's rules of writing
-    * Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+    * Never use a metaphor, simile, or other figure of speech that you are used to seeing in print.
     * Never use a long word where a short one will do.
     If it is possible to cut a word out, always cut it out.
     * Never use the passive where you can use the active.
     * Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
     * Break any of these rules sooner than say anything outright barbarous.
 
-* Kill your darlings. Sometimes you'll write a phrase that is so elegant and so well crafted, it jars with the rest of your writing and pulls the reader out of the flow. So cut it. As Stephen King once put it: _'Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.'_
+* Kill your darlings. Sometimes, you'll write a so elegant and well-crafted phrase that it jars with the rest of your writing and pulls the reader out of the flow. So cut it. As Stephen King once put it: _'Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.'_
 
-* If you want to describe a figure/table in the results text, it can help to imagine you're giving a seminar. What features would you draw your audience's attention to? What would you tell people about in the coffee break?
+* If you want to describe a figure/table in the results text, it can help to imagine you're giving a seminar. What features would you draw your audience's attention to? What would you tell people about during coffee break?
 
-* Help the reader interpret your figures and tables. Don't give them a sixteen panel graph and expect them to spot the main takeaway; if the author can't be bothered to find a key message, the reader almost certainly won't either.
+* Help the reader interpret your figures and tables. Don't give them a sixteen-panel graph and expect them to spot the main takeaway; if the author can't be bothered to find a key message, the reader almost certainly won't either.
 
-* You can probably cut about half your word count if you really need to do, without losing your meaning. (I've managed to cut down a bunch of paper submissions into much shorter report formats when really pressed.)
+* You can probably cut your word count by about half if you need to, without losing meaning. (I've managed to cut down a bunch of paper submissions into much shorter report formats when pressed.)
 
 * A good intro and discussion will often include a reference or statistic most readers won't have been aware of. Try and find the best references, rather than the easiest ones.
 
@@ -161,8 +162,8 @@ See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method
 
 His document covers a small subset of components of a well-written manuscript.
 Some of these are soft writing rules/guidelines.
-They can be broken, but one usually has to understand why they exist in the first place before breaking them.
-If you are consciously breaking a rule in your view for a good reason, then go for it.
+They can be broken, but before breaking them, one usually has to understand why they exist.
+If you consciously break a rule in your view for a good reason, then go for it.
 Otherwise, stick to the guidelines.
 
 - [ ] Use active language
@@ -173,7 +174,7 @@ Otherwise, stick to the guidelines.
 - [ ] Use the present tense for the main part of the manuscript; past tense is allowed in some parts of the abstract and conclusions.
 - [ ] Avoid informal language
 - [ ] No superlatives (e.g., _very complicated_)
-- [ ] Limit the use of conjunctive (connecting) words (e.g., however, moreover). It's ok to just start a sentence!
+- [ ] Limit the use of conjunctive (connecting) words (e.g., however, moreover). It's ok just to start a sentence!
 - [ ] Limit repetitive words (don't substitute using the thesaurus, re-evaluate the sentences)
 - [ ] Don't use spoken contractions (e.g., it's)
 
