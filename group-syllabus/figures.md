@@ -15,7 +15,7 @@ I often also request small changes to figures to make them nicer.
 You might become quite frustrated if you have to re-do everything in Python + matplotlib, including re-running analysis, exporting the file, reuploading it, etc.
 With the method we use in the group, you pay the price __once__ to learn how to make very nice figures with TikZ/pgfplots, then reap the benefits until you decide to stop publishing your work (perhaps retirement).
 
-### What tool to use to make figures?
+### What tool should you use to make figures?
 
 Use TikZ and PGFplots.
 These are TeX packages that provide a natural way to achieve consistency.
@@ -57,8 +57,8 @@ to make all the arrows in latex form.
 
 ### Use of Git with Overleaf
 
-In order to create standalone figures in Overleaf, you will need to leverage its `git` feature.
-You simply go to the menu in the top-left of the browser and then select `git`.
+To create standalone figures in Overleaf, you should leverage its `git` feature.
+You simply go to the menu in the browser's top-left and then select `git`.
 This gives you a command to `git clone` your Overleaf document.
 You can `git add/commit/push` and `git pull` from this cloned directory.
 
@@ -72,12 +72,12 @@ __Paraview:__
 I believe Paraview has some functionality for this. Here is [a reference](https://www.paraview.org/Wiki/ParaView/Vector_Graphics_Export) and here is [another](https://scicomp.stackexchange.com/questions/36122/vector-format-export-for-screenshots) and [another](https://www.paraview.org/pipermail/paraview/2017-April/039969.html).
 Perhaps it exports a separate vector image for the text and/or legends?
 I am not entirely sure how it works.
-I welcome recommendations on how to best do this, but I know it is possible.
+I welcome recommendations on the best way to do this, but I know it is possible.
 
 Other rules:
 * __Background color:__ Do not use background colors in your visualizations, e.g., the dark blue used in Paraview.
 Instead, use a white background! It will blend nicely into the document. To get Paraview to create a proper white background instead of a grayish one, make sure you [turn off the light kit for all 2D visualizations!](https://visualisation.gitlab-pages.dkrz.de/documentation/Paraview/Light/deactivate-light-kit/index.html).
-* __File size:__ Do not use images that are very large. Images bigger than roughly 10MB are too large.
+* __File size:__ Do not use very large images. Images bigger than roughly 10MB are too large.
 
 
 ### How to label sub-figures
@@ -100,7 +100,7 @@ Your figures should not have titles.
 ### White space
 
 Minimize any excessive white space in journal/abstract figures.
-This helps match the figures with relevant text and makes the paper and figure generally more appealing.
+This helps match the figures with relevant text and makes the paper and figure more appealing.
 This can also prevent figures from floating into irrelevant sections.
 Remove all white space around the figure borders.
 Figures in presentations can afford a bit of extra white space.
@@ -114,13 +114,13 @@ This principle is discussed more [here](https://bioinformatics-core-shared-train
 
 * If the range is different but the axis label is the same, you can leave space for the tick labels for both but remove the axis label for the figures on the right.
 
-* If all the data are marked in the same way (lines, markers, etc.) in each subplot, only use one legend, likely centered above the plots, that can be interpreted as shared amongst all the subplots.
+* If all the data are marked similarly (lines, markers, etc.) in each subplot, only use one legend, likely centered above the plots, to be interpreted as shared amongst all the subplots.
 
 * Be specific with your legends. Your readers should be able to distinguish the data series by reading the legends only, not requiring the caption to determine what the figure means.
 
 ### Color bars
 
-If your data involves a color bar, use one that makes sense for the data you are plotting.
+If your data involves a color bar, use one that makes sense for the data you plot.
 You can read more about this online, like [here](https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/) or [here](https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization).
 Common guidelines are 
 * Don't use the rainbow/jet color scheme (read more about the problem with this [here](https://stats.stackexchange.com/questions/223315/why-use-colormap-viridis-over-jet))
@@ -133,9 +133,9 @@ Common guidelines are
 
 ### Coordinate direction arrow triad.
 
-Do not show the coordinate direction arrows (usually x, y, z) that are included in Paraview and Visit exports by default.
+Do not show the coordinate direction arrows (usually x, y, z) included in Paraview and Visit exports by default.
 An exception might be creating a simulation video that requires the viewer to know these orientations.
-If you are exporting an image, superimpose your own direction triad. if it is absolutely needed.
+If you are exporting an image, superimpose your own direction triad if needed.
 
 ### Axis bounds
 
@@ -175,7 +175,7 @@ The fonts used in the figures should match the face and size of the surrounding 
 LaTeX uses Computer Modern and Latin Modern font faces and 11pt sizes by default, though journal templates and class files may change this. 
 
 The font size of the captions below your figures should be one step smaller than that of your document (so 10pt if the document is nominally 11pt).
-The tick labels and axis labels should also be smaller than the nominal font size of your document; 9pt is usual here, and it should be consistently this size in your whole document.
+The tick and axis labels should also be smaller than the nominal font size of your document; 9pt is usual here, and it should be consistently this size throughout your document.
 
 **Rule:** Do _not_ scale your figures via the command
 ```tex
@@ -193,10 +193,11 @@ An excerpt from [Formatting your work](formatting.md).
 > One should keep styles consistent within a manuscript.
 > You might be forgiven for esoteric style choices if they are employed consistently.
 > From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
-> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5, too.
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest using the same color and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5, too.
 
 ### Useful references
 
+* [Principles of Beautiful Figures for Research Papers (must watch!)](https://www.youtube.com/watch?v=i-HAjex6VtM)
 * [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 * [How to make figures for scientific papers](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper)
 * [Brushing Up Science Figure Advice](https://brushingupscience.com/category/figures/)
