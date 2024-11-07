@@ -35,8 +35,8 @@
         * Creating an account [here](https://identity.access-ci.org/new-user.html)
         * Then, message Spencer on Slack with your username
    * On [NCSA Delta](https://docs.ncsa.illinois.edu/systems/delta/en/latest/)
-      * The account name is `bbsc-delta-gpu` for GPU resources
-      * The account name is `bbsc-delta-cpu` for CPU resources
+      * The account name is `bdiy-delta-gpu` for GPU resources
+      * The account name is `bdiy-delta-gpu` for CPU resources
 
 * Oak Ridge National Lab OLCF: Frontier/Wombat/Andes/etc.
     * Purpose
