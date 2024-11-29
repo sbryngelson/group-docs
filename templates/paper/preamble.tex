@@ -40,7 +40,8 @@
     separate-uncertainty = true,
     print-unity-mantissa=false,
     per-mode=symbol,
-    range-phrase = \text{--}
+    range-phrase = \text{--},
+    range-units=single
 }
 
 \usepackage[
@@ -71,9 +72,13 @@
 
 \usepackage[nameinlink]{cleveref}
 \crefname{equation}{}{}
+\def\appendixname{}
+\crefname{appendix}{}{}
+
 
 \usepackage[parfill]{parskip}
 
 \bibliographystyle{bibsty.bst}
 
 \newcommand{\spencer}[1]{\textcolor{seagreen}{[[Spencer says: #1]]}}
+\let\shb\spencer
