@@ -5,7 +5,7 @@
     * Login via `ssh <GTusername>@login-phoenix-rh9.pace.gatech.edu` to get the RHEL9 nodes
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware. 
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.
-    * Get access by ltting Spencer know, and he will fill out [this form](https://gatech.service-now.com/home?id=sc_cat_item&sys_id=61bc5e351b37f994a8622f4b234bcbf0) to get you access.
+    * To get access, let Spencer know, and he will fill out [this form](https://gatech.service-now.com/home?id=sc_cat_item&sys_id=61bc5e351b37f994a8622f4b234bcbf0).
  
 * GT ICE
   * [Resources/User guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095) (click `Available Resources`, e.g.)
@@ -16,21 +16,23 @@
 
 * GT Rogues Gallery 
     * User guide [here](https://gt-crnch-rg.readthedocs.io/en/main/)
-    * Purpose: Use of brand-new, forward-looking, or weird hardware. At the time of writing, including an NV H100 server, AMD MI210 GPU server, Bluefield-2/3 SmartNICs, RISC-V and ARM CPUs, etc.
-    * "Rules": Few rules, just follow guidelines in documentation. No limitations on hardware access/node hours.
+    * Purpose: Use of brand-new, forward-looking, or weird hardware. At the time of writing, it includes an NV H100 server, GH200 nodes, AMD MI210 GPU server, Bluefield-2/3 SmartNICs, RISC-V and Arm CPUs, etc.
+    * "Rules": There are few rules; just follow the guidelines in the documentation. There are no limitations on hardware access/node hours.
     * Get access via [this link](https://crnch-rg.cc.gatech.edu/request-rogues-gallery-access/)
 
 * GT Wingtip-gpu3
     * User guide [here](https://github.gatech.edu/cse-computing/compute-resources/blob/main/docs/systems/wingtip-gpu.md)
-    * Purpose: Small (but possibly very long) GPU jobs, hosts 5x NV A100-80GB at the moment
-    * "Rules": There is no scheduler on this machine, so be mindful of others' use of it.
+    * Purpose: Small (but possibly very long) GPU jobs, hosts 5x NV A100-80GB PCIe at the moment
+    * "Rules":  Be mindful of others' use of this machine as it does not have a scheduler.
     * Get access by emailing [Will Powell](mailto:will.powell@cc.gatech.edu), cc me.
 
 * ACCESS-CI computers
     * These are a set of university supercomputers listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. At the time of writing, we have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs), but we can change to others as needed. We primarily use NCSA Delta.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
-    * "Rules": Be mindful of the node hours that are available. Queue times might be long.
-    * Our account number: `PHY240200`
+    * "Rules": Be mindful of the available node hours. Queue times might be long.
+    * Our account number:
+       * `PHY240200` (ACCESS-CI Maximize, NCSA Delta only)
+       * `PHY210084` (ACCESS-CI Accelerate; Bridges2, Delta, and so on)
     * Get access by
         * Creating an account [here](https://identity.access-ci.org/new-user.html)
         * Then, message Spencer on Slack with your username
@@ -87,7 +89,7 @@
             * URL: `lc.llnl.gov`
             * Passcode: `[PIN] + [rsa one time password]`
             * Requires three logins to fully log in
-            * Can use to access collaboration tools such as Confluence and Gitlab, user documentation, and MyLC for alerts, machine status, and job status
+            * Can be used to access collaboration tools such as Confluence and Gitlab, user documentation, and MyLC for alerts, machine status, and job status
         * Onto a computer remotely
             * Can do the below with ssh (using my example username, `[usrname]`, for a specific LLNL machine, `[llnlmachine]`)
                 * `ssh [usrname]@[llnlmachine].llnl.gov`
