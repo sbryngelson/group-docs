@@ -137,7 +137,7 @@ Do not show the coordinate direction arrows (usually x, y, z) included in Paravi
 An exception might be creating a simulation video that requires the viewer to know these orientations.
 If you are exporting an image, superimpose your own direction triad if needed.
 
-### Axis bounds
+### Axis bounds and ticks
 
 Your axes should, whenever possible, start and end at labeled tick marks.
 This is especially important for log-scale axes.
@@ -146,6 +146,21 @@ In pgfplots, this is achieved with the options:
 `\begin{axis}[enlarge x limits=0, enlarge y limits=0]`.
 Avoid excessive text in tick marks when possible.
 For example, use `1, 2, 3, 4, 5` in units of `kHz` instead of `1000, 2000, 300, 4000, 5000` in units of `Hz`.
+
+### Axis labels
+
+In `tikz_preamble.tex`, the package `siunitx` is imported. If possible, use this to format your units. For example, if your units are in microseconds ($\mu \textrm{s}$), use `\unit{\micro\second}`. To access documentation on `siunitx`, visit [the package webpage here](https://ctan.org/pkg/siunitx?lang=en).
+
+For log-scale axes, be sure that you use actual quantities in the data you plot.
+For example, do not label your axis as "$2^x$ Points" where $x$ is linearly plotted on the axis.
+Log mode in pgfplots exists for a reason!
+
+In some cases, pgfplots will scale the axis label by some $k$-th power of $10$, indicated using $\cdot 10^n$. If possible, it would be preferable to replace the $\cdot$ symbol with $\times$. This may be done by ways of inserting the expression `tick scale binop=\times` in the axis environment.
+
+When naming your axes, ensure the chosen labels clearly convey what quantities or qualities they describe, and in almost all cases one should include the math symbol that describes any text in the label.
+For example, suppose you seek to indicate how your algorithm scales with the number of lattice sites.
+"Number of Lattice Sites $N$" conveys this intention, albeit long, and simply using "Lattice Sites" is unclear.
+Someone unfamiliar with the content may interpret this as referring to data describing different points on a given lattice.
 
 ### Information quantity
 
