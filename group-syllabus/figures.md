@@ -151,6 +151,10 @@ In `tikz_preamble.tex`, the package `siunitx` is imported. If possible, use this
 
 In some cases, Tikz will scale the axis label by some $k$-th power of $10$, indicated using $\cdot 10^n$. If possible, it would be preferable to replace the $\cdot$ symbol with $\times$. This may be done by ways of inserting the expression `tick scale binop=\times` in the axis environment.
 
+When naming your axes, ensure the chosen labels clearly convey what quantities or qualities they describe. For example, suppose you seek to indicate how your algorithm scales with the number of lattice sites. "Number of Lattice Sites" conveys this intention, albeit long. However, simply using "Lattice Sites" is unclear. Someone unfamiliar with the content may interpret this as referring to data describing different points on a given lattice.
+
+It may be helpful to indicate that the axis is logarithmic by including "(log)" in the axis label.
+
 ### Information quantity
 
 Your figures should only contain the information required to tell the story or demonstrate the desired results.
