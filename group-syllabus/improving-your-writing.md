@@ -59,6 +59,8 @@ Such mistakes are a quick way for an editor or reviewer to perceive your work as
 One should keep styles consistent within a manuscript.
 You might be forgiven for even poor style choices if you are consistent.
 Please look at the [these](formatting.md) documents for more.
+Note that this consistency extends to the level of detail throughout the paper.
+A detailed introduction is best matched with a results section that achieves a similar level of detail.
 
 ### Nomenclature
 
