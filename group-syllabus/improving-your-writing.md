@@ -43,6 +43,9 @@ Several of these exist.
 I use [Grammarly](https://www.grammarly.com/).
 It offers a free tier and a trial of the "pro" service at the time of writing.
 I purchased the full Grammarly and do not regret the purchase.
+The [Angry Reviewer](https://www.angryreviewer.com/) tool is also helpful for giving line-by-line feedback.
+A general list of rules used in this tool is available [here](https://www.angryreviewer.com/rules).
+We elaborate on this below.
 
 These tools can check for simple things, like improper spelling and grammar. 
 They can also identify more complicated style-related things, such as active and passive voices, repeated words and sentence-starters, "sticky sentences" (run-on sentences held together by many articles), and so on. 
@@ -56,6 +59,8 @@ Such mistakes are a quick way for an editor or reviewer to perceive your work as
 One should keep styles consistent within a manuscript.
 You might be forgiven for even poor style choices if you are consistent.
 Please look at the [these](formatting.md) documents for more.
+Note that this consistency extends to the level of detail throughout the paper.
+A detailed introduction is best matched with a results section that achieves a similar level of detail.
 
 ### Nomenclature
 
@@ -65,6 +70,26 @@ If you call your model a "physical model," do not switch to calling it a "numeri
 If you define your “mesh spacing” in one section, don't switch to "grid spacing" or "mesh resolution" later on.
 Don't use software-specific nomenclature.
 This confuses readers if they haven't used the software, and they may not plan to use it.
+
+### Variable Naming
+
+Names of variables should make sense for an outside reader.
+The objective is to make the paper as easily readable as possible.
+In some cases, there may be a standard variable used for the value.
+For example, consider how $c$ is used to denote the speed of sound.
+Using $m$ to denote the speed of sound is not invalid, but may be confusing at the outset.
+
+Beware of using too many distinct variables for quantities, especially related ones.
+This leads to confusion for the reader, who now must keep track of a variable table on top of the content of the work.
+Make use of subscripts to annotate the variable and simplify the naming scheme.
+For example, suppose we have the following values to be used in equations:
+- Number of samples
+- Number of lattice sites
+- Number of dimensions
+
+We may use $M$, $N$, and $K$ to denote each of these quantities.
+However, this is confusing and fails to show that we are simply counting the "number of [something]". 
+Instead, denote the values using variables $N_{samp.}$, $N_{sites}$, and $N_{dim.}$. 
 
 ### Concise writing
 
