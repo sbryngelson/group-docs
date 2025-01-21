@@ -86,8 +86,7 @@ I recommend you talk about this with me so I can give more personalized guidance
 
 ### Office space
 
-I cannot guarantee a desk in CODA S1347 (or elsewhere), especially as space seems tight (according to the school).
-However, I try to keep at least one "Bryngelson Group" desk that floats, and you can use it if no one else is (in CODA S1347).
+You will have a desk to use, including a 32" 4K monitor, keyboard, and mouse, in the group office space on the 13th floor of CODA.
 You are always welcome to use the CODA spaces on the 13th floor or otherwise.
 These areas seem quite pleasant to me, but you may disagree.
 If you would like somewhere to work but are still looking for a comfortable place, please let me know.
