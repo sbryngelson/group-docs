@@ -7,6 +7,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+### Georgia Tech
+
 * GT PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
     * Login via `ssh <GTusername>@login-phoenix-rh9.pace.gatech.edu` to get the RHEL9 nodes
@@ -33,6 +35,8 @@
     * "Rules":  Be mindful of others' use of this machine as it does not have a scheduler.
     * Get access by emailing [Will Powell](mailto:will.powell@cc.gatech.edu), cc me.
 
+### University Clusters
+
 * ACCESS-CI computers
     * These are a set of university supercomputers listed [here](https://access-ci.org/resource-providers/). Each has its own user guide. At the time of writing, we have access to NCSA Delta (A100 GPUs), PSC Bridges2 (V100 GPUs), Purdue Anvil, and Texas A&M ACES (H100 GPUs), but we can change to others as needed. We primarily use NCSA Delta.
     * Purpose: All-purpose resources for CPU and GPU simulation. 
@@ -46,6 +50,8 @@
    * On [NCSA Delta](https://docs.ncsa.illinois.edu/systems/delta/en/latest/)
       * The account name is `bdiy-delta-gpu` (ACCESS-CI Maximize) or `bbsc-delta-gpu` (ACCESS-CI Accelerate) for GPU resources
       * Replace `-gpu` with `-cpu` for CPU resources
+
+### DOE Labs
 
 * Oak Ridge National Lab OLCF: Frontier/Wombat/Andes/etc.
     * Purpose
@@ -101,6 +107,8 @@
             * Can do the below with ssh (using my example username, `[usrname]`, for a specific LLNL machine, `[llnlmachine]`)
                 * `ssh [usrname]@[llnlmachine].llnl.gov`
                 * Passcode: `[PIN] + [rsa one time password]`
+             
+### DOD Labs
 
 * Department of Defense
     * Anyone working on a DOD project can use [DOD HPCMP](https://www.hpc.mil/) (non-restricted) resources 
