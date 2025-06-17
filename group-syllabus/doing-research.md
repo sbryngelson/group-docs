@@ -31,6 +31,7 @@ Some guidelines on impact might include:
 - Why is this one of the most important questions in the field?
 - Will it inspire a new class of methods, systems, tools, or computers?
 
+
 **Who will care about it when you're done?**
 - Will government agencies care?
 - Will industry/companies care?
