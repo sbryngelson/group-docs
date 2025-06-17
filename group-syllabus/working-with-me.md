@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Working with Me](#working-with-me)
+  - [Advising "style"](#advising-style)
+    - [Spencer's quirks](#spencers-quirks)
+  - [Power Structures](#power-structures)
+  - [Co-advising](#co-advising)
+  - [Time with me and Others](#time-with-me-and-others)
+  - [How to get a hold of me](#how-to-get-a-hold-of-me)
+  - [Useful links](#useful-links)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Working with Me
 
 The advisor-advisee relationship represents a significant responsibility and commitment on both our parts.

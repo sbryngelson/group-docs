@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Whose hardware is this, anyway?](#whose-hardware-is-this-anyway)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Whose hardware is this, anyway?
 
 During your Ph.D. or, sometimes, undergraduate work, you will acquire hardware that appears to be "from me" to assist with your research.

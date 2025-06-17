@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [The Where and When of Working](#the-where-and-when-of-working)
+  - [Are you working enough? Or too much?](#are-you-working-enough-or-too-much)
+  - [Can I take a vacation?](#can-i-take-a-vacation)
+  - [Work location](#work-location)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## The Where and When of Working
 
 One of the biggest challenges for student researchers is time management.

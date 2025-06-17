@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Responding to reviewers](#responding-to-reviewers)
+  - [Principle of charity](#principle-of-charity)
+  - [Knowing what to and not to do](#knowing-what-to-and-not-to-do)
+  - [The details of a response document](#the-details-of-a-response-document)
+  - [Examples](#examples)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Responding to reviewers
 
 When you submit a paper, you will likely get reviews that request changes to your work.

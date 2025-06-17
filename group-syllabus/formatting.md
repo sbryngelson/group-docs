@@ -2,7 +2,10 @@
 
 **Companion documents: [Improving your writing](improving-your-writing.md), [Making a figure](figures.md)**
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
 - [Why should I read this?](#why-should-i-read-this)
 - [Consistency](#consistency)
 - [Compiling and other boilerplate](#compiling-and-other-boilerplate)
@@ -15,8 +18,11 @@
 - [Creating your bibliography](#creating-your-bibliography)
 - [Colors](#colors)
 - [Referencing equations, figures, tables, and sections](#referencing-equations-figures-tables-and-sections)
+  - [Figures, tables, sections](#figures-tables-sections)
+  - [Equations](#equations)
 - ["Dashes"](#dashes)
-<!-- tocstop -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Why should I read this?
 

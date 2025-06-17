@@ -4,7 +4,10 @@ Much of this 'syllabus' applies to undergraduates and graduate students.
 But, there are a few things specific to undergraduate researchers.
 Below is my attempt to explain them.
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
 - [Meetings](#meetings)
 - [Remote work](#remote-work)
 - [Money](#money)
@@ -15,7 +18,8 @@ Below is my attempt to explain them.
 - [Office space](#office-space)
 - [Working with people](#working-with-people)
 - [Going to conferences](#going-to-conferences)
-<!-- tocstop -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Meetings
 

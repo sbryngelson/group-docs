@@ -1,16 +1,11 @@
 ## Computers
 
-<!-- toc -->
-- [GT PACE Phoenix](#gt-pace-phoenix)
-- [GT ICE](#gt-ice)
-- [GT Rogues Gallery](#gt-rogues-gallery)
-- [GT Wingtip-gpu3](#gt-wingtip-gpu3)
-- [ACCESS-CI computers](#access-ci-computers)
-- [Oak Ridge National Lab OLCF](#oak-ridge-national-lab-olcf-frontierwombatandesetc)
-- [Sandia National Lab (SNL)](#sandia-national-lab-snl)
-- [LLNL Livermore Computing](#llnl-livermore-computing-lassen-tioga-etc)
-- [Department of Defense](#department-of-defense)
-<!-- tocstop -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 * GT PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)

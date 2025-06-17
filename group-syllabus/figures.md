@@ -2,7 +2,10 @@
 
 **Companion documents: [Formatting your work](formatting.md)**
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
 - [This seems like a lot of work. Why am I doing this?](#this-seems-like-a-lot-of-work-why-am-i-doing-this)
 - [What tool should you use to make figures?](#what-tool-should-you-use-to-make-figures)
 - [Standalone compilation](#standalone-compilation)
@@ -13,14 +16,15 @@
 - [White space](#white-space)
 - [Shared plots and legends](#shared-plots-and-legends)
 - [Color bars](#color-bars)
-- [Coordinate direction arrow triad](#coordinate-direction-arrow-triad)
+- [Coordinate direction arrow triad.](#coordinate-direction-arrow-triad)
 - [Axis bounds and ticks](#axis-bounds-and-ticks)
 - [Axis labels](#axis-labels)
 - [Information quantity](#information-quantity)
 - [Consistency](#consistency)
 - [Useful references](#useful-references)
 - [Additional Resources](#additional-resources)
-<!-- tocstop -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 See [here](../templates/paper/figures) for examples.
 

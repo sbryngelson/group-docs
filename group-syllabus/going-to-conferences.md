@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Submitting and going to conferences](#submitting-and-going-to-conferences)
+  - [What's the point, anyway?](#whats-the-point-anyway)
+  - [Am I going?!](#am-i-going)
+  - [Can I go to observe? (without a paper or abstract)](#can-i-go-to-observe-without-a-paper-or-abstract)
+  - [Registration, flights, and hotels](#registration-flights-and-hotels)
+  - [Spend authorization](#spend-authorization)
+  - [Actually going to the conference](#actually-going-to-the-conference)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Submitting and going to conferences
 
 __Related documents: [Giving talks](giving-talks.md)__
