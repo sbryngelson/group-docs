@@ -32,8 +32,8 @@ It ebbs and flows, depending on the interest of the students.
 ### What software/programming languages should I know?
 
 Proficiency in one high-level and one-level language is important.
-We often use Fortran (free-form) as a low-level langauge, but new projects may be more ammenable to C/C++.
-High-level langauges are mostly up to you, though I prefer you use Python to maximize the reach of your software.
+We often use Fortran (free-form) as a low-level language, but new projects may be more ammenable to C/C++.
+High-level languages are mostly up to you, though I prefer you use Python to maximize the reach of your software.
 Our group develops widely used open-source software like MFC, an exascale multi-phase flow solver.
 
 ## Academic Progress
