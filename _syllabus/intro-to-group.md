@@ -1,21 +1,13 @@
+---
+layout: page
+title: Welcome to the Group
+nav_order: 1
+description: "Welcome to the Computational Physics @ GT CSE research group"
+permalink: /syllabus/intro-to-group
+---
+
 <!-- Version: 1.0.0 -->
 <!-- Last Updated: 2025-06-17 -->
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Welcome to the Computational Physics @ GT CSE research group!](#welcome-to-the-computational-physics--gt-cse-research-group)
-  - [Getting started](#getting-started)
-    - [CODA](#coda)
-    - [Websites, software, course numbers, and such](#websites-software-course-numbers-and-such)
-    - [Computers](#computers)
-  - [Research meetings](#research-meetings)
-  - [Group GitHub Page](#group-github-page)
-  - [Collaboration](#collaboration)
-  - [Social activities](#social-activities)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Welcome to the Computational Physics @ GT CSE research group!
 
@@ -78,7 +70,7 @@ Send him your GTID number. Though times vary, it will likely take a week to "sta
 ### Computers
 
 We maintain access to many (super)computers and testbeds.
-We maintain a separate page on this [here](computers.md)
+We maintain a separate page on this [here]({% link _details/computers.md %})
 
 ## Research meetings
 
@@ -109,4 +101,4 @@ It makes us all better researchers.
 ## Social activities
 
 We try to arrange a group social activity at least every few months. 
-This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy.
+This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy. 
