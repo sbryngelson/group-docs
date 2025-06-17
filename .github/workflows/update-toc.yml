@@ -2,8 +2,6 @@ name: Update Markdown TOC
 
 on:
   push:
-    paths:
-      - 'group-syllabus/**.md'
     branches:
       - master
   workflow_dispatch:
