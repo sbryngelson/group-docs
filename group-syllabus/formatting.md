@@ -2,6 +2,22 @@
 
 **Companion documents: [Improving your writing](improving-your-writing.md), [Making a figure](figures.md)**
 
+<!-- toc -->
+- [Why should I read this?](#why-should-i-read-this)
+- [Consistency](#consistency)
+- [Compiling and other boilerplate](#compiling-and-other-boilerplate)
+- [Preamble and packages](#preamble-and-packages)
+- [Units](#units)
+- [Math symbols](#math-symbols)
+- [Scientific notation and large/small numbers](#scientific-notation-and-largesmall-numbers)
+- [Bibliography](#bibliography)
+- [Referencing your bibliography](#referencing-your-bibliography)
+- [Creating your bibliography](#creating-your-bibliography)
+- [Colors](#colors)
+- [Referencing equations, figures, tables, and sections](#referencing-equations-figures-tables-and-sections)
+- ["Dashes"](#dashes)
+<!-- tocstop -->
+
 ### Why should I read this?
 
 For better or worse, the quality of your figures correlates with the perceived quality of your work.
@@ -150,7 +166,7 @@ Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses
 I recommend the bibliography style file in the template at `templates/paper/bibsty.bst`.
 This is automatically handled if you use the paper template in this repository.
 This way, you will have access to text and parenthetical citations, which render as:
-> One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter’s accuracy depends on the parametric model’s quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
+> One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter's accuracy depends on the parametric model's quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
 via the code
 ```tex
 One can partially address this problem by working in Fourier space or fitting a parametric model to approximate the eddy diffusivity operator~\citep{hamba04,park21}. 

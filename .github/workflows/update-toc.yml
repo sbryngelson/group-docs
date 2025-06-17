@@ -1,0 +1,29 @@
+name: Update Markdown TOC
+
+on:
+  push:
+    paths:
+      - 'group-syllabus/**.md'
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  update-toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate TOC
+        uses: technote-space/toc-generator@v4
+        with:
+          TOC_TITLE: "## Table of Contents"
+          TARGET_PATHS: "group-syllabus/*.md"
+          FOLDING: false
+          CREATE_PR: true
+          COMMIT_MESSAGE: "Update TOC in markdown files"
+          COMMIT_NAME: "GitHub Action"
+          COMMIT_EMAIL: "action@github.com"
+          MAX_HEADER_LEVEL: 4 

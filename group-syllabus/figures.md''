@@ -2,8 +2,8 @@
 
 **Companion documents: [Formatting your work](formatting.md)**
 
-<!-- toc -->
-- [This seems like a lot of work. Why am I doing this?](#this-seems-like-a-lot-of-work-why-am-i-doing-this)
+## Table of Contents
+<!-- toc -->- [This seems like a lot of work. Why am I doing this?](#this-seems-like-a-lot-of-work-why-am-i-doing-this)
 - [What tool should you use to make figures?](#what-tool-should-you-use-to-make-figures)
 - [Standalone compilation](#standalone-compilation)
 - [Use of Git with Overleaf](#use-of-git-with-overleaf)
@@ -20,7 +20,6 @@
 - [Consistency](#consistency)
 - [Useful references](#useful-references)
 - [Additional Resources](#additional-resources)
-<!-- tocstop -->
 
 See [here](../templates/paper/figures) for examples.
 

@@ -1,7 +1,7 @@
 ## Computers
 
-<!-- toc -->
-- [GT PACE Phoenix](#gt-pace-phoenix)
+## Table of Contents
+<!-- toc -->- [GT PACE Phoenix](#gt-pace-phoenix)
 - [GT ICE](#gt-ice)
 - [GT Rogues Gallery](#gt-rogues-gallery)
 - [GT Wingtip-gpu3](#gt-wingtip-gpu3)
@@ -10,7 +10,6 @@
 - [Sandia National Lab (SNL)](#sandia-national-lab-snl)
 - [LLNL Livermore Computing](#llnl-livermore-computing-lassen-tioga-etc)
 - [Department of Defense](#department-of-defense)
-<!-- tocstop -->
 
 * GT PACE Phoenix
     * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)

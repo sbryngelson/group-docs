@@ -1,0 +1,20 @@
+# TOC Generator Configuration
+
+# Specific files to update
+INCLUDE_FILES:
+  - group-syllabus/formatting.md
+  - group-syllabus/improving-your-writing.md
+  - group-syllabus/figures.md
+  - group-syllabus/doing-research.md
+  - group-syllabus/giving-talks.md
+  - group-syllabus/computers.md
+  - group-syllabus/undergraduate-specifics.md
+
+# Marker comment settings
+OPENING_COMMENT: "<!-- toc -->"
+CLOSING_COMMENT: "<!-- tocstop -->"
+
+# TOC settings
+TOC_TITLE: "## Table of Contents"
+FOLDING: false
+MAX_HEADER_LEVEL: 4
