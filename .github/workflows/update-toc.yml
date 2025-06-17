@@ -8,6 +8,10 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   update-toc:
     runs-on: ubuntu-latest
@@ -15,14 +19,19 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.TOC_TOKEN }}
 
       - name: Generate TOC
         uses: technote-space/toc-generator@v4
         with:
+          GITHUB_TOKEN: ${{ secrets.TOC_TOKEN }}
           TOC_TITLE: "## Table of Contents"
           TARGET_PATHS: "group-syllabus/*.md"
           FOLDING: false
           CREATE_PR: true
+          PR_BRANCH_NAME: "update-toc-${PR_ID}"
+          PR_BRANCH_PREFIX: "toc-generator/"
+          PR_TITLE: "docs: update TOC"
           COMMIT_MESSAGE: "Update TOC in markdown files"
           COMMIT_NAME: "GitHub Action"
           COMMIT_EMAIL: "action@github.com"
