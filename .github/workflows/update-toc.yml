@@ -16,15 +16,15 @@ jobs:
   update-toc:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.TOC_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Generate TOC
         uses: technote-space/toc-generator@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.TOC_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           TOC_TITLE: "## Table of Contents"
           TARGET_PATHS: "group-syllabus/*.md"
           FOLDING: false
