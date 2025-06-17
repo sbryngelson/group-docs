@@ -10,6 +10,8 @@ AttributeIDSupressMenu = "AttributeIDSupressMenu"
 Daa = "Daa"
 aussian = "aussian"
 Mor = "Mor"
+youre = "youre"
+your = "your"
 
 [files]
 extend-exclude = ["templates/", "examples/"]
