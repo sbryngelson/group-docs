@@ -8,7 +8,7 @@ This directory contains utility scripts for maintaining the group documentation.
 
 This script adds TOC markers to markdown files that have a "## Table of Contents" heading.
 
-#### Usage
+#### Use
 
 ```bash
 ./scripts/add-toc-markers.sh <file.md> [file2.md ...]
