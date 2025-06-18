@@ -7,15 +7,6 @@ However, I would like you to prioritize your research and triage everything else
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Selecting problems](#selecting-problems)
-- [Expected Output](#expected-output)
-- [Staying organized](#staying-organized)
-- [Research Ideas and Directions](#research-ideas-and-directions)
-- [Where to find ideas](#where-to-find-ideas)
-- [Deciding what Ideas to Pursue](#deciding-what-ideas-to-pursue)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Selecting problems

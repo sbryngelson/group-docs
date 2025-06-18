@@ -5,15 +5,6 @@ Most professors will agree that the new faculty hired into the school are judged
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [What are you trying to achieve?](#what-are-you-trying-to-achieve)
-- [How to](#how-to)
-- [Feedback](#feedback)
-- [Q&A](#qa)
-  - [If you are answering the questions (you're the speaker)](#if-you-are-answering-the-questions-youre-the-speaker)
-  - [If you are asking the questions (you're in the audience)](#if-you-are-asking-the-questions-youre-in-the-audience)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### What are you trying to achieve?

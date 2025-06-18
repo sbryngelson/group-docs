@@ -1,17 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Welcome to the Computational Physics @ GT CSE research group!](#welcome-to-the-computational-physics--gt-cse-research-group)
-  - [Getting started](#getting-started)
-    - [CODA](#coda)
-    - [Websites, software, course numbers, and such](#websites-software-course-numbers-and-such)
-    - [Computers](#computers)
-  - [Research meetings](#research-meetings)
-  - [Group GitHub Page](#group-github-page)
-  - [Collaboration](#collaboration)
-  - [Social activities](#social-activities)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Welcome to the Computational Physics @ GT CSE research group!

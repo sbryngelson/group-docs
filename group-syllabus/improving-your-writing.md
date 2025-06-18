@@ -4,22 +4,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Why should I read this?](#why-should-i-read-this)
-- [Automatic grammar, spelling, and syntax checkers](#automatic-grammar-spelling-and-syntax-checkers)
-- [Consistency](#consistency)
-- [Nomenclature](#nomenclature)
-- [Variable Naming](#variable-naming)
-- [Concise writing](#concise-writing)
-- [What goes where](#what-goes-where)
-- [Guidelines, tips, and more!](#guidelines-tips-and-more)
-  - [Things to avoid; from the Angry Reviewer](#things-to-avoid-from-the-angry-reviewer)
-  - [From some tips for scientific writing](#from-some-tips-for-scientific-writing)
-  - [From Koen Hufkens](#from-koen-hufkens)
-- [Required watching](#required-watching)
-- [Other links](#other-links)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Why should I read this?

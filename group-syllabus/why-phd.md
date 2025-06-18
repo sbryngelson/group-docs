@@ -1,10 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [The What and Why of a Ph.D.](#the-what-and-why-of-a-phd)
-  - [How long is a Ph.D.?](#how-long-is-a-phd)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## The What and Why of a Ph.D.

@@ -2,13 +2,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Georgia Tech](#georgia-tech)
-- [University Clusters](#university-clusters)
-- [DOE Labs](#doe-labs)
-- [DOD Labs](#dod-labs)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Georgia Tech

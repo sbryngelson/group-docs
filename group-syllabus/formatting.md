@@ -4,24 +4,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Why should I read this?](#why-should-i-read-this)
-- [Consistency](#consistency)
-- [Compiling and other boilerplate](#compiling-and-other-boilerplate)
-- [Preamble and packages](#preamble-and-packages)
-- [Units](#units)
-- [Math symbols](#math-symbols)
-- [Scientific notation and large/small numbers](#scientific-notation-and-largesmall-numbers)
-- [Bibliography](#bibliography)
-- [Referencing your bibliography](#referencing-your-bibliography)
-- [Creating your bibliography](#creating-your-bibliography)
-- [Colors](#colors)
-- [Referencing equations, figures, tables, and sections](#referencing-equations-figures-tables-and-sections)
-  - [Figures, tables, sections](#figures-tables-sections)
-  - [Equations](#equations)
-- ["Dashes"](#dashes)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Why should I read this?

@@ -1,13 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Publishing](#publishing)
-  - [Important: The "-X days" internal revision process and deadlines](#important-the--x-days-internal-revision-process-and-deadlines)
-  - [Process: writing alone, better together](#process-writing-alone-better-together)
-  - [Co-authorship](#co-authorship)
-  - [Conference and Other Presentations](#conference-and-other-presentations)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Publishing

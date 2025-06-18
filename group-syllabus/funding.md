@@ -1,12 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Funding](#funding)
-  - [Research and Teaching Assistantship](#research-and-teaching-assistantship)
-  - [Fellowships](#fellowships)
-  - [Stipend](#stipend)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Funding

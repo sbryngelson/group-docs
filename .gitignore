@@ -13,3 +13,60 @@ tags
 **.blg
 **.spl
 **.out
+
+# ReadTheDocs build artifacts
+docs/_build/
+docs/_autosummary/
+
+# Generated documentation files
+# We exclude all files in docs/ except for specific configuration files
+docs/*
+!docs/conf.py
+!docs/index.md
+!docs/README.md
+!docs/_static/
+!docs/_templates/
+
+# Keep static and templates directories but ignore their contents
+docs/_static/*
+!docs/_static/.gitkeep
+docs/_templates/*
+!docs/_templates/.gitkeep
+
+# Python virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
