@@ -67,21 +67,67 @@ To build and view the documentation locally:
 
 ## 🔄 Automated Workflow
 
-This repository uses GitHub Actions to automate the documentation process:
+The documentation workflow is as follows:
 
-1. When you push changes to the `group-syllabus` directory, a GitHub Action is triggered.
-2. The action runs `scripts/prepare_docs.py` to process the markdown files.
-3. The processed files are force-added to the repository (overriding .gitignore).
-4. ReadTheDocs automatically builds and deploys the updated documentation.
+1. Edit the original markdown files in the `group-syllabus/` directory
+2. Run `python scripts/prepare_docs.py` to process the files and copy them to the `docs/` directory
+3. The script performs the following operations:
+   - Removes TOC markers from markdown files
+   - Fixes internal links for ReadTheDocs compatibility
+   - Converts template links to GitHub repository links with the correct branch (master)
+   - Fixes links in the index.md file to use proper extensions
+   - Synchronizes readme.md to docs/index.md
+   - Adds toctree directives for ReadTheDocs navigation
+4. Run `make docs` to build the documentation
+5. Run `make serve` to preview the documentation locally
 
-### Source Control Strategy
+## 🚀 GitHub Actions Integration
 
-We use a specific source control strategy:
+A GitHub Action is configured to automatically run the prepare_docs.py script when changes are made to the markdown files. This ensures that the documentation is always up-to-date with the latest content.
 
-1. The original markdown files in `group-syllabus/` are the source of truth and tracked in git.
-2. The processed files in `docs/` are generated and normally excluded via .gitignore.
-3. The GitHub Action force-adds these files when changes are made.
-4. This approach keeps the repository clean while ensuring ReadTheDocs has the files it needs.
+The GitHub Action performs the following steps:
+1. Checks out the repository
+2. Sets up Python
+3. Installs dependencies
+4. Runs the prepare_docs.py script
+5. Commits and pushes the changes to the repository
+
+## 📝 Documentation Files
+
+The documentation includes the following files:
+
+- `README_DOCS.md`: This file, explaining the documentation system
+- `READTHEDOCS_SETUP.md`: Instructions for setting up ReadTheDocs
+- `Makefile`: Commands for building and serving the documentation locally
+- `scripts/prepare_docs.py`: Script for processing markdown files for ReadTheDocs compatibility
+
+## 🔧 Commands
+
+The following commands are available in the Makefile:
+
+- `make docs`: Build the documentation
+- `make serve`: Serve the documentation locally
+- `make clean`: Clean the build directory
+
+## 📋 Notes on Link Handling
+
+The `prepare_docs.py` script handles various types of links to ensure they work correctly in ReadTheDocs:
+
+1. Internal links between markdown files are fixed to work in the ReadTheDocs HTML structure
+2. Links to template files are converted to GitHub repository links pointing to the master branch
+3. Links in the index.md file are properly formatted with correct extensions
+4. The `.md` extension is removed from links as ReadTheDocs uses `.html` extensions
+5. Special handling for the CONTRIBUTING.md link to point to the GitHub repository
+
+## 🔍 Known Issues with External Links
+
+Some external links may not work in the documentation due to the following reasons:
+
+1. Georgia Tech-specific resources (Box folders, Outlook calendar) require authentication
+2. Some external websites may be temporarily unavailable or have changed URLs
+3. Email addresses with URL encoding may not work correctly
+
+These external links need to be updated in the original markdown files if needed.
 
 ## 🌐 Deployment on ReadTheDocs
 
